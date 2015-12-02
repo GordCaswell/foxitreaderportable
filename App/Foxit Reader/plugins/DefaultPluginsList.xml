@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DefaultPluginsList version="1">
+	<Plugin Name="FoxitInnerPluginFoxitUpdater"
+		FriendlyName="FoxitUpdater"
+		Description=""
+		PIPath="Updater.fpi"
+		LoadBehavior="0"
+		MinVersion="7.2.0.430"
+	/>
+
+	<Plugin Name="FoxitInnerPluginPlgDynLoader"
+		FriendlyName="PlgDynLoader"
+		Description=""
+		PIPath="PlgDynLoader.fpi"
+		LoadBehavior="0"
+		MinVersion="1.0.3.430"
+	/>
+
+	<Plugin Name="FoxitInnerPluginCommentsSummary"
+		FriendlyName="CommentsSummary"
+		Description=""
+		PIPath="CommentsSummary.fpi"
+		LoadBehavior="9"
+		MinVersion="2.1.1.408"
+	/>
+
+	<Plugin Name="FoxitInnerPluginDocuSign"
+		FriendlyName="DocuSign"
+		Description=""
+		PIPath="docusign_plugin.fpi"
+		LoadBehavior="9"
+		MinVersion="7.2.0.430"
+	/>
+
+	<Plugin Name="FoxitInnerPluginFacebook"
+		FriendlyName="Facebook"
+		Description=""
+		PIPath="facebook_plugin.fpi"
+		LoadBehavior="9"
+		MinVersion="2.0.3.423"
+	/>
+
+	<Plugin Name="FileOpen"
+		FriendlyName="FileOpen"
+		Description=""
+		PIPath="FileOpen.fpi"
+		LoadBehavior="9"
+		MinVersion="7.1.0.106"
+	/>
+
+  	<Plugin Name="FoxitInnerPluginFoxitRMS_V2"
+		FriendlyName="FoxitRMS_V2"
+		Description=""
+		PIPath="FRMSPlgV2.fpi"
+		LoadBehavior="9"
+		MinVersion="4.3.0.504"
+	/>
+
+	<Plugin Name="FoxitInnerPluginIntegrateWithSP"
+		FriendlyName="IntegrateWithSP"
+		Description=""
+		PIPath="IntegrateWithSP.fpi"
+		LoadBehavior="9"
+		MinVersion="2.3.1.331"
+	/>
+
+	<Plugin Name="FoxitInnerPluginReadOutLoud"
+		FriendlyName="Speech"
+		Description=""
+		PIPath="Speech.fpi"
+		LoadBehavior="9"
+		MinVersion="1.1.4.204"
+	/>
+
+	<Plugin Name="FoxitInnerPluginShareReview"
+		FriendlyName="ShareReview"
+		Description=""
+		PIPath="ShareReviewPlugin.fpi"
+		LoadBehavior="9"
+		MinVersion="1.2.0.504"
+	/>
+	<Plugin Name="FoxitInnerPluginDocoShare"
+		FriendlyName="FoxitInnerPluginDocoShare"
+		Description=""
+		PIPath="DocoShare.fpi"
+		LoadBehavior="3"
+		MinVersion="3.6.122.702"
+	/>
+	<Plugin Name="FoxitInnerPluginFoxitCloudLogin"
+		FriendlyName="FoxitInnerPluginFoxitCloudLogin"
+		Description=""
+		PIPath="FoxitCloudLogin.fpi"
+		LoadBehavior="3"
+		MinVersion="3.6.122.702"
+	/>
+	<Plugin Name="FoxitInnerPluginFoxitCloud"
+		FriendlyName="FoxitInnerPluginFoxitCloud"
+		Description=""
+		PIPath="FoxitCloud.fpi"
+		LoadBehavior="3"
+		MinVersion="3.6.122.702"
+	/>
+</DefaultPluginsList>
