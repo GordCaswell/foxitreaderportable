@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Reader version="7.2.0.0722" language="Vietnamese" publisher="Foxit" lastdate="2015-08-06">
+<Reader version="7.2.8.1124" language="Vietnamese" publisher="Foxit" lastdate="2015-10-22">
 <Activation>
 <Dialogs>
-<Dialog id="1004" text="Input Email" left="0" top="0" width="519" height="157">
+<Dialog id="1004" text="Input Email" left="0" top="0" width="529" height="167">
 <dlgitem id="1" text="Đồng ý" left="312" top="91" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="413" top="91" width="88" height="25"/>
 <dlgitem id="1028" text="Please input the original email address used with previous registration:" left="12" top="23" width="488" height="18"/>
 <dlgitem id="1021" text="" left="12" top="54" width="488" height="23"/>
 </Dialog>
-<Dialog id="1011" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="458">
+<Dialog id="1011" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="627" height="468">
 <dlgitem id="1" text="Activate Now(&amp;N)" left="399" top="392" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="509" top="392" width="88" height="25"/>
 <dlgitem id="1144" text="&lt;Trở lại(&amp;B)" left="289" top="392" width="88" height="25"/>
@@ -19,7 +19,7 @@
 <dlgitem id="1048" text="image(PNG)" left="26" top="172" width="560" height="182"/>
 <dlgitem id="1049" text="" left="0" top="380" width="609" height="2"/>
 </Dialog>
-<Dialog id="1126" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="458">
+<Dialog id="1126" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="627" height="468">
 <dlgitem id="1022" text="" left="25" top="142" width="562" height="179"/>
 <dlgitem id="1136" text="Please input the code of the registration key below, You can also activate it later by &quot;Help -&gt; Activation&quot;." left="26" top="70" width="555" height="42"/>
 <dlgitem id="1133" text="image(PNG)" left="0" top="0" width="611" height="65"/>
@@ -30,7 +30,7 @@
 <dlgitem id="1403" text="If you do not have a registration key, you can purchase one at:" left="26" top="327" width="369" height="19"/>
 <dlgitem id="1404" text="Foxit Online Store" left="226" top="352" width="140" height="19"/>
 </Dialog>
-<Dialog id="1127" text="z" left="0" top="0" width="617" height="458">
+<Dialog id="1127" text="z" left="0" top="0" width="627" height="468">
 <dlgitem id="1133" text="image(PNG)" left="0" top="0" width="614" height="65"/>
 <dlgitem id="1135" text="Static" left="23" top="79" width="569" height="39"/>
 <dlgitem id="1136" text="dấu hoa thị(*) là trường bắt buộc" left="215" top="135" width="186" height="23"/>
@@ -55,7 +55,7 @@
 <dlgitem id="1035" text="*" left="434" top="291" width="14" height="14"/>
 <dlgitem id="1036" text="*" left="434" top="327" width="14" height="14"/>
 </Dialog>
-<Dialog id="1205" text="Dialog" left="0" top="0" width="617" height="458">
+<Dialog id="1205" text="Dialog" left="0" top="0" width="627" height="468">
 <dlgitem id="1448" text="Subscription" left="271" top="357" width="105" height="23"/>
 <dlgitem id="1449" text="Perpetual key" left="46" top="357" width="105" height="23"/>
 <dlgitem id="1450" text="Free Trial" left="453" top="357" width="121" height="23"/>
@@ -66,7 +66,7 @@
 <dlgitem id="1389" text="" left="425" top="212" width="2" height="166"/>
 <dlgitem id="1388" text="" left="224" top="212" width="2" height="166"/>
 </Dialog>
-<Dialog id="1207" text="Dialog" left="0" top="0" width="624" height="437">
+<Dialog id="1207" text="Dialog" left="0" top="0" width="634" height="447">
 <dlgitem id="1" text="Activate(&amp;A)" left="271" top="343" width="105" height="23"/>
 <dlgitem id="1023" text="Buy Now(&amp;B)" left="46" top="343" width="105" height="23"/>
 <dlgitem id="1037" text="Continue Evaluation(&amp;C)" left="453" top="343" width="121" height="23"/>
@@ -121,8 +121,8 @@
 <string id="1201" text="Foxit PhantomPDF Activation"/>
 <string id="1209" text="Invalid email address!"/>
 <string id="1210" text="Invalid registration key! Error code: %s"/>
-<string id="1211" text="Registration key invalid for %s [%s]. Error code: %s"/>
-<string id="1212" text="Registration key invalid for %s [%s] which the key version is [%s]. Error code: %s"/>
+<string id="1211" text="Registration key is invalid for %s [%s]. Error code: %s"/>
+<string id="1212" text="Registration key is invalid for %s [%s] which the key version is [%s]. Error code: %s"/>
 <string id="1213" text="Failed to get License Key File. Error code: %s"/>
 <string id="1214" text="Maximum registration count reached. Error code: %s"/>
 <string id="1215" text="Please choose one of the following options:"/>
@@ -182,7 +182,7 @@
 <string id="1322" text="Please input your User Name to finish the activation."/>
 <string id="1324" text="Product Code is invalid. Error code: %s"/>
 <string id="1329" text="Please fill in the User Name Field below to finish your activation.\nYou will need to connect to the Internet."/>
-<string id="1330" text="You should use license key file to activate %s on Windows Server, please contact Foxit Sales at %s for more details. You can keep your 30 days free trail on Server."/>
+<string id="1330" text="You should use license key file to activate %s on Windows Server, please contact Foxit Sales at %s for more details. You can keep your 30 days free trial on Server."/>
 <string id="1331" text="Continue Use"/>
 <string id="1335" text="The registration key code cannot activate this version.(Code:%s)."/>
 <string id="1336" text="Purchase a license for %s edition, or contact us at:"/>
@@ -325,7 +325,7 @@
 <dlgitem id="20018" text="Sửa(&amp;E)" left="224" top="317" width="72" height="25"/>
 <dlgitem id="20016" text="Xóa(&amp;D)" left="310" top="317" width="72" height="25"/>
 </Dialog>
-<Dialog id="20037" text="Place on Multiple Pages" left="0" top="0" width="305" height="197">
+<Dialog id="20037" text="Place on Multiple Pages" left="0" top="0" width="315" height="207">
 <dlgitem id="4294967295" text="Page Range" left="12" top="4" width="284" height="116"/>
 <dlgitem id="20006" text="Tất cả các trang" left="23" top="26" width="102" height="18"/>
 <dlgitem id="20007" text="From:" left="23" top="58" width="49" height="18"/>
@@ -495,7 +495,7 @@
 <dlgitem id="27039" text="Run form recognition when creating PDF in %s" left="16" top="156" width="480" height="19"/>
 <dlgitem id="27045" text="Enable smart non-interactive field detection and filling mode with typewriter tool." left="16" top="168" width="494" height="18"/>
 </Dialog>
-<Dialog id="27030" text="Export multiple forms to a sheet" left="0" top="0" width="431" height="451">
+<Dialog id="27030" text="Export multiple forms to a sheet" left="0" top="0" width="441" height="461">
 <dlgitem id="1" text="Export" left="200" top="375" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="305" top="375" width="88" height="25"/>
 <dlgitem id="27040" text="Thêm tập tin...(&amp;A)" left="28" top="23" width="110" height="26"/>
@@ -639,7 +639,7 @@
 </BookmarkPanelTool_DLL>
 <CheckLicence_Dll>
 <Dialogs>
-<Dialog id="102" text="Foxit Reader" left="0" top="0" width="473" height="215">
+<Dialog id="102" text="Foxit Reader" left="0" top="0" width="483" height="225">
 <dlgitem id="1" text="Buy" left="345" top="140" width="88" height="25"/>
 <dlgitem id="1010" text="" left="12" top="14" width="32" height="32"/>
 <dlgitem id="5303" text="Thank you for your interest in the RMS Plug-in for Foxit Reader. Your 30-day free trial has expired. You need a valid license to active this plug-in. If you already have a license, please Active it now. Otherwise, please contact us at:" left="65" top="14" width="380" height="72"/>
@@ -648,7 +648,7 @@
 <dlgitem id="5307" text="Sales and Information - sales@foxitsoftware.com" left="68" top="114" width="380" height="26"/>
 <dlgitem id="5306" text="Don't show this message again" left="25" top="147" width="28" height="18"/>
 </Dialog>
-<Dialog id="103" text="Foxit Reader" left="0" top="0" width="536" height="269">
+<Dialog id="103" text="Foxit Reader" left="0" top="0" width="546" height="279">
 <dlgitem id="1" text="Buy" left="277" top="200" width="88" height="25"/>
 <dlgitem id="1011" text="" left="16" top="14" width="32" height="32"/>
 <dlgitem id="5303" text="Thank you for using the RMS Plug-in for Foxit Reader. You can use the plug-in to RMS protect files and open protected files." left="56" top="14" width="441" height="39"/>
@@ -659,7 +659,7 @@
 <dlgitem id="1012" text="A license is required to use this plug-in. If you have a license, please activate now. Foxit offers a free %d-day trial. You can click on the &quot;Continue Free Trial&quot; to start the trial today." left="56" top="58" width="441" height="46"/>
 <dlgitem id="1013" text="To purchase the plugin, please contact us at:" left="56" top="112" width="441" height="21"/>
 </Dialog>
-<Dialog id="104" text="Foxit PhantomPDF" left="0" top="0" width="431" height="218">
+<Dialog id="104" text="Foxit PhantomPDF" left="0" top="0" width="441" height="228">
 <dlgitem id="1005" text="" left="16" top="12" width="32" height="32"/>
 <dlgitem id="5305" text="Activate(&amp;A)" left="12" top="151" width="88" height="25"/>
 <dlgitem id="1006" text="Your license or free trial has expired." left="61" top="19" width="250" height="21"/>
@@ -741,7 +741,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="32600" text="Convert Multiple Files" left="0" top="0" width="704" height="503">
+<Dialog id="32600" text="Convert Multiple Files" left="0" top="0" width="714" height="513">
 <dlgitem id="32606" text="Thêm tập tin...(&amp;A)" left="9" top="11" width="95" height="25"/>
 <dlgitem id="32605" text="List1" left="9" top="63" width="681" height="198"/>
 <dlgitem id="0" text="" left="0" top="0" width="677" height="24"/>
@@ -758,7 +758,7 @@
 <dlgitem id="4294967295" text="Arrange your files" left="9" top="39" width="681" height="268"/>
 <dlgitem id="32614" text="Total 0 Files" left="548" top="18" width="135" height="14"/>
 </Dialog>
-<Dialog id="32631" text="Mật khẩu" left="0" top="0" width="438" height="157">
+<Dialog id="32631" text="Mật khẩu" left="0" top="0" width="448" height="167">
 <dlgitem id="32633" text="Nhập mật khẩu:" left="61" top="61" width="98" height="14"/>
 <dlgitem id="32635" text="" left="165" top="56" width="207" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="233" top="91" width="88" height="25"/>
@@ -766,7 +766,7 @@
 <dlgitem id="32637" text="Tập tin này đã được bảo vệ. Xin vui lòng nhập mật khẩu để mở nó." left="61" top="14" width="357" height="30"/>
 <dlgitem id="32698" text="" left="12" top="14" width="35" height="35"/>
 </Dialog>
-<Dialog id="32718" text="Open PDF Files" left="0" top="0" width="400" height="418">
+<Dialog id="32718" text="Open PDF Files" left="0" top="0" width="410" height="428">
 <dlgitem id="1" text="Thêm tập tin" left="159" top="352" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="294" top="352" width="88" height="25"/>
 <dlgitem id="32740" text="List1" left="12" top="12" width="369" height="329"/>
@@ -926,7 +926,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="20500" text="JavaScript Functions" left="0" top="0" width="521" height="453">
+<Dialog id="20500" text="JavaScript Functions" left="0" top="0" width="531" height="463">
 <dlgitem id="2" text="Đóng(&amp;C)" left="394" top="53" width="88" height="25"/>
 <dlgitem id="4294967295" text="Script Name:(&amp;N)" left="21" top="18" width="158" height="14"/>
 <dlgitem id="20501" text="" left="21" top="39" width="350" height="23"/>
@@ -959,7 +959,7 @@
 <dlgitem id="20693" text="Hide window controls(&amp;w)" left="392" top="291" width="170" height="23"/>
 <dlgitem id="20701" text="For security reasons, documents cannot automatically hide all user interface elements." left="42" top="315" width="509" height="19"/>
 </Dialog>
-<Dialog id="20581" text="Page Numbers" left="0" top="0" width="475" height="421">
+<Dialog id="20581" text="Page Numbers" left="0" top="0" width="485" height="431">
 <dlgitem id="20976" text="Pages" left="16" top="12" width="438" height="112"/>
 <dlgitem id="20648" text="Tất cả các trang" left="28" top="37" width="68" height="18"/>
 <dlgitem id="20977" text="Selected" left="28" top="65" width="68" height="18"/>
@@ -1003,13 +1003,13 @@
 <dlgitem id="20684" text="" left="30" top="173" width="207" height="23"/>
 <dlgitem id="20685" text="" left="30" top="201" width="207" height="23"/>
 </Dialog>
-<Dialog id="20605" text="Create web links" left="0" top="0" width="559" height="150">
+<Dialog id="20605" text="Create web links" left="0" top="0" width="569" height="160">
 <dlgitem id="1" text="Đồng ý" left="359" top="84" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="453" top="84" width="88" height="25"/>
 <dlgitem id="20788" text="Don't ask again" left="30" top="77" width="138" height="18"/>
 <dlgitem id="4294967295" text="This operation cannot be undone using the Undo button. You can remove all links using the &quot;remove all links&quot; button. Would you like to proceed?" left="28" top="25" width="497" height="39"/>
 </Dialog>
-<Dialog id="20658" text="Compare PDF Files" left="0" top="0" width="739" height="647">
+<Dialog id="20658" text="Compare PDF Files" left="0" top="0" width="749" height="657">
 <dlgitem id="20626" text="Compare (initial document)(&amp;m)" left="32" top="35" width="329" height="348"/>
 <dlgitem id="20627" text="" left="49" top="63" width="196" height="22"/>
 <dlgitem id="20628" text="chọn...(&amp;h)" left="261" top="61" width="81" height="25"/>
@@ -1073,7 +1073,7 @@
 <dlgitem id="20727" text="" left="411" top="432" width="154" height="14"/>
 <dlgitem id="20728" text="More...(&amp;M)" left="506" top="457" width="70" height="25"/>
 </Dialog>
-<Dialog id="20706" text="Page Transitions" left="0" top="0" width="375" height="370">
+<Dialog id="20706" text="Page Transitions" left="0" top="0" width="385" height="380">
 <dlgitem id="20514" text="Page Transition" left="12" top="12" width="347" height="145"/>
 <dlgitem id="20515" text="Transition:(&amp;n)" left="28" top="44" width="60" height="18"/>
 <dlgitem id="20516" text="" left="107" top="44" width="215" height="22"/>
@@ -1093,7 +1093,7 @@
 <dlgitem id="21790" text="Static" left="121" top="252" width="61" height="23"/>
 <dlgitem id="21789" text="Static" left="217" top="252" width="61" height="21"/>
 </Dialog>
-<Dialog id="20739" text="Document Actions" left="0" top="0" width="353" height="381">
+<Dialog id="20739" text="Document Actions" left="0" top="0" width="363" height="391">
 <dlgitem id="1" text="Đồng ý" left="124" top="317" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="240" top="315" width="88" height="25"/>
 <dlgitem id="20742" text="When this happens...(&amp;W)" left="23" top="18" width="284" height="21"/>
@@ -1102,7 +1102,7 @@
 <dlgitem id="20744" text="Execute this Javascript:" left="23" top="166" width="278" height="19"/>
 <dlgitem id="20740" text="" left="23" top="191" width="305" height="107"/>
 </Dialog>
-<Dialog id="20775" text="Create web links" left="0" top="0" width="430" height="225">
+<Dialog id="20775" text="Create web links" left="0" top="0" width="440" height="235">
 <dlgitem id="1" text="Đồng ý" left="205" top="152" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="308" top="152" width="88" height="25"/>
 <dlgitem id="20773" text="Tất cả(&amp;A)" left="47" top="53" width="40" height="18"/>
@@ -1113,7 +1113,7 @@
 <dlgitem id="20770" text="Automatically generate web links on which pages?" left="47" top="25" width="364" height="14"/>
 <dlgitem id="20768" text="of %d pages" left="261" top="102" width="91" height="19"/>
 </Dialog>
-<Dialog id="20793" text="Form Field Recognition" left="0" top="0" width="437" height="428">
+<Dialog id="20793" text="Form Field Recognition" left="0" top="0" width="447" height="438">
 <dlgitem id="1" text="Đồng ý" left="324" top="362" width="88" height="25"/>
 <dlgitem id="20787" text="Your PDF Form has been created." left="28" top="26" width="376" height="23"/>
 <dlgitem id="20788" text="During creation, Foxit may have missed some fields or created extraneous fields." left="28" top="56" width="376" height="32"/>
@@ -1373,7 +1373,7 @@
 <dlgitem id="1013" text="Xóa(&amp;D)" left="422" top="273" width="88" height="25"/>
 <dlgitem id="1014" text="Select(&amp;S)" left="42" top="273" width="88" height="25"/>
 </Dialog>
-<Dialog id="18603" text="Add SMTP Account" left="0" top="0" width="438" height="234">
+<Dialog id="18603" text="Add SMTP Account" left="0" top="0" width="448" height="244">
 <dlgitem id="1018" text="" left="140" top="12" width="280" height="25"/>
 <dlgitem id="1019" text="" left="140" top="42" width="280" height="25"/>
 <dlgitem id="1016" text="" left="140" top="72" width="280" height="25"/>
@@ -1389,7 +1389,7 @@
 <dlgitem id="1024" text="Smtp Port:" left="12" top="107" width="109" height="14"/>
 <dlgitem id="1027" text="Security:" left="12" top="138" width="109" height="14"/>
 </Dialog>
-<Dialog id="18604" text="Edit Smtp Account" left="0" top="0" width="438" height="234">
+<Dialog id="18604" text="Edit Smtp Account" left="0" top="0" width="448" height="244">
 <dlgitem id="1018" text="" left="140" top="12" width="280" height="25"/>
 <dlgitem id="1019" text="" left="140" top="42" width="280" height="25"/>
 <dlgitem id="1016" text="" left="140" top="74" width="280" height="25"/>
@@ -1405,7 +1405,7 @@
 <dlgitem id="1024" text="Smtp Port:" left="12" top="109" width="110" height="14"/>
 <dlgitem id="1027" text="Security:" left="12" top="138" width="110" height="14"/>
 </Dialog>
-<Dialog id="18605" text="Send Mail" left="0" top="0" width="451" height="335">
+<Dialog id="18605" text="Send Mail" left="0" top="0" width="461" height="345">
 <dlgitem id="1033" text="Send(&amp;S)" left="250" top="270" width="88" height="25"/>
 <dlgitem id="1034" text="Hủy bỏ(&amp;C)" left="345" top="270" width="88" height="25"/>
 <dlgitem id="1029" text="to:" left="12" top="14" width="96" height="14"/>
@@ -1416,7 +1416,7 @@
 <dlgitem id="1028" text="" left="12" top="247" width="420" height="11"/>
 <dlgitem id="1032" text="sẵn sàng" left="12" top="226" width="420" height="14"/>
 </Dialog>
-<Dialog id="18606" text="Send Mail" left="0" top="0" width="318" height="132">
+<Dialog id="18606" text="Send Mail" left="0" top="0" width="328" height="142">
 <dlgitem id="1028" text="" left="12" top="44" width="287" height="14"/>
 <dlgitem id="1034" text="Hủy bỏ(&amp;C)" left="107" top="67" width="88" height="25"/>
 <dlgitem id="1035" text="sẵn sàng" left="12" top="19" width="287" height="14"/>
@@ -1454,7 +1454,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="23601" text="Open File Attachment" left="0" top="0" width="542" height="199">
+<Dialog id="23601" text="Open File Attachment" left="0" top="0" width="552" height="209">
 <dlgitem id="23602" text="This attachment may harm your computer. Open this file only if you are sure that it is safe. Would you like to :" left="12" top="12" width="499" height="35"/>
 <dlgitem id="23603" text="Open this file attachment" left="44" top="53" width="214" height="21"/>
 <dlgitem id="23604" text="Always allow opening file attachments of this type" left="44" top="79" width="338" height="21"/>
@@ -1462,19 +1462,19 @@
 <dlgitem id="23606" text="Đồng ý" left="334" top="131" width="88" height="25"/>
 <dlgitem id="23607" text="Hủy bỏ" left="436" top="131" width="88" height="25"/>
 </Dialog>
-<Dialog id="23608" text="Edit Attachment Description" left="0" top="0" width="330" height="125">
+<Dialog id="23608" text="Edit Attachment Description" left="0" top="0" width="340" height="135">
 <dlgitem id="23609" text="Description:" left="12" top="7" width="298" height="18"/>
 <dlgitem id="23610" text="" left="12" top="26" width="298" height="21"/>
 <dlgitem id="23611" text="Đồng ý" left="124" top="60" width="88" height="25"/>
 <dlgitem id="23612" text="Hủy bỏ" left="221" top="60" width="88" height="25"/>
 </Dialog>
-<Dialog id="23613" text="Security Settings" left="0" top="0" width="330" height="125">
+<Dialog id="23613" text="Security Settings" left="0" top="0" width="340" height="135">
 <dlgitem id="23614" text="Input file extension:" left="12" top="7" width="298" height="18"/>
 <dlgitem id="23615" text="" left="12" top="26" width="298" height="21"/>
 <dlgitem id="23616" text="Đồng ý" left="124" top="60" width="88" height="25"/>
 <dlgitem id="23617" text="Hủy bỏ" left="221" top="60" width="88" height="25"/>
 </Dialog>
-<Dialog id="23618" text="Security Settings" left="0" top="0" width="479" height="344">
+<Dialog id="23618" text="Security Settings" left="0" top="0" width="489" height="354">
 <dlgitem id="23620" text="Thêm...(&amp;A)" left="12" top="12" width="88" height="25"/>
 <dlgitem id="23621" text="Xóa(&amp;D)" left="109" top="12" width="88" height="25"/>
 <dlgitem id="23619" text="List2" left="12" top="46" width="450" height="158"/>
@@ -1488,20 +1488,20 @@
 <dlgitem id="23628" text="" left="9" top="26" width="270" height="210"/>
 <dlgitem id="23627" text="Icon:" left="11" top="7" width="266" height="18"/>
 </Dialog>
-<Dialog id="23770" text="Attach File Attachment" left="0" top="0" width="610" height="349">
+<Dialog id="23770" text="Attach File Attachment" left="0" top="0" width="620" height="359">
 <dlgitem id="1" text="Đồng ý" left="382" top="284" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="504" top="284" width="88" height="25"/>
 <dlgitem id="1020" text="" left="12" top="37" width="579" height="203"/>
 <dlgitem id="4294967295" text="Are you sure to attach the following files to this pdf?" left="12" top="12" width="579" height="14"/>
 <dlgitem id="1021" text="Always attach file when dragging files to the attachment panel." left="12" top="252" width="579" height="18"/>
 </Dialog>
-<Dialog id="23771" text="Dialog" left="0" top="0" width="641" height="320">
+<Dialog id="23771" text="Dialog" left="0" top="0" width="651" height="330">
 <dlgitem id="1025" text="Đồng ý" left="536" top="254" width="88" height="25"/>
 <dlgitem id="1024" text="" left="11" top="33" width="613" height="212"/>
 <dlgitem id="0" text="" left="0" top="0" width="609" height="24"/>
 <dlgitem id="1026" text="Static" left="11" top="11" width="613" height="18"/>
 </Dialog>
-<Dialog id="23772" text="Đính kèm tập tin" left="0" top="0" width="748" height="437">
+<Dialog id="23772" text="Đính kèm tập tin" left="0" top="0" width="758" height="447">
 <dlgitem id="1031" text="Thêm tập tin..." left="12" top="14" width="107" height="28"/>
 <dlgitem id="1033" text="Hủy bỏ" left="642" top="371" width="88" height="25"/>
 <dlgitem id="1024" text="" left="12" top="93" width="718" height="264"/>
@@ -1510,7 +1510,7 @@
 <dlgitem id="23775" text="Add Documents to the list below." left="12" top="51" width="718" height="21"/>
 <dlgitem id="23776" text="Press OK when all the documents have been added." left="12" top="70" width="718" height="14"/>
 </Dialog>
-<Dialog id="23774" text="Foxit PhantomPDF" left="0" top="0" width="538" height="180">
+<Dialog id="23774" text="Foxit PhantomPDF" left="0" top="0" width="548" height="190">
 <dlgitem id="1034" text="Thay thế" left="186" top="112" width="75" height="26"/>
 <dlgitem id="1035" text="Skip" left="443" top="112" width="75" height="26"/>
 <dlgitem id="1023" text="Apply to all files." left="16" top="96" width="142" height="18"/>
@@ -1545,7 +1545,7 @@
 <string id="23532" text="This document is encrypted by a digital certificate. The current user doesn't have the correct certificate."/>
 <string id="23533" text="You cannot attach files of this type due to your security settings."/>
 <string id="23534" text="Một lỗi xuất hiện khi đính kèm tâp tin."/>
-<string id="23535" text="The file is too large to be attached. The maximum size of attachments is 64MB."/>
+<string id="23535" text="The file is too large to be attached. The maximum size of attachments is 2G."/>
 <string id="23536" text="Can not open the file: %s \nBad file path."/>
 <string id="23537" text="Extension"/>
 <string id="23538" text="Strategy"/>
@@ -1584,6 +1584,8 @@
 <string id="23571" text="Choose file folder to add:"/>
 <string id="23572" text="Failed to copy the attachment, since the file size is larger than 64Mb."/>
 <string id="23573" text="This comment is too large to be attached. The maximum size is 10MB."/>
+<string id="23574" text="The file exceeds the maximum limit 2G, so it cannot be opened."/>
+<string id="23575" text="The file exceeds the maximum limit 2G, so it cannot be exported."/>
 <string id="23701" text="Đính kèm tập tin(&amp;F)"/>
 <string id="23702" text="Attach a file to a specific location in the document"/>
 <string id="23703" text="Đính kèm tập tin"/>
@@ -1617,7 +1619,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="10515" text="Output Options" left="0" top="0" width="372" height="442">
+<Dialog id="10515" text="Output Options" left="0" top="0" width="382" height="452">
 <dlgitem id="12926" text="Target Folder" left="14" top="12" width="340" height="147"/>
 <dlgitem id="12929" text="The Same Folder Selected At Start(&amp;S)" left="28" top="39" width="221" height="18"/>
 <dlgitem id="12930" text="A Folder On this Computer(&amp;F)" left="28" top="68" width="168" height="18"/>
@@ -2332,7 +2334,7 @@
 <dlgitem id="1052" text="" left="373" top="284" width="130" height="14"/>
 <dlgitem id="1016" text="" left="21" top="275" width="352" height="14"/>
 </Dialog>
-<Dialog id="130" text="Mật khẩu" left="0" top="0" width="466" height="164">
+<Dialog id="130" text="Mật khẩu" left="0" top="0" width="476" height="174">
 <dlgitem id="1196" text="Nhập mật khẩu:" left="77" top="68" width="98" height="14"/>
 <dlgitem id="1000" text="" left="180" top="63" width="207" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="266" top="98" width="88" height="25"/>
@@ -2372,7 +2374,7 @@
 <dlgitem id="1203" text="Static" left="422" top="420" width="154" height="14"/>
 <dlgitem id="1473" text="Tập tin:" left="19" top="42" width="70" height="14"/>
 </Dialog>
-<Dialog id="157" text="Đến trang " left="0" top="0" width="361" height="150">
+<Dialog id="157" text="Đến trang " left="0" top="0" width="371" height="160">
 <dlgitem id="1194" text="Trang:(&amp;P)" left="61" top="42" width="56" height="14"/>
 <dlgitem id="1007" text="" left="124" top="37" width="77" height="25"/>
 <dlgitem id="1195" text="of" left="210" top="40" width="14" height="14"/>
@@ -2380,20 +2382,20 @@
 <dlgitem id="1" text="Đồng ý" left="159" top="88" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="256" top="88" width="88" height="25"/>
 </Dialog>
-<Dialog id="158" text="Phóng to tới" left="0" top="0" width="326" height="148">
+<Dialog id="158" text="Phóng to tới" left="0" top="0" width="336" height="158">
 <dlgitem id="1203" text="Magnification:(&amp;M)" left="33" top="33" width="82" height="14"/>
 <dlgitem id="1009" text="" left="119" top="33" width="151" height="22"/>
 <dlgitem id="1" text="Đồng ý" left="126" top="82" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="221" top="82" width="88" height="25"/>
 </Dialog>
-<Dialog id="252" text="Foxit Reader" left="0" top="0" width="473" height="173">
+<Dialog id="252" text="Foxit Reader" left="0" top="0" width="483" height="183">
 <dlgitem id="4294967295" text="" left="12" top="12" width="32" height="32"/>
 <dlgitem id="1064" text="Always perform this check when starting %s" left="19" top="77" width="429" height="18"/>
 <dlgitem id="1" text="Có(&amp;Y)" left="257" top="107" width="88" height="25"/>
 <dlgitem id="2" text="No(&amp;N)" left="357" top="107" width="88" height="25"/>
 <dlgitem id="1065" text="Currently %s is not the default PDF viewer on your system. Do you want to set %s as your default PDF viewer?" left="56" top="18" width="394" height="47"/>
 </Dialog>
-<Dialog id="275" text="Tùy chỉnh" left="0" top="0" width="734" height="458">
+<Dialog id="275" text="Tùy chỉnh" left="0" top="0" width="744" height="468">
 <dlgitem id="1" text="Đồng ý" left="536" top="397" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="630" top="397" width="88" height="25"/>
 <dlgitem id="1073" text="" left="12" top="16" width="166" height="403"/>
@@ -2463,7 +2465,7 @@
 <dlgitem id="1379" text="Only certified plug-ins are allowed(&amp;i)" left="12" top="320" width="296" height="18"/>
 <dlgitem id="1479" text="Show Advertisement(&amp;d)" left="196" top="296" width="144" height="18"/>
 </Dialog>
-<Dialog id="797" text="Crash Report" left="0" top="0" width="454" height="561">
+<Dialog id="797" text="Crash Report" left="0" top="0" width="464" height="571">
 <dlgitem id="1586" text="" left="14" top="219" width="424" height="98"/>
 <dlgitem id="1588" text="" left="14" top="364" width="424" height="23"/>
 <dlgitem id="1" text="Send" left="348" top="501" width="91" height="25"/>
@@ -2478,7 +2480,7 @@
 <dlgitem id="1626" text="View report details(&amp;V)" left="12" top="478" width="137" height="19"/>
 <dlgitem id="1274" text="If you would like us to contact you about this crash report, please enter your email address here:" left="12" top="326" width="427" height="32"/>
 </Dialog>
-<Dialog id="810" text="Tiến trình" left="0" top="0" width="452" height="139">
+<Dialog id="810" text="Tiến trình" left="0" top="0" width="462" height="149">
 <dlgitem id="1271" text="" left="14" top="30" width="420" height="26"/>
 <dlgitem id="1272" text="" left="14" top="67" width="420" height="28"/>
 </Dialog>
@@ -2527,12 +2529,12 @@
 <dlgitem id="1480" text="" left="166" top="340" width="142" height="22"/>
 <dlgitem id="1377" text="Navigation control direction(&amp;v)" left="322" top="341" width="184" height="18"/>
 </Dialog>
-<Dialog id="853" text="Tiến trình" left="0" top="0" width="473" height="134">
+<Dialog id="853" text="Tiến trình" left="0" top="0" width="483" height="144">
 <dlgitem id="2" text="Hủy bỏ" left="368" top="35" width="88" height="25"/>
 <dlgitem id="1363" text="" left="12" top="39" width="347" height="18"/>
 <dlgitem id="1255" text="Remove..." left="18" top="70" width="324" height="14"/>
 </Dialog>
-<Dialog id="866" text="??????" left="0" top="0" width="506" height="351">
+<Dialog id="866" text="??????" left="0" top="0" width="516" height="361">
 <dlgitem id="1367" text="Static" left="0" top="49" width="135" height="41"/>
 <dlgitem id="1368" text="Static" left="0" top="91" width="134" height="41"/>
 <dlgitem id="1369" text="Static" left="0" top="135" width="134" height="42"/>
@@ -2540,7 +2542,7 @@
 <dlgitem id="1373" text="Static" left="146" top="52" width="350" height="267"/>
 <dlgitem id="1366" text="" left="0" top="0" width="557" height="372"/>
 </Dialog>
-<Dialog id="875" text="Document Properties" left="0" top="0" width="640" height="650">
+<Dialog id="875" text="Document Properties" left="0" top="0" width="650" height="660">
 <dlgitem id="1" text="Đồng ý" left="441" top="585" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="536" top="585" width="88" height="25"/>
 <dlgitem id="1369" text="Tab1" left="12" top="12" width="609" height="555"/>
@@ -2554,22 +2556,22 @@
 <dlgitem id="1378" text="Tree1" left="5" top="9" width="663" height="373"/>
 <dlgitem id="1557" text="In the tabbed mode, the toolbar setting is not available." left="5" top="396" width="637" height="23"/>
 </Dialog>
-<Dialog id="879" text="Foxit Reader" left="0" top="0" width="382" height="159">
+<Dialog id="879" text="Foxit Reader" left="0" top="0" width="392" height="169">
 <dlgitem id="1" text="close all tabs(&amp;l)" left="130" top="63" width="112" height="25"/>
 <dlgitem id="1623" text="Close current tab(&amp;u)" left="252" top="63" width="112" height="25"/>
 <dlgitem id="4294967295" text="" left="18" top="21" width="32" height="32"/>
 <dlgitem id="1379" text="Do you want to close all tabs or the current tab?" left="70" top="28" width="271" height="26"/>
 <dlgitem id="2208" text="Always close all tabs(&amp;A)" left="18" top="103" width="182" height="23"/>
-<dlgitem id="4294967295" text="" left="5" top="98" width="367" height="2"/>
+<dlgitem id="1469" text="" left="5" top="98" width="367" height="2"/>
 </Dialog>
-<Dialog id="897" text="Update Foxit Preferences" left="0" top="0" width="578" height="162">
+<Dialog id="897" text="Update Foxit Preferences" left="0" top="0" width="588" height="172">
 <dlgitem id="1" text="Đồng ý" left="473" top="96" width="88" height="25"/>
 <dlgitem id="1397" text="Updater" left="12" top="12" width="548" height="79"/>
 <dlgitem id="1376" text="Automatically check for Foxit updates:" left="26" top="33" width="350" height="18"/>
 <dlgitem id="1405" text="Each week(&amp;w)" left="44" top="58" width="102" height="21"/>
 <dlgitem id="1406" text="Each month(&amp;m)" left="170" top="58" width="112" height="21"/>
 </Dialog>
-<Dialog id="917" text="Launch File" left="0" top="0" width="508" height="271">
+<Dialog id="917" text="Launch File" left="0" top="0" width="518" height="281">
 <dlgitem id="1" text="Mở(&amp;O)" left="298" top="210" width="88" height="25"/>
 <dlgitem id="2" text="Do Not Open(&amp;D)" left="401" top="210" width="88" height="25"/>
 <dlgitem id="1471" text="" left="12" top="30" width="32" height="32"/>
@@ -2600,7 +2602,7 @@
 <dlgitem id="0" text="" left="0" top="0" width="477" height="24"/>
 <dlgitem id="1584" text="Vui lòng chọn ngôn ngữ hiện thị:" left="12" top="74" width="287" height="14"/>
 </Dialog>
-<Dialog id="956" text="Registry" left="0" top="0" width="472" height="262">
+<Dialog id="956" text="Registry" left="0" top="0" width="482" height="272">
 <dlgitem id="1" text="Đồng ý" left="368" top="196" width="88" height="25"/>
 <dlgitem id="2" text="No(&amp;N)" left="177" top="196" width="88" height="25"/>
 <dlgitem id="4294967295" text="" left="12" top="12" width="32" height="32"/>
@@ -2634,7 +2636,7 @@
 <dlgitem id="1227" text="Command:" left="9" top="12" width="61" height="14"/>
 <dlgitem id="1228" text="Favorite Toolbar:" left="341" top="12" width="98" height="14"/>
 </Dialog>
-<Dialog id="994" text="Change Skin" left="0" top="0" width="564" height="320">
+<Dialog id="994" text="Change Skin" left="0" top="0" width="574" height="330">
 <dlgitem id="1167" text="" left="12" top="40" width="152" height="198"/>
 <dlgitem id="1449" text="Apply(&amp;A)" left="261" top="257" width="88" height="25"/>
 <dlgitem id="1445" text="Xóa(&amp;D)" left="359" top="257" width="88" height="25"/>
@@ -2659,7 +2661,7 @@
 <dlgitem id="1466" text="Command:" left="131" top="12" width="541" height="14"/>
 <dlgitem id="1451" text="" left="163" top="292" width="376" height="16"/>
 </Dialog>
-<Dialog id="997" text="Foxit Reader" left="0" top="0" width="571" height="174">
+<Dialog id="997" text="Foxit Reader" left="0" top="0" width="581" height="184">
 <dlgitem id="1642" text="Restart now" left="366" top="107" width="88" height="25"/>
 <dlgitem id="1" text="Restart Later" left="462" top="107" width="88" height="25"/>
 <dlgitem id="1641" text="You have changed the display language of %s. Please restart %s to apply this change." left="75" top="26" width="474" height="51"/>
@@ -2685,7 +2687,7 @@
 <dlgitem id="1604" text="Nâng cao..." left="336" top="46" width="88" height="25"/>
 <dlgitem id="1485" text="Luôn thực hiện kiểm tra khi chạy Foxit Reader(&amp;A)" left="25" top="289" width="480" height="18"/>
 </Dialog>
-<Dialog id="1049" text="Command Line Help" left="0" top="0" width="662" height="327">
+<Dialog id="1049" text="Command Line Help" left="0" top="0" width="672" height="337">
 <dlgitem id="1" text="Đồng ý" left="548" top="263" width="88" height="25"/>
 <dlgitem id="1227" text="Here are some command lines that can be used with %s using the following syntax:" left="25" top="16" width="576" height="30"/>
 <dlgitem id="1228" text="&lt;%s Path&gt; [/register] | [PDF Path] [/pwd]  [/A [...] [...] ...] | [/pwd] [/p | /t &lt;PDFPath&gt; [Printer]]" left="32" top="44" width="620" height="19"/>
@@ -2704,13 +2706,13 @@
 <dlgitem id="1529" text="/url &lt;Network Station&gt;" left="30" top="215" width="175" height="18"/>
 <dlgitem id="1530" text="Open a network station with a command to specify exactly what to display" left="340" top="215" width="312" height="37"/>
 </Dialog>
-<Dialog id="1051" text="Launch" left="0" top="0" width="507" height="148">
+<Dialog id="1051" text="Launch" left="0" top="0" width="517" height="158">
 <dlgitem id="1" text="Đồng ý" left="401" top="82" width="88" height="25"/>
 <dlgitem id="65535" text="" left="16" top="12" width="32" height="32"/>
 <dlgitem id="1423" text="" left="65" top="14" width="420" height="49"/>
 <dlgitem id="1376" text="Do not show this message again(&amp;n)" left="19" top="84" width="362" height="16"/>
 </Dialog>
-<Dialog id="1052" text="Foxit Reader" left="0" top="0" width="564" height="314">
+<Dialog id="1052" text="Foxit Reader" left="0" top="0" width="574" height="324">
 <dlgitem id="1" text="Save Now" left="166" top="252" width="88" height="25"/>
 <dlgitem id="2" text="Ignore" left="446" top="250" width="88" height="25"/>
 <dlgitem id="1486" text="The plug-in you are using is trying to access a restricted interface which is implemented in Reader plug-in SDK host function table(HFT)." left="100" top="26" width="446" height="33"/>
@@ -2722,7 +2724,7 @@
 <dlgitem id="4294967295" text="" left="33" top="23" width="32" height="32"/>
 <dlgitem id="1421" text="Save Now" left="320" top="250" width="88" height="25"/>
 </Dialog>
-<Dialog id="1053" text="Welcome" left="0" top="0" width="599" height="384">
+<Dialog id="1053" text="Welcome" left="0" top="0" width="609" height="394">
 <dlgitem id="1502" text="" left="11" top="310" width="574" height="2"/>
 <dlgitem id="1493" text="" left="0" top="88" width="585" height="217"/>
 <dlgitem id="1491" text="Đồng ý" left="390" top="319" width="88" height="25"/>
@@ -2747,7 +2749,7 @@
 <dlgitem id="1306" text="Lịch sử" left="4" top="124" width="581" height="77"/>
 <dlgitem id="1538" text="" left="25" top="53" width="133" height="22"/>
 </Dialog>
-<Dialog id="1074" text="Foxit PhantomPDF" left="0" top="0" width="447" height="180">
+<Dialog id="1074" text="Foxit PhantomPDF" left="0" top="0" width="457" height="190">
 <dlgitem id="1" text="Đồng ý" left="341" top="114" width="88" height="25"/>
 <dlgitem id="65535" text="" left="18" top="25" width="32" height="32"/>
 <dlgitem id="1274" text="" left="61" top="16" width="354" height="67"/>
@@ -2764,7 +2766,7 @@
 <dlgitem id="1647" text="2." left="33" top="173" width="14" height="14"/>
 <dlgitem id="1649" text="Online support." left="58" top="173" width="186" height="14"/>
 </Dialog>
-<Dialog id="1110" text="Authentication" left="0" top="0" width="753" height="538">
+<Dialog id="1110" text="Authentication" left="0" top="0" width="763" height="548">
 <dlgitem id="1537" text="" left="142" top="89" width="303" height="25"/>
 <dlgitem id="1536" text="" left="142" top="124" width="303" height="25"/>
 <dlgitem id="1346" text="Log on anonymously" left="58" top="163" width="147" height="18"/>
@@ -2778,19 +2780,19 @@
 <dlgitem id="4294967295" text="" left="12" top="12" width="32" height="32"/>
 <dlgitem id="1545" text="Static" left="58" top="12" width="347" height="14"/>
 </Dialog>
-<Dialog id="1165" text="Change Toolbar Mode" left="0" top="0" width="606" height="292">
+<Dialog id="1165" text="Change Toolbar Mode" left="0" top="0" width="616" height="302">
 <dlgitem id="1" text="Đồng ý" left="404" top="229" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="501" top="229" width="88" height="25"/>
 <dlgitem id="1558" text="" left="0" top="2" width="595" height="212"/>
 </Dialog>
-<Dialog id="1166" text="Foxit Reader" left="0" top="0" width="554" height="143">
+<Dialog id="1166" text="Foxit Reader" left="0" top="0" width="564" height="153">
 <dlgitem id="1421" text="Restart now" left="256" top="77" width="88" height="25"/>
 <dlgitem id="1" text="Restart Later" left="352" top="77" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="448" top="77" width="88" height="25"/>
 <dlgitem id="1559" text="Static" left="61" top="30" width="445" height="46"/>
 <dlgitem id="4294967295" text="" left="19" top="19" width="32" height="32"/>
 </Dialog>
-<Dialog id="1167" text="Manage Sites" left="0" top="0" width="535" height="670">
+<Dialog id="1167" text="Manage Sites" left="0" top="0" width="545" height="680">
 <dlgitem id="1561" text="Custom setting(&amp;m)" left="11" top="37" width="110" height="18"/>
 <dlgitem id="1562" text="Allow PDF files to access all web sites(&amp;w)" left="11" top="63" width="231" height="18"/>
 <dlgitem id="1563" text="Block PDF files' access to all web sites(&amp;k)" left="11" top="89" width="233" height="18"/>
@@ -2811,7 +2813,7 @@
 <dlgitem id="1564" text="Specify Web Sites to Allow or Block" left="11" top="119" width="506" height="121"/>
 <dlgitem id="1567" text="Web Sites" left="11" top="247" width="506" height="341"/>
 </Dialog>
-<Dialog id="1168" text="Cảnh báo bảo mật" left="0" top="0" width="559" height="220">
+<Dialog id="1168" text="Cảnh báo bảo mật" left="0" top="0" width="569" height="230">
 <dlgitem id="1" text="Allow" left="261" top="154" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="453" top="154" width="88" height="25"/>
 <dlgitem id="1513" text="Block" left="357" top="154" width="88" height="25"/>
@@ -2821,7 +2823,7 @@
 <dlgitem id="1377" text="Remember this action for this site for all PDF documents." left="33" top="112" width="485" height="18"/>
 <dlgitem id="1471" text="" left="18" top="19" width="32" height="32"/>
 </Dialog>
-<Dialog id="1243" text="Trusted Documents Setting" left="0" top="0" width="526" height="250">
+<Dialog id="1243" text="Trusted Documents Setting" left="0" top="0" width="536" height="260">
 <dlgitem id="1" text="Đồng ý" left="326" top="187" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="422" top="187" width="88" height="25"/>
 <dlgitem id="1397" text="Trusted Documents Setting" left="11" top="14" width="497" height="161"/>
@@ -2836,7 +2838,7 @@
 <dlgitem id="1255" text="Show print settings before printing document" left="12" top="70" width="487" height="18"/>
 <dlgitem id="1254" text="Require confirmation when printing multiple documents" left="12" top="96" width="487" height="18"/>
 </Dialog>
-<Dialog id="1414" text="Report Details" left="0" top="0" width="466" height="402">
+<Dialog id="1414" text="Report Details" left="0" top="0" width="476" height="412">
 <dlgitem id="1" text="Đồng ý" left="361" top="336" width="88" height="25"/>
 <dlgitem id="1643" text="A crash report has been generated for you,containing the files listed below. The report contains detailed information about the state of the application at the time that it crashed, as well as the information you provided us." left="12" top="14" width="436" height="56"/>
 <dlgitem id="1644" text="In addition, we may have requested that additional files be sent in order to get more detailed information about the crash." left="12" top="75" width="436" height="39"/>
@@ -2845,7 +2847,7 @@
 <dlgitem id="1167" text="" left="12" top="200" width="436" height="124"/>
 <dlgitem id="0" text="" left="0" top="0" width="432" height="24"/>
 </Dialog>
-<Dialog id="1415" text="Batch Print" left="0" top="0" width="529" height="164">
+<Dialog id="1415" text="Batch Print" left="0" top="0" width="539" height="174">
 <dlgitem id="1349" text="" left="56" top="19" width="455" height="26"/>
 <dlgitem id="1633" text="" left="60" top="47" width="439" height="18"/>
 <dlgitem id="1377" text="" left="60" top="72" width="439" height="18"/>
@@ -2868,13 +2870,13 @@
 <Dialog id="1426" left="0" top="0" width="468" height="293">
 <dlgitem id="1521" text="Not Now(&amp;N)" left="366" top="252" width="81" height="25"/>
 <dlgitem id="1519" text="Register(&amp;R)" left="278" top="252" width="81" height="25"/>
-<dlgitem id="1591" text="Online support" left="117" top="168" width="334" height="18"/>
+<dlgitem id="1591" text="Online support" left="117" top="147" width="334" height="18"/>
 <dlgitem id="1588" text="Thank you for using %s." left="30" top="88" width="425" height="26"/>
 <dlgitem id="1589" text="To ensure your satisfaction, Foxit offers support by:" left="30" top="117" width="425" height="21"/>
-<dlgitem id="1590" text="Call: %s" left="117" top="147" width="334" height="21"/>
+<dlgitem id="1590" text="Call: %s" left="117" top="168" width="334" height="21"/>
 <dlgitem id="1592" text="If you don't have a license, please register below to receive free support." left="30" top="207" width="425" height="40"/>
 </Dialog>
-<Dialog id="1428" left="0" top="0" width="484" height="206">
+<Dialog id="1428" left="0" top="0" width="494" height="216">
 <dlgitem id="1" text="Có(&amp;Y)" left="282" top="140" width="88" height="25"/>
 <dlgitem id="2" text="No(&amp;N)" left="376" top="140" width="88" height="25"/>
 <dlgitem id="4294967295" text="" left="26" top="30" width="32" height="32"/>
@@ -2882,7 +2884,7 @@
 <dlgitem id="1639" text="Do you want to reload it and lose the changes made?" left="84" top="77" width="380" height="32"/>
 <dlgitem id="1640" text="Remember my choice for this document" left="98" top="109" width="366" height="28"/>
 </Dialog>
-<Dialog id="1430" text="Online Tutorial" left="0" top="0" width="928" height="472">
+<Dialog id="1430" text="Online Tutorial" left="0" top="0" width="938" height="482">
 <dlgitem id="1" text="Đóng" left="761" top="411" width="140" height="25"/>
 <dlgitem id="1377" text="Do not show at startup" left="44" top="413" width="284" height="21"/>
 </Dialog>
@@ -2901,12 +2903,12 @@
 <dlgitem id="1441" text="Email Address:" left="12" top="189" width="131" height="14"/>
 <dlgitem id="1430" text="" left="156" top="189" width="322" height="21"/>
 </Dialog>
-<Dialog id="1433" text="Sending error report" left="0" top="0" width="375" height="187">
+<Dialog id="1433" text="Sending error report" left="0" top="0" width="385" height="197">
 <dlgitem id="2" text="Hủy bỏ" left="270" top="121" width="88" height="25"/>
 <dlgitem id="1619" text="" left="14" top="89" width="345" height="16"/>
 <dlgitem id="1620" text="Static" left="12" top="35" width="264" height="21"/>
 </Dialog>
-<Dialog id="1446" text="Nâng cao..." left="0" top="0" width="543" height="346">
+<Dialog id="1446" text="Nâng cao..." left="0" top="0" width="553" height="356">
 <dlgitem id="1" text="Đồng ý" left="306" top="280" width="88" height="26"/>
 <dlgitem id="2" text="Hủy bỏ" left="424" top="280" width="88" height="26"/>
 <dlgitem id="1349" text="Include browser when setting default PDF viewer(&amp;b)" left="28" top="46" width="399" height="19"/>
@@ -2918,13 +2920,13 @@
 <dlgitem id="4294967295" text="" left="12" top="5" width="513" height="256"/>
 <dlgitem id="1482" text="Make Foxit Reader the default PDF Viewer:" left="21" top="21" width="404" height="16"/>
 </Dialog>
-<Dialog id="1450" text="Dialog" left="0" top="0" width="599" height="152">
+<Dialog id="1450" text="Dialog" left="0" top="0" width="609" height="162">
 <dlgitem id="1" text="Đồng ý" left="494" top="86" width="88" height="25"/>
 <dlgitem id="1471" text="I" left="19" top="32" width="37" height="35"/>
 <dlgitem id="1227" text="Failed to call SendCrashReport.exe, please click this link to contact our customer service:" left="70" top="39" width="508" height="19"/>
 <dlgitem id="795" text="Online support." left="70" top="68" width="91" height="19"/>
 </Dialog>
-<Dialog id="1478" text="Security Block" left="0" top="0" width="627" height="211">
+<Dialog id="1478" text="Security Block" left="0" top="0" width="637" height="221">
 <dlgitem id="1" text="Đồng ý" left="522" top="145" width="88" height="25"/>
 <dlgitem id="1471" text="" left="19" top="18" width="32" height="32"/>
 <dlgitem id="1227" text="Currently in safe reading mode. This document cannot connect to:" left="70" top="12" width="530" height="23"/>
@@ -2943,7 +2945,7 @@
 <dlgitem id="1378" text="Disable Safe Reading Mode for Trusted Documents(&amp;D)" left="30" top="182" width="483" height="19"/>
 <dlgitem id="1422" text="Advanced Preferences...(&amp;A)" left="313" top="208" width="180" height="25"/>
 </Dialog>
-<Dialog id="1480" left="0" top="0" width="501" height="241">
+<Dialog id="1480" left="0" top="0" width="511" height="251">
 <dlgitem id="1" text="Đồng ý" left="394" top="180" width="88" height="25"/>
 <dlgitem id="1471" text="" left="21" top="19" width="32" height="32"/>
 <dlgitem id="1472" text="This file is set to be launched by this PDF program but the operation is not allowed because you are currently in Safe Reading Mode." left="75" top="12" width="404" height="33"/>
@@ -2961,7 +2963,7 @@
 <dlgitem id="1140" text="Remove" left="432" top="329" width="77" height="25"/>
 <dlgitem id="1652" text="Privileged Locations allows you to work security while granting trust to items in your workflow." left="14" top="63" width="508" height="30"/>
 </Dialog>
-<Dialog id="1653" text="Add Privileged Host" left="0" top="0" width="409" height="176">
+<Dialog id="1653" text="Add Privileged Host" left="0" top="0" width="419" height="186">
 <dlgitem id="1" text="Đồng ý" left="208" top="112" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="303" top="112" width="88" height="25"/>
 <dlgitem id="1657" text="Enter a host name (example: www.example.com)" left="26" top="18" width="354" height="23"/>
@@ -2978,7 +2980,7 @@
 <dlgitem id="1668" text="" left="173" top="14" width="688" height="21"/>
 <dlgitem id="1669" text="D" left="838" top="49" width="23" height="30"/>
 </Dialog>
-<Dialog id="2203" text="Multimedia Content" left="0" top="0" width="620" height="222">
+<Dialog id="2203" text="Multimedia Content" left="0" top="0" width="630" height="232">
 <dlgitem id="1" text="Play" left="413" top="156" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="515" top="156" width="88" height="25"/>
 <dlgitem id="2201" text="Multimedia contents have been opened.  Please decide whether to play content now and set the option for what to do when you open this document in the future." left="12" top="25" width="590" height="42"/>
@@ -2992,7 +2994,7 @@
 <dlgitem id="1300" text="" left="158" top="35" width="56" height="21"/>
 <dlgitem id="1304" text="Slider1" left="247" top="32" width="210" height="26"/>
 </Dialog>
-<Dialog id="2207" text="About Foxit Plug-Ins" left="0" top="0" width="725" height="496">
+<Dialog id="2207" text="About Foxit Plug-Ins" left="0" top="0" width="735" height="506">
 <dlgitem id="1" text="Đồng ý" left="600" top="422" width="88" height="25"/>
 <dlgitem id="1510" text="" left="12" top="12" width="219" height="394"/>
 <dlgitem id="1524" text="Tên tập tin:" left="259" top="28" width="67" height="14"/>
@@ -3012,7 +3014,7 @@
 <dlgitem id="1574" text="" left="270" top="259" width="425" height="72"/>
 <dlgitem id="1575" text="" left="254" top="359" width="453" height="54"/>
 </Dialog>
-<Dialog id="16961" text="Colors" left="0" top="0" width="358" height="353">
+<Dialog id="16961" text="Colors" left="0" top="0" width="368" height="363">
 <dlgitem id="16970" text="Tab Placeholder" left="7" top="11" width="256" height="306"/>
 <dlgitem id="1" text="Đồng ý" left="270" top="11" width="74" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="270" top="39" width="74" height="25"/>
@@ -3021,12 +3023,12 @@
 <dlgitem id="16662" text="Color" left="270" top="193" width="74" height="72"/>
 <dlgitem id="1565" text="Current" left="270" top="270" width="74" height="18"/>
 </Dialog>
-<Dialog id="16962" text="Standard" left="0" top="0" width="262" height="306">
+<Dialog id="16962" text="Standard" left="0" top="0" width="272" height="316">
 <dlgitem id="1566" text="Colors:(&amp;C)" left="5" top="7" width="88" height="19"/>
 <dlgitem id="16974" text="Hex" left="4" top="32" width="247" height="201"/>
 <dlgitem id="16972" text="gray" left="4" top="236" width="247" height="35"/>
 </Dialog>
-<Dialog id="16963" text="Custom" left="0" top="0" width="262" height="309">
+<Dialog id="16963" text="Custom" left="0" top="0" width="272" height="319">
 <dlgitem id="1574" text="Colors:(&amp;C)" left="4" top="7" width="84" height="16"/>
 <dlgitem id="16662" text="Color" left="4" top="25" width="208" height="140"/>
 <dlgitem id="16973" text="Lum" left="219" top="25" width="32" height="140"/>
@@ -3070,13 +3072,13 @@
 <dlgitem id="17079" text="Customize...(&amp;t)" left="135" top="378" width="105" height="25"/>
 <dlgitem id="17274" text="Customizations:" left="348" top="357" width="88" height="14"/>
 </Dialog>
-<Dialog id="17275" text="Rename" left="0" top="0" width="295" height="136">
+<Dialog id="17275" text="Rename" left="0" top="0" width="305" height="146">
 <dlgitem id="4294967295" text="Display Name:(&amp;D)" left="9" top="9" width="271" height="14"/>
 <dlgitem id="17069" text="" left="9" top="33" width="271" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="98" top="72" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="193" top="72" width="88" height="25"/>
 </Dialog>
-<Dialog id="17277" text="Rename" left="0" top="0" width="312" height="353">
+<Dialog id="17277" text="Rename" left="0" top="0" width="322" height="363">
 <dlgitem id="4294967295" text="Symbol:" left="9" top="9" width="46" height="14"/>
 <dlgitem id="16508" text="Images" left="9" top="30" width="287" height="163"/>
 <dlgitem id="17273" text="Display Name:(&amp;D)" left="9" top="203" width="81" height="14"/>
@@ -3085,13 +3087,13 @@
 <dlgitem id="2" text="Hủy bỏ" left="208" top="291" width="88" height="25"/>
 <dlgitem id="17213" text="Use Large Icon" left="9" top="266" width="287" height="18"/>
 </Dialog>
-<Dialog id="25601" text="Dialog" left="0" top="0" width="456" height="145">
+<Dialog id="25601" text="Dialog" left="0" top="0" width="466" height="155">
 <dlgitem id="25611" text="" left="16" top="44" width="79" height="18"/>
 <dlgitem id="25609" text="Đồng ý(&amp;O)" left="261" top="82" width="84" height="21"/>
 <dlgitem id="25610" text="Hủy bỏ(&amp;C)" left="352" top="82" width="84" height="21"/>
 <dlgitem id="25608" text="" left="16" top="12" width="418" height="18"/>
 </Dialog>
-<Dialog id="25602" text="Customize Tools" left="0" top="0" width="704" height="535">
+<Dialog id="25602" text="Customize Tools" left="0" top="0" width="714" height="545">
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="502" top="466" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="599" top="466" width="88" height="25"/>
 <dlgitem id="1369" text="Tab1" left="12" top="12" width="674" height="438"/>
@@ -4145,6 +4147,12 @@
 <string id="63932" text="Currently %s is not the default viewer for PDF files in your system. Do you want to set %s as your default PDF viewer?"/>
 <string id="63933" text="Always perform this check when starting %s"/>
 <string id="63934" text="Hủy bỏ"/>
+<string id="63935" text="Phiên bản"/>
+<string id="63936" text="Copyright"/>
+<string id="63937" text="2004-2015 Foxit Software Inc. All Rights Reserved."/>
+<string id="63938" text="Edition:"/>
+<string id="63939" text="Licensed to:"/>
+<string id="63940" text="License modules:"/>
 </Strings>
 </FoxitReader>
 <FoxitUpdater_DLL>
@@ -4161,7 +4169,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="161" left="0" top="0" width="458" height="237">
+<Dialog id="161" left="0" top="0" width="468" height="247">
 <dlgitem id="1034" text="Install" left="222" top="165" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="326" top="165" width="88" height="25"/>
 <dlgitem id="1033" text="" left="26" top="18" width="404" height="84"/>
@@ -4173,7 +4181,7 @@
 <dlgitem id="1071" text="Install a free 30 day trial of %s %s" left="49" top="112" width="354" height="18"/>
 <dlgitem id="1072" text="Don't install a free 30 day trial of %s %s" left="49" top="137" width="369" height="18"/>
 </Dialog>
-<Dialog id="171" text="Foxit Reader Updater" left="0" top="0" width="540" height="185">
+<Dialog id="171" text="Foxit Reader Updater" left="0" top="0" width="550" height="195">
 <dlgitem id="1062" text="" left="30" top="33" width="32" height="32"/>
 <dlgitem id="1049" text="Next " left="453" top="117" width="63" height="25"/>
 <dlgitem id="1065" text="Install a free 30 day trial of %s %s" left="86" top="37" width="350" height="18"/>
@@ -4181,32 +4189,32 @@
 <dlgitem id="1067" text="Learn more about" left="86" top="107" width="114" height="14"/>
 <dlgitem id="1068" text="%s %s" left="203" top="107" width="196" height="14"/>
 </Dialog>
-<Dialog id="176" left="0" top="0" width="472" height="222">
+<Dialog id="176" left="0" top="0" width="482" height="232">
 <dlgitem id="1075" text="There is a security update to %s available. Foxit highly recommend that you install this update. \nIf you click Not Install, we will not notify you about this update again." left="23" top="35" width="406" height="74"/>
 <dlgitem id="1" text="Install" left="147" top="144" width="88" height="25"/>
 <dlgitem id="1076" text="Remind Me Later" left="245" top="144" width="102" height="25"/>
 <dlgitem id="1077" text="Not Install" left="355" top="144" width="88" height="25"/>
 <dlgitem id="1073" text="Get Details online" left="21" top="110" width="116" height="19"/>
 </Dialog>
-<Dialog id="177" text="Dialog" left="0" top="0" width="494" height="232">
+<Dialog id="177" text="Dialog" left="0" top="0" width="504" height="242">
 <dlgitem id="1080" text="A major update for %s is available." left="21" top="23" width="455" height="40"/>
 <dlgitem id="1081" text="Click on the &quot;More Info&quot; button to open our web site for details about the new version. You can also download a 30-day free trial and purchase an upgrade to the new version there." left="21" top="81" width="446" height="68"/>
 <dlgitem id="2" text="Hủy bỏ" left="371" top="156" width="88" height="25"/>
 <dlgitem id="1079" text="More Info" left="263" top="156" width="88" height="25"/>
 </Dialog>
-<Dialog id="178" text="Foxit Cloud Update" left="0" top="0" width="472" height="222">
+<Dialog id="178" text="Foxit Cloud Update" left="0" top="0" width="482" height="232">
 <dlgitem id="1084" text="The latest Foxit Cloud release is available. To improve your experience, we hightly recommend you install or update the plugin to the new version. \nIf you select Not Install, we will not notify you about this install or update again." left="23" top="30" width="415" height="72"/>
 <dlgitem id="1085" text="Get Details online" left="21" top="116" width="116" height="19"/>
 <dlgitem id="1" text="Install" left="147" top="144" width="88" height="25"/>
 <dlgitem id="1077" text="Not Install" left="243" top="144" width="88" height="25"/>
 <dlgitem id="1076" text="Remind Me Later" left="340" top="144" width="102" height="25"/>
 </Dialog>
-<Dialog id="10734" left="0" top="0" width="484" height="162">
+<Dialog id="10734" left="0" top="0" width="494" height="172">
 <dlgitem id="2" text="Hủy bỏ" left="376" top="96" width="88" height="25"/>
 <dlgitem id="10758" text="Đang kiểm tra cập nhạt..." left="18" top="33" width="403" height="19"/>
 <dlgitem id="10759" text="" left="18" top="68" width="441" height="14"/>
 </Dialog>
-<Dialog id="10736" left="0" top="0" width="683" height="528">
+<Dialog id="10736" left="0" top="0" width="693" height="538">
 <dlgitem id="1" text="Next (&amp;N)" left="476" top="467" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="579" top="467" width="88" height="25"/>
 <dlgitem id="10761" text="Kích hoạt chế độ cập nhật:(&amp;v)" left="16" top="67" width="189" height="14"/>
@@ -4225,21 +4233,21 @@
 <dlgitem id="65535" text="" left="14" top="422" width="32" height="32"/>
 <dlgitem id="1078" text="Add All Add-ons(&amp;o)" left="289" top="156" width="103" height="25"/>
 </Dialog>
-<Dialog id="10740" left="0" top="0" width="627" height="188">
+<Dialog id="10740" left="0" top="0" width="637" height="198">
 <dlgitem id="10775" text="" left="14" top="82" width="595" height="18"/>
 <dlgitem id="1038" text="Updates have been installed successfully. They will take effect the next time you launch %s" left="14" top="28" width="595" height="47"/>
 <dlgitem id="1" text="Đồng ý" left="509" top="123" width="88" height="25"/>
 </Dialog>
-<Dialog id="10744" text="Download Components" left="0" top="0" width="571" height="225">
+<Dialog id="10744" text="Download Components" left="0" top="0" width="581" height="235">
 <dlgitem id="1" text="Có(&amp;Y)" left="359" top="161" width="88" height="25"/>
 <dlgitem id="2" text="No(&amp;N)" left="459" top="161" width="88" height="25"/>
 <dlgitem id="4294967295" text="" left="14" top="18" width="32" height="32"/>
 <dlgitem id="10770" text="Prompt:" left="56" top="14" width="490" height="42"/>
 <dlgitem id="10781" text="This file is encrypted by FileOpen. Please click Yes to download and install the FileOpen Plug-in. You can also download the plugin manually using the following link. If you download it manually, you can install the plugin by using &quot;Help &gt; Install Updates&quot;a⨝" left="56" top="44" width="490" height="65"/>
 <dlgitem id="10782" text="NOTE: This will require an internet connection to the Foxit plug-in download server." left="56" top="138" width="490" height="14"/>
-<dlgitem id="1054" text="www.foxitsoftware.com/downloads" left="58" top="110" width="266" height="25"/>
+<dlgitem id="1054" text="https://www.foxitsoftware.com/products/addons.php" left="58" top="110" width="312" height="25"/>
 </Dialog>
-<Dialog id="10748" left="0" top="0" width="746" height="465">
+<Dialog id="10748" left="0" top="0" width="756" height="475">
 <dlgitem id="10780" text="Tải về(&amp;D)" left="641" top="399" width="88" height="25"/>
 <dlgitem id="10772" text="" left="12" top="11" width="632" height="21"/>
 <dlgitem id="10775" text="" left="12" top="58" width="716" height="18"/>
@@ -4251,7 +4259,7 @@
 <dlgitem id="10779" text="" left="12" top="33" width="641" height="21"/>
 <dlgitem id="10791" text="Close to System Tray" left="12" top="399" width="509" height="25"/>
 </Dialog>
-<Dialog id="10840" text="Dialog" left="0" top="0" width="381" height="190">
+<Dialog id="10840" text="Dialog" left="0" top="0" width="391" height="200">
 <dlgitem id="1" text="Đồng ý" left="203" top="123" width="65" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="273" top="123" width="65" height="25"/>
 <dlgitem id="1045" text="To download this file from Foxit's server, please click OK. \nTo get more information about volunteer translations, please refer to:" left="30" top="28" width="355" height="53"/>
@@ -4380,7 +4388,7 @@
 </FoxitUpdater_DLL>
 <fpdfprint_dll>
 <Dialogs>
-<Dialog id="18113" text="In" left="0" top="0" width="711" height="636">
+<Dialog id="18113" text="In" left="0" top="0" width="721" height="646">
 <dlgitem id="18246" text="" left="12" top="0" width="679" height="98"/>
 <dlgitem id="18247" text="Name:(&amp;N)" left="23" top="18" width="58" height="16"/>
 <dlgitem id="18243" text="" left="86" top="16" width="299" height="22"/>
@@ -4435,12 +4443,12 @@
 <dlgitem id="1" text="Đồng ý" left="457" top="569" width="86" height="26"/>
 <dlgitem id="2" text="Hủy bỏ" left="569" top="569" width="86" height="26"/>
 </Dialog>
-<Dialog id="18114" text="Tiến trình" left="0" top="0" width="470" height="117">
+<Dialog id="18114" text="Tiến trình" left="0" top="0" width="480" height="127">
 <dlgitem id="2" text="Hủy bỏ" left="371" top="29" width="74" height="20"/>
 <dlgitem id="18200" text="" left="15" top="33" width="345" height="15"/>
 <dlgitem id="18268" text="Đang in..." left="20" top="59" width="332" height="16"/>
 </Dialog>
-<Dialog id="18115" text="Mật khẩu" left="0" top="0" width="377" height="140">
+<Dialog id="18115" text="Mật khẩu" left="0" top="0" width="387" height="150">
 <dlgitem id="18245" text="Nhập mật khẩu:" left="63" top="44" width="84" height="13"/>
 <dlgitem id="18200" text="" left="152" top="39" width="177" height="23"/>
 <dlgitem id="1" text="Đồng ý" left="221" top="80" width="60" height="20"/>
@@ -4448,7 +4456,7 @@
 <dlgitem id="18202" text="Tập tin này đã được bảo vệ. Xin vui lòng nhập mật khẩu để mở nó." left="48" top="13" width="306" height="13"/>
 <dlgitem id="65535" text="" left="12" top="13" width="30" height="33"/>
 </Dialog>
-<Dialog id="18116" text="Page Ranges" left="0" top="0" width="274" height="157">
+<Dialog id="18116" text="Page Ranges" left="0" top="0" width="284" height="167">
 <dlgitem id="18277" text="If you want to print pages 3,5 and 8,\nenter &quot;3,5,8&quot; in the text box.\n\nIf you want to print pages from 3 to 8,\nenter &quot;3-8&quot; in the text box." left="16" top="19" width="236" height="93"/>
 </Dialog>
 <Dialog id="18117" left="0" top="0" width="364" height="154">
@@ -4492,7 +4500,7 @@
 <dlgitem id="18014" text="Cut Marks" left="4" top="86" width="352" height="18"/>
 <dlgitem id="18015" text="Labels" left="4" top="119" width="352" height="18"/>
 </Dialog>
-<Dialog id="18121" text="Nâng cao" left="0" top="0" width="631" height="447">
+<Dialog id="18121" text="Nâng cao" left="0" top="0" width="641" height="457">
 <dlgitem id="18285" text="PCL Optimization(&amp;P)" left="19" top="14" width="593" height="18"/>
 <dlgitem id="18286" text="If you select “PCL Optimization”, printings will be executed with PCL Optimization Driver. You can remove the printer from the “PCL Optimization Drivers” if you are not satisfied with the printing results it delivers." left="19" top="39" width="581" height="46"/>
 <dlgitem id="18287" text="Printers(&amp;t)" left="19" top="96" width="215" height="14"/>
@@ -4837,7 +4845,7 @@
 <GlobalWnd_DLL>
 <Dialogs>
 <Dialog id="30001" left="0" top="0" width="329" height="170"/>
-<Dialog id="30002" text="Go to a page" left="0" top="0" width="305" height="202">
+<Dialog id="30002" text="Go to a page" left="0" top="0" width="315" height="212">
 <dlgitem id="1" text="Set this position(&amp;S)" left="35" top="124" width="114" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="175" top="124" width="88" height="25"/>
 <dlgitem id="30019" text="" left="18" top="18" width="270" height="96"/>
@@ -4848,20 +4856,20 @@
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="397" top="291" width="88" height="25"/>
 <dlgitem id="30015" text="Enter JavaScript:" left="14" top="11" width="131" height="14"/>
 </Dialog>
-<Dialog id="30004" text="Launch File Selection" left="0" top="0" width="547" height="153">
+<Dialog id="30004" text="Launch File Selection" left="0" top="0" width="557" height="163">
 <dlgitem id="30021" text="Edit or select a file to launch:(&amp;E)" left="18" top="19" width="222" height="18"/>
 <dlgitem id="30022" text="" left="18" top="39" width="473" height="21"/>
 <dlgitem id="30023" text="Button1" left="499" top="39" width="26" height="18"/>
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="338" top="82" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="438" top="82" width="88" height="25"/>
 </Dialog>
-<Dialog id="30005" text="Sửa URL" left="0" top="0" width="501" height="141">
+<Dialog id="30005" text="Sửa URL" left="0" top="0" width="511" height="151">
 <dlgitem id="30016" text="Enter URL for this link:(&amp;E)" left="18" top="18" width="343" height="14"/>
 <dlgitem id="30011" text="" left="18" top="35" width="464" height="22"/>
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="289" top="72" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="394" top="72" width="88" height="25"/>
 </Dialog>
-<Dialog id="30006" text="Reset a Form" left="0" top="0" width="333" height="321">
+<Dialog id="30006" text="Reset a Form" left="0" top="0" width="343" height="331">
 <dlgitem id="30030" text="Select Fields" left="18" top="9" width="292" height="228"/>
 <dlgitem id="30029" text="Tree2" left="26" top="30" width="175" height="198"/>
 <dlgitem id="30028" text="Chọn tất cả(&amp;S)" left="210" top="37" width="88" height="25"/>
@@ -4869,13 +4877,13 @@
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="119" top="247" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="219" top="247" width="88" height="25"/>
 </Dialog>
-<Dialog id="30007" text="Menu Item Selection" left="0" top="0" width="578" height="213">
+<Dialog id="30007" text="Menu Item Selection" left="0" top="0" width="588" height="223">
 <dlgitem id="1" text="Đồng ý" left="369" top="123" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="469" top="123" width="88" height="25"/>
 <dlgitem id="30018" text="Select an item from the menu below as an action to execute.  \nThe current selected menu item is:" left="18" top="9" width="455" height="35"/>
 <dlgitem id="30017" text="" left="53" top="47" width="464" height="53"/>
 </Dialog>
-<Dialog id="30008" text="Show/Hide a field" left="0" top="0" width="325" height="318">
+<Dialog id="30008" text="Show/Hide a field" left="0" top="0" width="335" height="328">
 <dlgitem id="30020" text="Select Field" left="16" top="5" width="289" height="224"/>
 <dlgitem id="30013" text="" left="26" top="26" width="177" height="194"/>
 <dlgitem id="30014" text="Show(&amp;S)" left="219" top="35" width="79" height="18"/>
@@ -4883,7 +4891,7 @@
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="116" top="247" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="217" top="247" width="88" height="25"/>
 </Dialog>
-<Dialog id="30009" text="Submit a form" left="0" top="0" width="585" height="428">
+<Dialog id="30009" text="Submit a form" left="0" top="0" width="595" height="438">
 <dlgitem id="30078" text="Export Format" left="14" top="9" width="280" height="105"/>
 <dlgitem id="30082" text="FDF" left="37" top="26" width="84" height="23"/>
 <dlgitem id="30085" text="HTML" left="37" top="47" width="84" height="23"/>
@@ -4910,7 +4918,7 @@
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="375" top="362" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="478" top="362" width="88" height="25"/>
 </Dialog>
-<Dialog id="30074" text="Calculation Order" left="0" top="0" width="353" height="372">
+<Dialog id="30074" text="Calculation Order" left="0" top="0" width="363" height="382">
 <dlgitem id="30013" text="" left="12" top="32" width="233" height="263"/>
 <dlgitem id="30076" text="Up(&amp;U)" left="257" top="53" width="70" height="25"/>
 <dlgitem id="30079" text="Down(&amp;D)" left="257" top="95" width="70" height="25"/>
@@ -4918,13 +4926,13 @@
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="240" top="306" width="88" height="25"/>
 <dlgitem id="30284" text="Form fields:" left="12" top="9" width="88" height="18"/>
 </Dialog>
-<Dialog id="30081" text="File Format" left="0" top="0" width="318" height="157">
+<Dialog id="30081" text="File Format" left="0" top="0" width="328" height="167">
 <dlgitem id="30223" text="" left="77" top="44" width="156" height="22"/>
 <dlgitem id="1" text="Đồng ý" left="107" top="88" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="205" top="88" width="88" height="25"/>
 <dlgitem id="30224" text="Please select a file format:" left="12" top="12" width="215" height="26"/>
 </Dialog>
-<Dialog id="30083" text="PDF Permission" left="0" top="0" width="549" height="461">
+<Dialog id="30083" text="PDF Permission" left="0" top="0" width="559" height="471">
 <dlgitem id="30220" text="Tree1" left="12" top="35" width="518" height="207"/>
 <dlgitem id="1" text="Đồng ý" left="343" top="396" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="443" top="396" width="88" height="25"/>
@@ -4955,13 +4963,13 @@
 <dlgitem id="30242" text="Static:" left="23" top="354" width="221" height="16"/>
 <dlgitem id="30233" text="Static" left="284" top="354" width="292" height="16"/>
 </Dialog>
-<Dialog id="30091" text="Menu Item Selection" left="0" top="0" width="410" height="409">
+<Dialog id="30091" text="Menu Item Selection" left="0" top="0" width="420" height="419">
 <dlgitem id="30092" text="Tree1" left="12" top="44" width="380" height="289"/>
 <dlgitem id="1" text="Đồng ý" left="196" top="343" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="305" top="343" width="88" height="25"/>
 <dlgitem id="30018" text="Select an item from the menu below as an action to execute:" left="14" top="16" width="376" height="23"/>
 </Dialog>
-<Dialog id="30095" text="Mật khẩu" left="0" top="0" width="473" height="162">
+<Dialog id="30095" text="Mật khẩu" left="0" top="0" width="483" height="172">
 <dlgitem id="30136" text="Nhập mật khẩu:" left="117" top="58" width="98" height="14"/>
 <dlgitem id="30139" text="" left="221" top="54" width="207" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="250" top="96" width="88" height="25"/>
@@ -4969,7 +4977,7 @@
 <dlgitem id="30146" text="Tập tin này đã được bảo vệ. Xin vui lòng nhập mật khẩu để mở nó." left="56" top="14" width="401" height="28"/>
 <dlgitem id="30149" text="I" left="9" top="14" width="37" height="30"/>
 </Dialog>
-<Dialog id="30099" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30099" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30153" text="Where would you like to store your self-signed digital ID?" left="26" top="32" width="415" height="18"/>
 <dlgitem id="30156" text="" left="49" top="100" width="511" height="54"/>
 <dlgitem id="30106" text="New PKCS#12 digital ID file(&amp;N)" left="32" top="68" width="180" height="18"/>
@@ -4979,7 +4987,7 @@
 <dlgitem id="30144" text="Quay lại" left="373" top="355" width="88" height="25"/>
 <dlgitem id="30100" text="Hủy bỏ" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="30103" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30103" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30162" text="Enter your identity information to be used when generating the self-signed certificate." left="25" top="35" width="509" height="14"/>
 <dlgitem id="30165" text="Name(e.g.John Smith):(&amp;N)" left="44" top="77" width="131" height="14"/>
 <dlgitem id="30113" text="" left="198" top="75" width="159" height="25"/>
@@ -4999,7 +5007,7 @@
 <dlgitem id="30144" text="Quay lại" left="373" top="355" width="88" height="25"/>
 <dlgitem id="30100" text="Hủy bỏ" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="30107" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30107" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30183" text="" left="26" top="32" width="539" height="58"/>
 <dlgitem id="30186" text="Tên tập tin:(&amp;F)" left="26" top="105" width="68" height="16"/>
 <dlgitem id="30133" text="" left="26" top="137" width="436" height="25"/>
@@ -5012,7 +5020,7 @@
 <dlgitem id="30144" text="Quay lại" left="373" top="355" width="88" height="25"/>
 <dlgitem id="30100" text="Hủy bỏ" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="30111" text="Digital ID Authentication" left="0" top="0" width="559" height="279">
+<Dialog id="30111" text="Digital ID Authentication" left="0" top="0" width="569" height="289">
 <dlgitem id="30285" text="Access to your digital ID is required to open an encryted document." left="30" top="28" width="399" height="28"/>
 <dlgitem id="30286" text="Digital ID Information:" left="21" top="63" width="184" height="26"/>
 <dlgitem id="30287" text="Issuer:" left="44" top="89" width="42" height="14"/>
@@ -5024,7 +5032,7 @@
 <dlgitem id="1" text="Đồng ý" left="313" top="194" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="422" top="194" width="88" height="25"/>
 </Dialog>
-<Dialog id="30152" text="Create Multiple Copies of Fields" left="0" top="0" width="382" height="414">
+<Dialog id="30152" text="Create Multiple Copies of Fields" left="0" top="0" width="392" height="424">
 <dlgitem id="30155" text="Number of Fields" left="18" top="5" width="341" height="82"/>
 <dlgitem id="30211" text="Copy selected fields down (times)(&amp;d)" left="33" top="25" width="210" height="21"/>
 <dlgitem id="30179" text="0" left="250" top="21" width="70" height="25"/>
@@ -5053,7 +5061,7 @@
 <dlgitem id="30248" text="0" left="0" top="0" width="45" height="21"/>
 <dlgitem id="30249" text="Spin1" left="43" top="0" width="18" height="21"/>
 </Dialog>
-<Dialog id="30250" text="Select Icon" left="0" top="0" width="361" height="383">
+<Dialog id="30250" text="Select Icon" left="0" top="0" width="371" height="393">
 <dlgitem id="30094" text="Tập tin:(&amp;F)" left="2" top="25" width="44" height="16"/>
 <dlgitem id="30025" text="" left="58" top="23" width="198" height="23"/>
 <dlgitem id="30026" text="Browse...(&amp;B)" left="268" top="23" width="70" height="25"/>
@@ -5062,14 +5070,14 @@
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="149" top="313" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="249" top="313" width="88" height="25"/>
 </Dialog>
-<Dialog id="30252" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30252" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30147" text="Next " left="469" top="355" width="88" height="25"/>
 <dlgitem id="30153" text="I want to sign this document using:" left="26" top="39" width="415" height="18"/>
 <dlgitem id="30199" text="My existing digital ID from a file(&amp;M)" left="44" top="124" width="221" height="18"/>
 <dlgitem id="30201" text="A new digital ID I want to create now(&amp;A)" left="44" top="196" width="270" height="18"/>
 <dlgitem id="30100" text="Hủy bỏ" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="30254" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30254" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30183" text="Browse for a digital ID file. Digital ID files are password protected and require your password in order to be opened." left="26" top="32" width="539" height="58"/>
 <dlgitem id="30186" text="Tên tập tin:(&amp;F)" left="26" top="105" width="68" height="16"/>
 <dlgitem id="30133" text="" left="26" top="137" width="436" height="25"/>
@@ -5080,7 +5088,7 @@
 <dlgitem id="30144" text="Quay lại" left="373" top="355" width="88" height="25"/>
 <dlgitem id="30100" text="Hủy bỏ" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="30256" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="30256" text="Add Digital ID" left="0" top="0" width="595" height="438">
 <dlgitem id="30183" text="The following digital IDs will be added to your list of digital IDs that you can use for signing or encryption:" left="26" top="32" width="539" height="58"/>
 <dlgitem id="30209" text="" left="26" top="89" width="513" height="172"/>
 <dlgitem id="0" text="" left="0" top="0" width="509" height="24"/>
@@ -5190,7 +5198,7 @@
 </GlobalWnd_DLL>
 <JavaScript_DLL>
 <Dialogs>
-<Dialog id="25600" text="Dialog" left="0" top="0" width="568" height="159">
+<Dialog id="25600" text="Dialog" left="0" top="0" width="578" height="169">
 <dlgitem id="25603" text="Đồng ý(&amp;O)" left="175" top="93" width="88" height="25"/>
 <dlgitem id="25604" text="Hủy bỏ(&amp;C)" left="270" top="93" width="88" height="25"/>
 <dlgitem id="25606" text="Có(&amp;Y)" left="364" top="93" width="88" height="25"/>
@@ -5198,7 +5206,7 @@
 <dlgitem id="25602" text="" left="70" top="19" width="471" height="65"/>
 <dlgitem id="25605" text="I" left="28" top="25" width="21" height="21"/>
 </Dialog>
-<Dialog id="25601" text="Dialog" left="0" top="0" width="458" height="174">
+<Dialog id="25601" text="Dialog" left="0" top="0" width="468" height="184">
 <dlgitem id="25611" text="" left="16" top="61" width="79" height="18"/>
 <dlgitem id="25609" text="Đồng ý(&amp;O)" left="233" top="107" width="88" height="25"/>
 <dlgitem id="25610" text="Hủy bỏ(&amp;C)" left="352" top="107" width="88" height="25"/>
@@ -5270,7 +5278,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="10223" text="Layer Properties" left="0" top="0" width="407" height="524">
+<Dialog id="10223" text="Layer Properties" left="0" top="0" width="417" height="534">
 <dlgitem id="1" text="Đồng ý" left="107" top="434" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="207" top="434" width="88" height="25"/>
 <dlgitem id="10203" text="Layer Name:" left="16" top="16" width="84" height="14"/>
@@ -5303,7 +5311,7 @@
 </LayerPanelTool_DLL>
 <LicenseManager_DLL>
 <Dialogs>
-<Dialog id="22224" text="%s" left="0" top="0" width="459" height="230">
+<Dialog id="22224" text="%s" left="0" top="0" width="469" height="240">
 <dlgitem id="22205" text="Remind Me Later(&amp;R)" left="121" top="165" width="140" height="25"/>
 <dlgitem id="22206" text="Activate(&amp;A)" left="12" top="165" width="88" height="25"/>
 <dlgitem id="22204" text="" left="12" top="7" width="44" height="37"/>
@@ -5315,7 +5323,7 @@
 <dlgitem id="22212" text="Continue Use(&amp;U)" left="264" top="165" width="91" height="25"/>
 <dlgitem id="22213" text="Hủy bỏ(&amp;C)" left="361" top="165" width="79" height="25"/>
 </Dialog>
-<Dialog id="22241" text="Welcome to %s %s Evaluation" left="0" top="0" width="627" height="206">
+<Dialog id="22241" text="Welcome to %s %s Evaluation" left="0" top="0" width="637" height="216">
 <dlgitem id="1" text="Start Evaluation" left="392" top="140" width="114" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="522" top="140" width="88" height="25"/>
 <dlgitem id="22236" text="Click 'Start Evaluation' to begin a 30-day evaluation of %s %s Edition. During this period, you can use the powerful and exciting new features of the %s Edition, including PDF text editing, password protection, form creation, and more." left="30" top="14" width="564" height="46"/>
@@ -5323,12 +5331,12 @@
 <dlgitem id="22239" text="If you choose to start the evaluation, %s will be restarted to switch to the %s Edition." left="30" top="100" width="564" height="30"/>
 <dlgitem id="22307" text="Learn more about %s" left="30" top="149" width="175" height="14"/>
 </Dialog>
-<Dialog id="22242" text="Restart Needed" left="0" top="0" width="452" height="157">
+<Dialog id="22242" text="Restart Needed" left="0" top="0" width="462" height="167">
 <dlgitem id="1" text="Đồng ý" left="249" top="91" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="347" top="91" width="88" height="25"/>
 <dlgitem id="4294967295" text="Your session needs to be restarted to complete the activation. \nClick &quot;OK&quot; to restart it now. \n\nOr you can click &quot;Cancel&quot; and restart it later." left="16" top="7" width="410" height="79"/>
 </Dialog>
-<Dialog id="22331" text="Subscribe Renew" left="0" top="0" width="533" height="173">
+<Dialog id="22331" text="Subscribe Renew" left="0" top="0" width="543" height="183">
 <dlgitem id="1" text="Đồng ý" left="417" top="102" width="88" height="25"/>
 <dlgitem id="22310" text="You have bought %d days use of %s and now remaining %d days. you can click the below link to renew :" left="32" top="33" width="476" height="32"/>
 <dlgitem id="22311" text="http://www.foxitsoftware.com/shopping" left="35" top="70" width="228" height="19"/>
@@ -5403,7 +5411,7 @@
 <string id="22370" text="The subscription key you used has expired, please renew it at our website. Error code : %s"/>
 <string id="22371" text="The subscription key does not exist in this machine, you cannot update, deactivate, renew. Error code : %s"/>
 <string id="22372" text="The subscription key has been deactivated on this machine. Error code : %s"/>
-<string id="22373" text="The subscription key is the latest one. You can start to use our product. Error code : %s"/>
+<string id="22373" text="The subscription key is the latest one. You can start to use our product."/>
 <string id="22375" text="The subscription key cannot use in current version. Please use the right one. Error code : %s"/>
 <string id="22376" text="The subscription key cannot use in the current Language version. Please use the right one. Error code : %s"/>
 <string id="22377" text="Error code : %s"/>
@@ -5413,17 +5421,20 @@
 <string id="22381" text="Activation failed. Error code: %d"/>
 <string id="22382" text="The Registration Code or Key File you used has expired. Please use a valid key and try again. If you have any other questions, please contact our customer service. Error Code: %d."/>
 <string id="22383" text="The version information in the Registration Code or Key File is not consistent with that of your current application, please check your Key file and try again. If you have any other questions, please contact our customer service. Error Code: %d."/>
+<string id="22384" text="Can not get activation code, please try to reactivate."/>
+<string id="22389" text="Subscribe"/>
+<string id="22390" text="Get more Subscription information"/>
 </Strings>
 </LicenseManager_DLL>
 <LinkAnnot_DLL>
 <Dialogs>
-<Dialog id="22005" text="Go to a named position" left="0" top="0" width="326" height="398">
+<Dialog id="22005" text="Go to a named position" left="0" top="0" width="336" height="408">
 <dlgitem id="22032" text="Select a named position from the below list:" left="12" top="12" width="254" height="14"/>
 <dlgitem id="22031" text="" left="12" top="26" width="296" height="298"/>
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="121" top="336" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="221" top="336" width="88" height="25"/>
 </Dialog>
-<Dialog id="22006" text="Create Link" left="0" top="0" width="477" height="307">
+<Dialog id="22006" text="Create Link" left="0" top="0" width="487" height="317">
 <dlgitem id="22019" text="Trình bày" left="11" top="12" width="446" height="96"/>
 <dlgitem id="22024" text="Thickness:(&amp;T)" left="19" top="35" width="75" height="18"/>
 <dlgitem id="22018" text="0" left="100" top="35" width="28" height="21"/>
@@ -5455,7 +5466,7 @@
 <dlgitem id="22034" text="Nổi bật:(&amp;H)" left="236" top="23" width="70" height="25"/>
 <dlgitem id="22009" text="" left="315" top="26" width="105" height="22"/>
 </Dialog>
-<Dialog id="22038" text="Please wait ..." left="0" top="0" width="354" height="139">
+<Dialog id="22038" text="Please wait ..." left="0" top="0" width="364" height="149">
 <dlgitem id="22039" text="" left="70" top="12" width="266" height="86"/>
 <dlgitem id="22041" text="Here is the information message." left="81" top="23" width="245" height="63"/>
 </Dialog>
@@ -5559,7 +5570,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="135" text="Author Name" left="0" top="0" width="249" height="139">
+<Dialog id="135" text="Author Name" left="0" top="0" width="259" height="149">
 <dlgitem id="1" text="Đồng ý" left="79" top="70" width="72" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="158" top="70" width="72" height="25"/>
 <dlgitem id="1020" text="Input author's name:" left="14" top="11" width="215" height="19"/>
@@ -5959,7 +5970,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="24508" text="Thêm hình ảnh" left="0" top="0" width="571" height="489">
+<Dialog id="24508" text="Thêm hình ảnh" left="0" top="0" width="581" height="499">
 <dlgitem id="24711" text="Browse...(&amp;B)" left="448" top="35" width="86" height="26"/>
 <dlgitem id="2" text="Hủy bỏ" left="466" top="424" width="88" height="25"/>
 <dlgitem id="24554" text="Image Settings" left="12" top="5" width="541" height="387"/>
@@ -5975,7 +5986,7 @@
 <dlgitem id="24558" text="%" left="259" top="361" width="14" height="18"/>
 <dlgitem id="1" text="Đồng ý" left="350" top="424" width="88" height="25"/>
 </Dialog>
-<Dialog id="24512" text="Image placement" left="0" top="0" width="353" height="379">
+<Dialog id="24512" text="Image placement" left="0" top="0" width="363" height="389">
 <dlgitem id="24525" text="When to scale:(&amp;W)" left="23" top="21" width="102" height="19"/>
 <dlgitem id="24527" text="" left="130" top="21" width="149" height="22"/>
 <dlgitem id="24526" text="Scale:(&amp;S)" left="53" top="53" width="72" height="18"/>
@@ -6004,12 +6015,12 @@
 <dlgitem id="24705" text="" left="116" top="130" width="19" height="18"/>
 <dlgitem id="24721" text="Change Poster...(&amp;P)" left="26" top="180" width="130" height="21"/>
 </Dialog>
-<Dialog id="24569" text="Foxit PhantomPDF" left="0" top="0" width="487" height="150">
+<Dialog id="24569" text="Foxit PhantomPDF" left="0" top="0" width="497" height="160">
 <dlgitem id="1" text="Đồng ý" left="373" top="82" width="88" height="25"/>
 <dlgitem id="24570" text="" left="63" top="18" width="401" height="58"/>
 <dlgitem id="24722" text="" left="16" top="18" width="35" height="35"/>
 </Dialog>
-<Dialog id="24614" text="Thêm âm thanh" left="0" top="0" width="550" height="337">
+<Dialog id="24614" text="Thêm âm thanh" left="0" top="0" width="560" height="347">
 <dlgitem id="24637" text="Location:(&amp;L)" left="49" top="35" width="53" height="14"/>
 <dlgitem id="24633" text="" left="109" top="32" width="306" height="23"/>
 <dlgitem id="24634" text="Browse...(&amp;B)" left="429" top="33" width="88" height="21"/>
@@ -6064,7 +6075,7 @@
 <dlgitem id="24762" text="Sửa...(&amp;E)" left="422" top="343" width="86" height="25"/>
 <dlgitem id="24763" text="Xóa(&amp;D)" left="525" top="343" width="86" height="25"/>
 </Dialog>
-<Dialog id="24623" text="Specify Player" left="0" top="0" width="312" height="204">
+<Dialog id="24623" text="Specify Player" left="0" top="0" width="322" height="214">
 <dlgitem id="24767" text="Name:(&amp;N)" left="30" top="39" width="42" height="14"/>
 <dlgitem id="24764" text="" left="79" top="35" width="196" height="22"/>
 <dlgitem id="24768" text="Status:(&amp;S)" left="32" top="82" width="40" height="14"/>
@@ -6110,7 +6121,7 @@
 <dlgitem id="24509" text="" left="229" top="361" width="40" height="21"/>
 <dlgitem id="24558" text="%" left="273" top="364" width="14" height="18"/>
 </Dialog>
-<Dialog id="24701" text="Multimedia Content" left="0" top="0" width="480" height="166">
+<Dialog id="24701" text="Multimedia Content" left="0" top="0" width="490" height="176">
 <dlgitem id="1" text="Play" left="252" top="96" width="88" height="25"/>
 <dlgitem id="2" text="Reject" left="361" top="96" width="88" height="25"/>
 <dlgitem id="24598" text="Play one time" left="397" top="30" width="14" height="14"/>
@@ -6118,13 +6129,13 @@
 <dlgitem id="24703" text="Remember choice until I close the document" left="23" top="67" width="312" height="18"/>
 <dlgitem id="24700" text="Multimedia contents have been opened.  Do you want to play the contents?" left="23" top="19" width="420" height="33"/>
 </Dialog>
-<Dialog id="24702" text="Enter URL for Movie" left="0" top="0" width="438" height="153">
+<Dialog id="24702" text="Enter URL for Movie" left="0" top="0" width="448" height="163">
 <dlgitem id="1" text="Đồng ý" left="175" top="79" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="319" top="79" width="88" height="25"/>
 <dlgitem id="24702" text="Location:(&amp;o)" left="26" top="32" width="53" height="14"/>
 <dlgitem id="24703" text="" left="89" top="30" width="317" height="21"/>
 </Dialog>
-<Dialog id="24703" text="Sound Recorder" left="0" top="0" width="431" height="162">
+<Dialog id="24703" text="Sound Recorder" left="0" top="0" width="441" height="172">
 <dlgitem id="1" text="Đồng ý" left="214" top="96" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="326" top="96" width="88" height="25"/>
 <dlgitem id="24704" text="Browse..." left="12" top="96" width="88" height="25"/>
@@ -6145,7 +6156,7 @@
 <dlgitem id="24719" text="Down(&amp;o)" left="366" top="261" width="58" height="23"/>
 </Dialog>
 <Dialog id="24705" left="0" top="0" width="242" height="80"/>
-<Dialog id="24706" text="Add Video  Audio(&amp; )" left="0" top="0" width="547" height="337">
+<Dialog id="24706" text="Add Video  Audio(&amp; )" left="0" top="0" width="557" height="347">
 <dlgitem id="24631" text="Browse...(&amp;B)" left="441" top="35" width="72" height="21"/>
 <dlgitem id="24704" text="Poster Settings" left="12" top="140" width="516" height="109"/>
 <dlgitem id="1" text="Đồng ý" left="308" top="266" width="88" height="25"/>
@@ -6163,7 +6174,7 @@
 <dlgitem id="24801" text="Show Player(&amp;S)" left="299" top="102" width="214" height="21"/>
 <dlgitem id="24630" text="" left="116" top="214" width="308" height="21"/>
 </Dialog>
-<Dialog id="24712" text="Thêbieu6443 diễn bằng URL" left="0" top="0" width="463" height="180">
+<Dialog id="24712" text="Thêbieu6443 diễn bằng URL" left="0" top="0" width="473" height="190">
 <dlgitem id="1" text="Đồng ý" left="243" top="112" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="345" top="112" width="88" height="25"/>
 <dlgitem id="24725" text="Location:(&amp;L)" left="12" top="37" width="96" height="14"/>
@@ -6171,14 +6182,14 @@
 <dlgitem id="24726" text="Content Type:(&amp;C)" left="12" top="74" width="96" height="14"/>
 <dlgitem id="24724" text="" left="116" top="72" width="319" height="22"/>
 </Dialog>
-<Dialog id="24713" text="Copy Rendition" left="0" top="0" width="452" height="171">
+<Dialog id="24713" text="Copy Rendition" left="0" top="0" width="462" height="181">
 <dlgitem id="1" text="Đồng ý" left="243" top="102" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="347" top="102" width="88" height="25"/>
 <dlgitem id="24727" text="Rendition to Copy:(&amp;R)" left="19" top="30" width="107" height="14"/>
 <dlgitem id="24729" text="" left="138" top="26" width="280" height="22"/>
 <dlgitem id="24730" text="Please select a rendition from the list above that you want to copy." left="137" top="58" width="298" height="32"/>
 </Dialog>
-<Dialog id="24714" text="Change Poster" left="0" top="0" width="543" height="225">
+<Dialog id="24714" text="Change Poster" left="0" top="0" width="553" height="235">
 <dlgitem id="1" text="Đồng ý" left="333" top="159" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="438" top="159" width="88" height="25"/>
 <dlgitem id="24714" text="Poster Setting" left="16" top="9" width="509" height="140"/>
@@ -6189,7 +6200,7 @@
 <dlgitem id="24718" text="Browse...(&amp;B)" left="424" top="105" width="84" height="25"/>
 <dlgitem id="24752" text="" left="105" top="105" width="305" height="25"/>
 </Dialog>
-<Dialog id="24715" text="Thêm biểu diễn mới bằng tệp tin" left="0" top="0" width="507" height="188">
+<Dialog id="24715" text="Thêm biểu diễn mới bằng tệp tin" left="0" top="0" width="517" height="198">
 <dlgitem id="1" text="Đồng ý" left="303" top="123" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="401" top="123" width="88" height="25"/>
 <dlgitem id="24736" text="Location:(&amp;L)" left="28" top="30" width="79" height="14"/>
@@ -6199,7 +6210,7 @@
 <dlgitem id="24734" text="" left="116" top="61" width="275" height="22"/>
 <dlgitem id="24735" text="Embed content in document(&amp;E)" left="23" top="95" width="182" height="18"/>
 </Dialog>
-<Dialog id="24716" text="General" left="0" top="0" width="452" height="290">
+<Dialog id="24716" text="General" left="0" top="0" width="462" height="300">
 <dlgitem id="24739" text="Title:(&amp;T)" left="26" top="32" width="28" height="14"/>
 <dlgitem id="24738" text="" left="65" top="28" width="369" height="23"/>
 <dlgitem id="24740" text="Media Location" left="26" top="75" width="408" height="172"/>
@@ -6208,7 +6219,7 @@
 <dlgitem id="24743" text="Browse...(&amp;B)" left="340" top="103" width="77" height="23"/>
 <dlgitem id="24744" text="" left="42" top="172" width="373" height="54"/>
 </Dialog>
-<Dialog id="24717" text="Playback" left="0" top="0" width="284" height="199">
+<Dialog id="24717" text="Playback" left="0" top="0" width="294" height="209">
 <dlgitem id="24745" text="Show Player Controls(&amp;w)" left="23" top="23" width="142" height="18"/>
 <dlgitem id="24746" text="Use floating window(&amp;U)" left="23" top="53" width="138" height="18"/>
 <dlgitem id="24747" text="" left="75" top="82" width="175" height="22"/>
@@ -6226,20 +6237,20 @@
 <dlgitem id="24712" text="Slider1" left="268" top="93" width="98" height="25"/>
 <dlgitem id="24713" text="%" left="329" top="61" width="30" height="21"/>
 </Dialog>
-<Dialog id="24728" text="Capture Image" left="0" top="0" width="388" height="316">
+<Dialog id="24728" text="Capture Image" left="0" top="0" width="398" height="326">
 <dlgitem id="24725" text="Capture(&amp;t)" left="12" top="250" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="282" top="250" width="88" height="25"/>
 <dlgitem id="24724" text="Settings(&amp;S)" left="144" top="250" width="88" height="25"/>
 <dlgitem id="24742" text="" left="12" top="12" width="357" height="221"/>
 </Dialog>
-<Dialog id="24729" text="Chụp video" left="0" top="0" width="456" height="353">
+<Dialog id="24729" text="Chụp video" left="0" top="0" width="466" height="363">
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="364" top="287" width="74" height="25"/>
 <dlgitem id="24726" text="Stop(&amp;p)" left="131" top="287" width="74" height="25"/>
 <dlgitem id="24727" text="Settings(&amp;t)" left="249" top="287" width="74" height="25"/>
 <dlgitem id="24728" text="Start(&amp;S)" left="11" top="287" width="74" height="25"/>
 <dlgitem id="24743" text="" left="11" top="12" width="427" height="256"/>
 </Dialog>
-<Dialog id="24730" text="Capture Video Settings" left="0" top="0" width="431" height="327">
+<Dialog id="24730" text="Capture Video Settings" left="0" top="0" width="441" height="337">
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="212" top="261" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="313" top="261" width="88" height="25"/>
 <dlgitem id="24729" text="Thiết lập âm thanh" left="19" top="16" width="396" height="56"/>
@@ -6259,7 +6270,7 @@
 <dlgitem id="24745" text="Device:(&amp;D)" left="30" top="109" width="42" height="14"/>
 <dlgitem id="24746" text="" left="86" top="105" width="315" height="22"/>
 </Dialog>
-<Dialog id="24731" text="Capture Image Settings" left="0" top="0" width="409" height="194">
+<Dialog id="24731" text="Capture Image Settings" left="0" top="0" width="419" height="204">
 <dlgitem id="1" text="Đồng ý" left="193" top="128" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="303" top="128" width="88" height="25"/>
 <dlgitem id="24748" text="Device:(&amp;D)" left="23" top="26" width="42" height="14"/>
@@ -6267,12 +6278,12 @@
 <dlgitem id="24749" text="Video Source...(&amp;S)" left="70" top="65" width="96" height="25"/>
 <dlgitem id="24750" text="Video Format...(&amp;F)" left="193" top="65" width="96" height="25"/>
 </Dialog>
-<Dialog id="24739" text="URL Location Confirmation" left="0" top="0" width="347" height="122">
+<Dialog id="24739" text="URL Location Confirmation" left="0" top="0" width="357" height="132">
 <dlgitem id="1" text="Đồng ý" left="152" top="61" width="75" height="23"/>
 <dlgitem id="2" text="Hủy bỏ" left="252" top="61" width="75" height="23"/>
 <dlgitem id="24751" text="" left="14" top="16" width="313" height="40"/>
 </Dialog>
-<Dialog id="24805" text="Dialog" left="0" top="0" width="419" height="341">
+<Dialog id="24805" text="Dialog" left="0" top="0" width="429" height="351">
 <dlgitem id="1" text="Đồng ý" left="196" top="250" width="88" height="28"/>
 <dlgitem id="2" text="Hủy bỏ" left="289" top="250" width="88" height="28"/>
 <dlgitem id="24806" text="Tab1" left="33" top="34" width="348" height="200"/>
@@ -6520,7 +6531,7 @@
 </PagesPanelTool_DLL>
 <PDFOptimizer_DLL>
 <Dialogs>
-<Dialog id="4020" text="Audit Space Usage" left="0" top="0" width="447" height="621">
+<Dialog id="4020" text="Audit Space Usage" left="0" top="0" width="457" height="631">
 <dlgitem id="1" text="Đồng ý" left="175" top="550" width="88" height="25"/>
 <dlgitem id="31155" text="Results" left="12" top="18" width="418" height="511"/>
 <dlgitem id="31151" text="Description" left="28" top="44" width="63" height="14"/>
@@ -6548,7 +6559,7 @@
 <dlgitem id="31161" text="Thumbnails" left="116" top="102" width="105" height="14"/>
 <dlgitem id="31162" text="Web Capture Information" left="210" top="336" width="158" height="14"/>
 </Dialog>
-<Dialog id="4025" text="Sanitize Document" left="0" top="0" width="526" height="430">
+<Dialog id="4025" text="Sanitize Document" left="0" top="0" width="536" height="440">
 <dlgitem id="1" text="Đồng ý" left="315" top="368" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="424" top="368" width="88" height="25"/>
 <dlgitem id="31158" text="Do not show this message again" left="14" top="340" width="205" height="18"/>
@@ -6556,7 +6567,7 @@
 <dlgitem id="31160" text="" left="68" top="75" width="439" height="242"/>
 <dlgitem id="31157" text="" left="23" top="12" width="32" height="28"/>
 </Dialog>
-<Dialog id="31042" text="PDF Optimizer" left="0" top="0" width="781" height="482">
+<Dialog id="31042" text="PDF Optimizer" left="0" top="0" width="791" height="492">
 <dlgitem id="31053" text="List3" left="12" top="44" width="154" height="361"/>
 <dlgitem id="0" text="" left="0" top="0" width="150" height="0"/>
 <dlgitem id="31127" text="Mặc định(&amp;D)" left="520" top="417" width="72" height="25"/>
@@ -6639,13 +6650,13 @@
 <dlgitem id="31110" text="Discard file attachments(&amp;f)" left="9" top="96" width="301" height="18"/>
 <dlgitem id="31115" text="Discard private data of other applications(&amp;r)" left="9" top="126" width="254" height="18"/>
 </Dialog>
-<Dialog id="31050" text="Foxit PhantomPDF" left="0" top="0" width="515" height="183">
+<Dialog id="31050" text="Foxit PhantomPDF" left="0" top="0" width="525" height="193">
 <dlgitem id="31041" text="Do not show this message again(&amp;D)" left="28" top="86" width="208" height="18"/>
 <dlgitem id="1" text="Đồng ý" left="410" top="117" width="88" height="25"/>
 <dlgitem id="31040" text="Hint" left="72" top="19" width="411" height="58"/>
 <dlgitem id="31096" text="" left="28" top="19" width="35" height="35"/>
 </Dialog>
-<Dialog id="31128" text="Recognize Text" left="0" top="0" width="395" height="180">
+<Dialog id="31128" text="Recognize Text" left="0" top="0" width="405" height="190">
 <dlgitem id="31013" text="Current Page(&amp;C)" left="14" top="14" width="158" height="21"/>
 <dlgitem id="31014" text="Tất cả các trang(&amp;A)" left="14" top="42" width="156" height="21"/>
 <dlgitem id="31015" text="Pages from(&amp;P)" left="14" top="70" width="91" height="21"/>
@@ -6760,7 +6771,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="19057" text="File Properties" left="0" top="0" width="342" height="320">
+<Dialog id="19057" text="File Properties" left="0" top="0" width="352" height="330">
 <dlgitem id="1" text="Đồng ý" left="152" top="250" width="75" height="23"/>
 <dlgitem id="2" text="Hủy bỏ" left="243" top="250" width="75" height="23"/>
 <dlgitem id="19050" text="Name:" left="4" top="23" width="86" height="14"/>
@@ -6781,7 +6792,7 @@
 <dlgitem id="1024" text="Create a blank PDF Portfolio" left="35" top="268" width="270" height="23"/>
 <dlgitem id="1019" text="Blank \nPortfolio" left="35" top="298" width="98" height="77"/>
 </Dialog>
-<Dialog id="19108" text="New Folder" left="0" top="0" width="359" height="135">
+<Dialog id="19108" text="New Folder" left="0" top="0" width="369" height="145">
 <dlgitem id="19075" text="" left="150" top="20" width="191" height="24"/>
 <dlgitem id="1" text="Đồng ý" left="117" top="62" width="80" height="26"/>
 <dlgitem id="2" text="Hủy bỏ" left="236" top="62" width="80" height="26"/>
@@ -6795,7 +6806,7 @@
 <dlgitem id="19087" text="" left="125" top="330" width="24" height="23"/>
 <dlgitem id="19088" text="Add a column:" left="21" top="275" width="182" height="13"/>
 </Dialog>
-<Dialog id="19153" text="Foxit PhantomPDF" left="0" top="0" width="284" height="120">
+<Dialog id="19153" text="Foxit PhantomPDF" left="0" top="0" width="294" height="130">
 <dlgitem id="1" text="Đồng ý" left="189" top="57" width="75" height="23"/>
 <dlgitem id="10600" text="Access denied." left="59" top="26" width="209" height="13"/>
 <dlgitem id="10605" text="" left="18" top="16" width="30" height="33"/>
@@ -6921,7 +6932,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="28762" left="0" top="0" width="380" height="221"/>
+<Dialog id="28762" left="0" top="0" width="390" height="231"/>
 </Dialogs>
 <Strings>
 <string id="28751" text="RichMediaAnnot"/>
@@ -6967,7 +6978,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="6042" text="Create Signature" left="0" top="0" width="620" height="411">
+<Dialog id="6042" text="Create Signature" left="0" top="0" width="630" height="421">
 <dlgitem id="6085" text="Browse..." left="231" top="96" width="88" height="25"/>
 <dlgitem id="1" text="Lưu" left="397" top="347" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="516" top="347" width="88" height="25"/>
@@ -6987,7 +6998,7 @@
 <dlgitem id="6106" text="" left="180" top="296" width="131" height="25"/>
 <dlgitem id="6107" text="Require password to use the signature" left="39" top="221" width="273" height="25"/>
 </Dialog>
-<Dialog id="6043" text="Manage Signature" left="0" top="0" width="675" height="437">
+<Dialog id="6043" text="Manage Signature" left="0" top="0" width="685" height="447">
 <dlgitem id="1" text="Đồng ý" left="569" top="371" width="88" height="25"/>
 <dlgitem id="6092" text="Signature" left="28" top="25" width="291" height="336"/>
 <dlgitem id="6093" text="Xem trước" left="347" top="25" width="291" height="336"/>
@@ -6997,7 +7008,7 @@
 <dlgitem id="6090" text="Sửa..." left="137" top="326" width="77" height="25"/>
 <dlgitem id="6091" text="Xóa" left="229" top="326" width="77" height="25"/>
 </Dialog>
-<Dialog id="6047" text="Draw Signature" left="0" top="0" width="716" height="515">
+<Dialog id="6047" text="Draw Signature" left="0" top="0" width="726" height="525">
 <dlgitem id="1" text="Đồng ý" left="524" top="452" width="75" height="23"/>
 <dlgitem id="2" text="Hủy bỏ" left="624" top="452" width="75" height="23"/>
 <dlgitem id="6102" text="" left="23" top="24" width="665" height="416"/>
@@ -7007,14 +7018,14 @@
 <dlgitem id="6104" text="Convert PDF Sign signature to black  white(&amp;&amp;)" left="18" top="33" width="415" height="18"/>
 <dlgitem id="4294967295" text="PDF Sign" left="0" top="0" width="536" height="322"/>
 </Dialog>
-<Dialog id="6053" text="Mật khẩu" left="0" top="0" width="559" height="159">
+<Dialog id="6053" text="Mật khẩu" left="0" top="0" width="569" height="169">
 <dlgitem id="1" text="Đồng ý" left="359" top="93" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="453" top="93" width="88" height="25"/>
 <dlgitem id="4294967295" text="Usage of signature profile is protected and cannot be applied without providing the \ncorrect password." left="25" top="25" width="499" height="39"/>
 <dlgitem id="6109" text="Open password:" left="25" top="68" width="114" height="23"/>
 <dlgitem id="6106" text="" left="151" top="68" width="161" height="25"/>
 </Dialog>
-<Dialog id="32312" text="Select Image for Custom Stamp" left="0" top="0" width="396" height="524">
+<Dialog id="32312" text="Select Image for Custom Stamp" left="0" top="0" width="406" height="534">
 <dlgitem id="1" text="Đồng ý" left="177" top="452" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="280" top="452" width="88" height="25"/>
 <dlgitem id="32307" text="Select a page you preferred from the document as your stamp" left="19" top="19" width="341" height="28"/>
@@ -7024,7 +7035,7 @@
 <dlgitem id="32313" text="1 out of 10 image" left="208" top="408" width="142" height="16"/>
 <dlgitem id="32352" text="" left="95" top="86" width="196" height="310"/>
 </Dialog>
-<Dialog id="32315" text="Create Custom Stamp" left="0" top="0" width="599" height="398">
+<Dialog id="32315" text="Create Custom Stamp" left="0" top="0" width="609" height="408">
 <dlgitem id="32368" text="Browse...(&amp;B)" left="501" top="93" width="63" height="23"/>
 <dlgitem id="32367" text="" left="354" top="93" width="144" height="25"/>
 <dlgitem id="32369" text="Tập tin:" left="301" top="100" width="44" height="14"/>
@@ -7041,7 +7052,7 @@
 <dlgitem id="1" text="Đồng ý" left="387" top="322" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="490" top="322" width="88" height="25"/>
 </Dialog>
-<Dialog id="32323" text="Create Custom Dynamic Stamp" left="0" top="0" width="557" height="407">
+<Dialog id="32323" text="Create Custom Dynamic Stamp" left="0" top="0" width="567" height="417">
 <dlgitem id="2" text="Hủy bỏ" left="436" top="341" width="88" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="243" top="341" width="88" height="25"/>
 <dlgitem id="32354" text="" left="14" top="5" width="518" height="326"/>
@@ -7065,7 +7076,7 @@
 <dlgitem id="6076" text="Thêm(&amp;A)" left="373" top="299" width="65" height="21"/>
 <dlgitem id="6077" text="Remove" left="450" top="299" width="65" height="21"/>
 </Dialog>
-<Dialog id="32330" text="Manage Custom Stamps" left="0" top="0" width="564" height="377">
+<Dialog id="32330" text="Manage Custom Stamps" left="0" top="0" width="574" height="387">
 <dlgitem id="1" text="Đồng ý" left="448" top="303" width="88" height="25"/>
 <dlgitem id="32331" text="" left="16" top="12" width="520" height="271"/>
 <dlgitem id="32332" text="Custom Stamps and Categories:" left="32" top="30" width="231" height="19"/>
@@ -7075,11 +7086,11 @@
 <dlgitem id="32337" text="Xóa(&amp;D)" left="226" top="242" width="88" height="25"/>
 <dlgitem id="32353" text="" left="326" top="39" width="186" height="214"/>
 </Dialog>
-<Dialog id="32339" text="Stamps" left="0" top="0" width="288" height="566">
+<Dialog id="32339" text="Stamps" left="0" top="0" width="298" height="576">
 <dlgitem id="32340" text="" left="19" top="21" width="243" height="22"/>
 <dlgitem id="32342" text="" left="19" top="53" width="243" height="464"/>
 </Dialog>
-<Dialog id="32341" text="Set favorite stamps" left="0" top="0" width="564" height="362">
+<Dialog id="32341" text="Set favorite stamps" left="0" top="0" width="574" height="372">
 <dlgitem id="1" text="Đồng ý" left="453" top="292" width="88" height="25"/>
 <dlgitem id="32343" text="" left="16" top="11" width="527" height="259"/>
 <dlgitem id="32344" text="Tất cả các tem" left="28" top="37" width="89" height="14"/>
@@ -7089,7 +7100,7 @@
 <dlgitem id="32348" text="Thêm vào mục Yêu thích(&amp;A)" left="210" top="88" width="137" height="25"/>
 <dlgitem id="32349" text="Remove From Favorite(&amp;R)" left="210" top="142" width="137" height="25"/>
 </Dialog>
-<Dialog id="32371" text="Create Your Stamp Template" left="0" top="0" width="571" height="342">
+<Dialog id="32371" text="Create Your Stamp Template" left="0" top="0" width="581" height="352">
 <dlgitem id="32370" text="Browse...(&amp;B)" left="460" top="79" width="70" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="354" top="270" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="457" top="270" width="88" height="25"/>
@@ -7104,7 +7115,7 @@
 <dlgitem id="32384" text="%" left="364" top="159" width="14" height="19"/>
 <dlgitem id="32383" text="Slider1" left="392" top="156" width="128" height="28"/>
 </Dialog>
-<Dialog id="32389" text="Mật khẩu" left="0" top="0" width="522" height="153">
+<Dialog id="32389" text="Mật khẩu" left="0" top="0" width="532" height="163">
 <dlgitem id="32393" text="Nhập mật khẩu:" left="149" top="56" width="98" height="14"/>
 <dlgitem id="32395" text="" left="252" top="53" width="207" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="310" top="89" width="88" height="25"/>
@@ -7267,7 +7278,7 @@
 </RStampAnnot_DLL>
 <Scanner_DLL>
 <Dialogs>
-<Dialog id="21430" text="Optimize Scanned PDF" left="0" top="0" width="442" height="454">
+<Dialog id="21430" text="Optimize Scanned PDF" left="0" top="0" width="452" height="464">
 <dlgitem id="21566" text="Optimization Options" left="12" top="135" width="411" height="170"/>
 <dlgitem id="23983" text="Color/Gray:(&amp;G)" left="28" top="165" width="75" height="21"/>
 <dlgitem id="21556" text="" left="126" top="163" width="259" height="22"/>
@@ -7290,7 +7301,7 @@
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="184" top="387" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="324" top="387" width="88" height="25"/>
 </Dialog>
-<Dialog id="21431" text="Save  Preset" left="0" top="0" width="529" height="250">
+<Dialog id="21431" text="Save  Preset" left="0" top="0" width="539" height="260">
 <dlgitem id="21545" text="You can save 3 sets of scan preset. Select the one you want to save to." left="46" top="21" width="404" height="14"/>
 <dlgitem id="21547" text="Custom Preset 1(&amp;1)" left="46" top="54" width="121" height="18"/>
 <dlgitem id="21550" text="" left="187" top="51" width="200" height="25"/>
@@ -7306,7 +7317,7 @@
 <dlgitem id="4294967295" text="Create From Scanner" left="24" top="54" width="213" height="39"/>
 <dlgitem id="21553" text="From \n Scanner..." left="24" top="99" width="89" height="72"/>
 </Dialog>
-<Dialog id="23900" text="Scan" left="0" top="0" width="529" height="425">
+<Dialog id="23900" text="Scan" left="0" top="0" width="539" height="435">
 <dlgitem id="23955" text="" left="11" top="49" width="501" height="191"/>
 <dlgitem id="21552" text="Configure scanner" left="26" top="49" width="103" height="14"/>
 <dlgitem id="21569" text="" left="130" top="51" width="14" height="12"/>
@@ -7334,7 +7345,7 @@
 <dlgitem id="1" text="Scan(&amp;S)" left="231" top="354" width="131" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="375" top="354" width="131" height="25"/>
 </Dialog>
-<Dialog id="23901" text="Configure Scan Presets" left="0" top="0" width="535" height="442">
+<Dialog id="23901" text="Configure Scan Presets" left="0" top="0" width="545" height="452">
 <dlgitem id="21543" text="" left="18" top="77" width="501" height="191"/>
 <dlgitem id="4294967295" text="Configure scanner" left="33" top="77" width="100" height="14"/>
 <dlgitem id="21534" text="Configure scanner using scanner‘s interface(&amp;u)" left="39" top="102" width="264" height="18"/>
@@ -7362,13 +7373,13 @@
 <dlgitem id="1" text="Lưu(&amp;S)" left="240" top="375" width="131" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="382" top="375" width="131" height="25"/>
 </Dialog>
-<Dialog id="23902" text="Scanner Options" left="0" top="0" width="347" height="110">
+<Dialog id="23902" text="Scanner Options" left="0" top="0" width="357" height="120">
 <dlgitem id="1" text="Đồng ý(&amp;O)" left="107" top="44" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="233" top="44" width="88" height="25"/>
 <dlgitem id="23971" text="Transfer Mechanism:(&amp;T)" left="5" top="16" width="124" height="14"/>
 <dlgitem id="23933" text="" left="135" top="12" width="187" height="22"/>
 </Dialog>
-<Dialog id="23907" text="Document Information" left="0" top="0" width="379" height="176">
+<Dialog id="23907" text="Document Information" left="0" top="0" width="389" height="186">
 <dlgitem id="23952" text="Tác giả:(&amp;A)" left="26" top="18" width="44" height="14"/>
 <dlgitem id="23949" text="" left="107" top="12" width="257" height="25"/>
 <dlgitem id="23953" text="Title:(&amp;T)" left="26" top="51" width="30" height="14"/>
@@ -7378,7 +7389,7 @@
 <dlgitem id="1" text="Đồng ý" left="159" top="114" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="277" top="114" width="88" height="25"/>
 </Dialog>
-<Dialog id="23978" text="Optimization Options" left="0" top="0" width="382" height="227">
+<Dialog id="23978" text="Optimization Options" left="0" top="0" width="392" height="237">
 <dlgitem id="23980" text="Image Settings" left="12" top="7" width="347" height="151"/>
 <dlgitem id="23983" text="Color/Gray:(&amp;G)" left="25" top="33" width="70" height="19"/>
 <dlgitem id="23985" text="" left="107" top="32" width="222" height="22"/>
@@ -7464,7 +7475,7 @@
 <string id="21367" text="Custom Preset 3"/>
 <string id="21368" text="Saved scanner cannot be detected. Do you want to change it?"/>
 <string id="21369" text="Optimize Scanned PDF"/>
-<string id="21370" text="The name must be within 30 characters."/>
+<string id="21370" text="The name must be within 45 characters."/>
 <string id="21371" text="Nhà"/>
 <string id="21372" text="Create"/>
 <string id="21373" text="This operation is not allowed, since scanning is in progress."/>
@@ -7535,7 +7546,7 @@
 <dlgitem id="27803" text="Static" left="284" top="354" width="292" height="16"/>
 <dlgitem id="27752" text="Static" left="187" top="42" width="336" height="18"/>
 </Dialog>
-<Dialog id="27809" text="Mật khẩu" left="0" top="0" width="480" height="160">
+<Dialog id="27809" text="Mật khẩu" left="0" top="0" width="490" height="170">
 <dlgitem id="27902" text="" left="186" top="61" width="187" height="21"/>
 <dlgitem id="1" text="Đồng ý" left="257" top="95" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="359" top="95" width="88" height="25"/>
@@ -7543,7 +7554,7 @@
 <dlgitem id="27918" text="Current document is protected, Please enter a Permission Password." left="70" top="18" width="389" height="35"/>
 <dlgitem id="27919" text="Mật khẩu:" left="75" top="63" width="88" height="21"/>
 </Dialog>
-<Dialog id="27813" text="Certificate Protection" left="0" top="0" width="550" height="535">
+<Dialog id="27813" text="Certificate Protection" left="0" top="0" width="560" height="545">
 <dlgitem id="27910" text="Recipient list:" left="12" top="16" width="145" height="19"/>
 <dlgitem id="27875" text="List1" left="12" top="35" width="411" height="151"/>
 <dlgitem id="0" text="" left="0" top="0" width="407" height="24"/>
@@ -7571,7 +7582,7 @@
 <dlgitem id="1" text="Đồng ý" left="327" top="464" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="429" top="464" width="88" height="25"/>
 </Dialog>
-<Dialog id="27814" text="Password Protection" left="0" top="0" width="549" height="479">
+<Dialog id="27814" text="Password Protection" left="0" top="0" width="559" height="489">
 <dlgitem id="27920" text="Document Open Settings" left="12" top="5" width="518" height="82"/>
 <dlgitem id="27867" text="Require a password to open the document(&amp;o)" left="21" top="26" width="347" height="18"/>
 <dlgitem id="27921" text="Password Input:(&amp;u)" left="30" top="56" width="107" height="19"/>
@@ -7604,7 +7615,7 @@
 <dlgitem id="1" text="Đồng ý" left="306" top="406" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="424" top="406" width="88" height="25"/>
 </Dialog>
-<Dialog id="27817" text="Manage Security Policies" left="0" top="0" width="697" height="477">
+<Dialog id="27817" text="Manage Security Policies" left="0" top="0" width="707" height="487">
 <dlgitem id="27903" text="Policies:(&amp;P)" left="12" top="12" width="121" height="18"/>
 <dlgitem id="27880" text="List1" left="12" top="32" width="184" height="368"/>
 <dlgitem id="0" text="" left="0" top="0" width="180" height="24"/>
@@ -7639,7 +7650,7 @@
 <dlgitem id="27862" text="Xóa(&amp;D)" left="487" top="408" width="88" height="25"/>
 <dlgitem id="1" text="Đóng" left="592" top="408" width="88" height="25"/>
 </Dialog>
-<Dialog id="27819" text="Foxit Security" left="0" top="0" width="445" height="148">
+<Dialog id="27819" text="Foxit Security" left="0" top="0" width="455" height="158">
 <dlgitem id="1" text="Đồng ý" left="340" top="82" width="88" height="25"/>
 <dlgitem id="27890" text="W" left="23" top="23" width="32" height="32"/>
 <dlgitem id="27886" text="ABC" left="12" top="67" width="285" height="21"/>
@@ -7695,7 +7706,7 @@
 <dlgitem id="27758" text="invisible, only use to compute rect." left="28" top="131" width="571" height="653"/>
 <dlgitem id="27740" text="Document Restrictions Summary" left="33" top="147" width="243" height="23"/>
 </Dialog>
-<Dialog id="27826" text="Import Certificate" left="0" top="0" width="690" height="416">
+<Dialog id="27826" text="Import Certificate" left="0" top="0" width="700" height="426">
 <dlgitem id="27910" text="Please select one of your digital IDs to encrypt the document." left="12" top="12" width="466" height="19"/>
 <dlgitem id="27875" text="List1" left="30" top="67" width="621" height="240"/>
 <dlgitem id="0" text="" left="0" top="0" width="617" height="24"/>
@@ -7786,12 +7797,12 @@
 </Security_DLL>
 <SendCrashReport_DLL>
 <Dialogs>
-<Dialog id="12000" text="About SendCrashReport" left="0" top="0" width="424" height="146">
+<Dialog id="12000" text="About SendCrashReport" left="0" top="0" width="434" height="156">
 <dlgitem id="12110" text="" left="25" top="19" width="32" height="32"/>
 <dlgitem id="1" text="Đồng ý" left="319" top="79" width="88" height="25"/>
 <dlgitem id="12109" text="This program is used to send the crash report. It need to work with the Main Application. Without this program, the crash report will not be sent." left="74" top="19" width="320" height="51"/>
 </Dialog>
-<Dialog id="12002" text="Send Crash Report" left="0" top="0" width="421" height="225">
+<Dialog id="12002" text="Send Crash Report" left="0" top="0" width="431" height="235">
 <dlgitem id="2" text="Đồng ý" left="315" top="159" width="88" height="25"/>
 <dlgitem id="12104" text="Contacting server" left="117" top="28" width="285" height="14"/>
 <dlgitem id="12101" text="" left="12" top="140" width="390" height="12"/>
@@ -7874,7 +7885,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="28968" text="Signature Properties" left="0" top="0" width="599" height="596">
+<Dialog id="28968" text="Signature Properties" left="0" top="0" width="609" height="606">
 <dlgitem id="2" text="Đóng" left="480" top="530" width="88" height="25"/>
 <dlgitem id="29000" text="Signature validity is UNKNOWN" left="63" top="12" width="518" height="44"/>
 <dlgitem id="29014" text="Signed by:" left="18" top="89" width="77" height="16"/>
@@ -7900,7 +7911,7 @@
 <dlgitem id="29025" text="" left="51" top="294" width="23" height="21"/>
 <dlgitem id="29026" text="" left="88" top="294" width="464" height="28"/>
 </Dialog>
-<Dialog id="28969" text="Signature Validation Status" left="0" top="0" width="515" height="216">
+<Dialog id="28969" text="Signature Validation Status" left="0" top="0" width="525" height="226">
 <dlgitem id="1" text="Signature Properties...(&amp;S)" left="228" top="151" width="152" height="25"/>
 <dlgitem id="2" text="Hủy bỏ(&amp;C)" left="410" top="151" width="88" height="25"/>
 <dlgitem id="29012" text="" left="12" top="12" width="23" height="21"/>
@@ -7918,7 +7929,7 @@
 <dlgitem id="29075" text="" left="42" top="138" width="366" height="135"/>
 <dlgitem id="29093" text="Save signed file as a copy named 'filename_signed.pdf'(&amp;f)" left="21" top="82" width="474" height="18"/>
 </Dialog>
-<Dialog id="28976" text="Sign Document" left="0" top="0" width="445" height="556">
+<Dialog id="28976" text="Sign Document" left="0" top="0" width="455" height="566">
 <dlgitem id="29039" text="Sign As:(&amp;A)" left="23" top="26" width="46" height="14"/>
 <dlgitem id="29032" text="" left="79" top="23" width="261" height="22"/>
 <dlgitem id="29033" text="Info...(&amp;n)" left="348" top="23" width="74" height="23"/>
@@ -7941,7 +7952,7 @@
 <dlgitem id="29031" text="Sign(&amp;S)" left="256" top="490" width="79" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="343" top="490" width="79" height="25"/>
 </Dialog>
-<Dialog id="28977" text="Configure Signature Style" left="0" top="0" width="473" height="556">
+<Dialog id="28977" text="Configure Signature Style" left="0" top="0" width="483" height="566">
 <dlgitem id="29045" text="Title:(&amp;T)" left="25" top="18" width="30" height="14"/>
 <dlgitem id="29046" text="" left="68" top="14" width="303" height="21"/>
 <dlgitem id="29063" text="Xem trước" left="12" top="39" width="441" height="159"/>
@@ -7979,7 +7990,7 @@
 <dlgitem id="29082" text="" left="53" top="165" width="242" height="128"/>
 <dlgitem id="29083" text="Sửa...(&amp;E)" left="305" top="165" width="65" height="21"/>
 </Dialog>
-<Dialog id="28980" text="Signature Selection" left="0" top="0" width="326" height="335">
+<Dialog id="28980" text="Signature Selection" left="0" top="0" width="336" height="345">
 <dlgitem id="1" text="Đồng ý" left="126" top="271" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="221" top="271" width="88" height="25"/>
 <dlgitem id="29084" text="Mark Fields as Read-only" left="12" top="12" width="296" height="249"/>
@@ -7987,7 +7998,7 @@
 <dlgitem id="29086" text="Deselect All(&amp;D)" left="210" top="117" width="88" height="25"/>
 <dlgitem id="29087" text="Tree1" left="18" top="30" width="182" height="215"/>
 </Dialog>
-<Dialog id="29032" text="Error Message Box" left="0" top="0" width="519" height="174">
+<Dialog id="29032" text="Error Message Box" left="0" top="0" width="529" height="184">
 <dlgitem id="1" text="Đồng ý" left="413" top="109" width="88" height="25"/>
 <dlgitem id="1039" text="I" left="21" top="26" width="37" height="35"/>
 <dlgitem id="29099" text="Please click this link to contact Foxit support:" left="72" top="65" width="429" height="18"/>
@@ -8167,6 +8178,9 @@
 </Strings>
 </SnapShot_Dll>
 <StartPage_DLL>
+<Dialogs>
+<Dialog id="9" left="0" top="0" width="354" height="154"/>
+</Dialogs>
 <Strings>
 <string id="10900" text="Start"/>
 <string id="10901" text="Mở..."/>
@@ -8255,7 +8269,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="165" text="Text Viewer Colors" left="0" top="0" width="452" height="400">
+<Dialog id="165" text="Text Viewer Colors" left="0" top="0" width="462" height="410">
 <dlgitem id="11745" text="Foreground" left="14" top="11" width="420" height="126"/>
 <dlgitem id="11742" text="đỏ:" left="30" top="32" width="23" height="14"/>
 <dlgitem id="11706" text="" left="56" top="32" width="70" height="25"/>
@@ -8286,7 +8300,7 @@
 <dlgitem id="1" text="Đồng ý" left="247" top="334" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="347" top="334" width="88" height="25"/>
 </Dialog>
-<Dialog id="672" text="Text Viewer Settings" left="0" top="0" width="452" height="369">
+<Dialog id="672" text="Text Viewer Settings" left="0" top="0" width="462" height="379">
 <dlgitem id="11750" text="Current page width" left="14" top="14" width="420" height="84"/>
 <dlgitem id="11755" text="Minimal width:" left="42" top="42" width="98" height="14"/>
 <dlgitem id="11721" text="" left="161" top="42" width="84" height="25"/>
@@ -8308,7 +8322,7 @@
 <dlgitem id="1" text="Đồng ý" left="247" top="303" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="347" top="303" width="88" height="25"/>
 </Dialog>
-<Dialog id="673" text="Phông chữ PDF..." left="0" top="0" width="655" height="435">
+<Dialog id="673" text="Phông chữ PDF..." left="0" top="0" width="665" height="445">
 <dlgitem id="11723" text="List1" left="12" top="12" width="625" height="285"/>
 <dlgitem id="0" text="" left="0" top="0" width="621" height="24"/>
 <dlgitem id="11749" text="Đích:" left="16" top="317" width="53" height="14"/>
@@ -8317,7 +8331,7 @@
 <dlgitem id="1" text="Đồng ý" left="452" top="369" width="88" height="25"/>
 <dlgitem id="2" text="Hủy bỏ" left="550" top="369" width="88" height="25"/>
 </Dialog>
-<Dialog id="11763" text="Save As TXT Setting" left="0" top="0" width="423" height="208">
+<Dialog id="11763" text="Save As TXT Setting" left="0" top="0" width="433" height="218">
 <dlgitem id="11702" text="Current Page" left="30" top="33" width="277" height="18"/>
 <dlgitem id="11701" text="Tất cả các trang" left="30" top="65" width="275" height="18"/>
 <dlgitem id="11703" text="From Page" left="30" top="96" width="93" height="18"/>
@@ -8367,7 +8381,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="26053" text="Character Spacing" left="0" top="0" width="358" height="243">
+<Dialog id="26053" text="Character Spacing" left="0" top="0" width="368" height="253">
 <dlgitem id="26054" text="You can expand or condense the text line by using different character spacing:" left="12" top="12" width="326" height="42"/>
 <dlgitem id="26055" text="Expanded By:(&amp;E)" left="12" top="70" width="96" height="21"/>
 <dlgitem id="26056" text="" left="112" top="70" width="70" height="21"/>
@@ -8376,7 +8390,7 @@
 <dlgitem id="26059" text="Đồng ý(&amp;O)" left="250" top="60" width="88" height="25"/>
 <dlgitem id="26060" text="Hủy bỏ(&amp;C)" left="250" top="88" width="88" height="25"/>
 </Dialog>
-<Dialog id="26061" text="Horizontal Scale" left="0" top="0" width="360" height="236">
+<Dialog id="26061" text="Horizontal Scale" left="0" top="0" width="370" height="246">
 <dlgitem id="26062" text="Horizontal Scale:(&amp;H)" left="12" top="21" width="105" height="21"/>
 <dlgitem id="26063" text="" left="121" top="21" width="70" height="21"/>
 <dlgitem id="26064" text="%" left="193" top="21" width="18" height="21"/>
@@ -8384,7 +8398,7 @@
 <dlgitem id="26066" text="Đồng ý(&amp;O)" left="250" top="21" width="88" height="25"/>
 <dlgitem id="26067" text="Hủy bỏ(&amp;C)" left="250" top="49" width="88" height="25"/>
 </Dialog>
-<Dialog id="26068" text="Line Spacing" left="0" top="0" width="291" height="117">
+<Dialog id="26068" text="Line Spacing" left="0" top="0" width="301" height="127">
 <dlgitem id="26069" text="Set current value:(&amp;S)" left="12" top="12" width="114" height="21"/>
 <dlgitem id="26070" text="" left="130" top="12" width="88" height="21"/>
 <dlgitem id="26071" text="Đồng ý(&amp;O)" left="21" top="47" width="88" height="25"/>
@@ -8696,20 +8710,20 @@
 <dlgitem id="1049" text="Expand All" left="19" top="11" width="72" height="14"/>
 <dlgitem id="1050" text="Collapse All" left="107" top="11" width="72" height="14"/>
 </Dialog>
-<Dialog id="166" text="New Folder..." left="0" top="0" width="414" height="159">
+<Dialog id="166" text="New Folder..." left="0" top="0" width="424" height="169">
 <dlgitem id="1113" text="Enter the name for the new folder:" left="25" top="18" width="359" height="14"/>
 <dlgitem id="1052" text="" left="35" top="47" width="348" height="25"/>
 <dlgitem id="1" text="Đồng ý" left="186" top="84" width="88" height="30"/>
 <dlgitem id="2" text="Hủy bỏ" left="298" top="84" width="88" height="30"/>
 </Dialog>
-<Dialog id="168" text="Foxit" left="0" top="0" width="575" height="232">
+<Dialog id="168" text="Foxit" left="0" top="0" width="585" height="242">
 <dlgitem id="1055" text="" left="23" top="18" width="35" height="35"/>
 <dlgitem id="1053" text="Are you sure you want to remove the file &quot;%s&quot; from Tracker?" left="84" top="19" width="459" height="14"/>
 <dlgitem id="1054" text="Removing this folder will permanently end the reviews contained in it, and users will no longer be able to make comments. All comments are permanently removed from the server." left="84" top="56" width="459" height="72"/>
 <dlgitem id="1" text="Đồng ý" left="347" top="149" width="88" height="32"/>
 <dlgitem id="2" text="Hủy bỏ" left="455" top="149" width="88" height="32"/>
 </Dialog>
-<Dialog id="169" text="Foxit" left="0" top="0" width="515" height="199">
+<Dialog id="169" text="Foxit" left="0" top="0" width="525" height="209">
 <dlgitem id="1055" text="" left="16" top="18" width="35" height="35"/>
 <dlgitem id="1053" text="Are you sure you want to remove the file &quot;%s&quot; from Tracker?" left="65" top="19" width="432" height="42"/>
 <dlgitem id="1054" text="Removing this review file will permanently end the review, and users will no longer be able to make comments. All comments will be permanently removed from the server." left="65" top="61" width="432" height="54"/>
@@ -8732,10 +8746,10 @@
 <dlgitem id="1080" text="" left="28" top="93" width="567" height="446"/>
 <dlgitem id="0" text="" left="0" top="0" width="563" height="24"/>
 </Dialog>
-<Dialog id="187" left="0" top="0" width="578" height="482">
+<Dialog id="187" left="0" top="0" width="588" height="492">
 <dlgitem id="1103" text="&lt;Duyệt tới tập tin...&gt;" left="0" top="0" width="571" height="452"/>
 </Dialog>
-<Dialog id="241" left="0" top="0" width="379" height="173">
+<Dialog id="241" left="0" top="0" width="389" height="183">
 <dlgitem id="1" text="Đồng ý" left="287" top="110" width="77" height="26"/>
 <dlgitem id="1120" text="" left="18" top="16" width="334" height="72"/>
 </Dialog>
