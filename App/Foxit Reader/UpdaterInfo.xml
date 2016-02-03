@@ -11,7 +11,7 @@
         <file path="P:\PortableApps\FoxitReaderPortable\App\Foxit Reader\lex\tech.tlx" />
         <file path="P:\PortableApps\FoxitReaderPortable\App\Foxit Reader\lex\userdic.tlx" />
     </module>
-    <module name="Foxit Cloud" version="3.7.139.918">
+    <module name="Foxit Cloud" version="3.9.168.1224">
         <file path="P:\PortableApps\FoxitReaderPortable\App\Foxit Reader\plugins\FoxitCloud.fpi" />
     </module>
 </updater_info>

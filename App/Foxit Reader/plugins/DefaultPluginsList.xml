@@ -100,4 +100,20 @@
 		LoadBehavior="3"
 		MinVersion="3.6.122.702"
 	/>
+    <Plugin Name="FoxitInnerPluginOneDrive"
+		FriendlyName="OneDrive"
+		Description=""
+		PIPath="OneDrivePlugin.fpi"
+		LoadBehavior="9"
+		MinVersion="1.0.0.1015"
+	/>
+
+	<Plugin Name="FoxitInnerPluginGoogleDrive"
+		FriendlyName="GoogleDrive"
+		Description=""
+		PIPath="GoogleDrivePlugin.fpi"
+		LoadBehavior="9"
+		MinVersion="1.0.0.1016"
+	/>
+
 </DefaultPluginsList>
