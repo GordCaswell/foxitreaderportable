@@ -3,76 +3,133 @@ body{
 	margin:auto;
 	padding:0;
 	background-color:#A5A5A5;
-	font-family: Arial, sans-serif;
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
 	font-size:12px;
 }
 a{
 	color:#6C266C;
 }
 .container{
-	width:981px;
+	width:980px;
 	margin:30px auto;
 	padding:0;
 	overflow:hidden;
 }
 #content_left{
-	width:230px;
+	width:231px;
 	float:left;
 	overflow:hidden;
 }
 
 #content_left_top{
-	background:url('../images/recent_files_bg.jpg') no-repeat bottom;
 	background-color:#FFF;
-	height:355px;
+	height:496px;
 }
 #content_left_bottom{
-	background:url('../images/contact_support_bg.jpg') no-repeat;
-	margin-top:15px;
-	padding:15px 0;
-	text-align:center;
-	width:230px;
-	height:143px;
-	font-weight:700;
-	color:#333;
+	margin-top:10px;
+	padding:0px;
+	text-align:left;
+	height:154px;
+	color:#494949;
+	background-color:#FFFFFF;
 }
-#content_left_bottom h3{
-	color:#6C266C;
-	margin:8px 0;
+#content_left_bottom .get_support_title{
+	height: 36px;
+    line-height: 37px;
+    font-family: Open Sans, Arial,Tahoma, sans-serif;
+	color:#494949;
+	border-bottom: 1px solid #EEEEEE;
+	padding-left: 15px;
+    font-size: 16px;
 }
-#content_left_bottom p{
-	line-height:20px;
-	margin-top:5px;
+#content_left_bottom .get_support_content{
+	padding: 13px 15px 10px 15px;
+	font-size:12px;
+	line-height: 27px;
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
+	color:#494949;
 }
 #content_left_bottom span{
 	color:#6C266C;
 }
 #content_right{
-	width:736px;
+	width:738px;
 	float:right;
 	overflow:hidden;
 }
 #content_right_top{
-	height:258px;
-	background:url('../images/content_bg.jpg') no-repeat right bottom;
+	height:321px;
+	background-color:#FFF;	
+}
+#content_right_top .banner_learn_more{
+	margin:0;
+	color:#fff;
+	padding:5px 0px;
+	*padding:2px 0px 4px 0px;
+	font-size:12px;
+}
+#content_right_top .intro{
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
+	font-size:12px;
+	color:#494949;
+	padding:5px 3px;
+	line-height:19px;
+	font-weight:500;
+}
+#content_right_top .right_top_title{
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
+    color: #494949;
+    font-size: 16px;
+	height: 36px;
+    line-height: 37px;
+}
+.sign_in{color:#f68b24;text-decoration:underline;}
+#content_right_top .intro_addition{padding:0 40px;}
+#content_right_top .intro_privacy_title{
+	color:#808080;
+	font-size:10px;
+	font-weight:normal;
+	vertical-align: middle;
+	padding:0 50px 0 40px;
+	position:relative;
+	left;0px;
+	top:-12px;
+}
+#content_right_top .intro_privacy_content{
+	color:#808080;
+	font-size:10px;
+	font-style:italic;
+	font-weight:normal;
+}
+#content_right_top .visit_cpdf_privacy{color:#f68b24;text-decoration:underline;}
+#content_right_middle{
+	margin-top:10px;
+	height:165px;
 	background-color:#FFF;	
 }
 #content_right_bottom{
-	margin-top:15px;
-	height:270px;
-	background:url('../images/tutorials_bg.jpg') no-repeat;
+	margin-top:10px;
+	height:154px;
 	background-color:#FFF;	
+}
+#content_right_middle .right_middle_title,#content_right_bottom .right_bottom_title{
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
+	color:#494949;
+	line-height:37px;
+	font-size:16px;
+	border-bottom:1px solid #EEE;
 }
 #content_right_bottom table{
 
 
 }
 #content_right_bottom .videoTitle{
-	color:#4E4E4E;
+	color:#494949;
 	font-weight:700;
 	
 }
-
+#content_right_bottom td div{width:120px;}
+#content_right_bottom td .width50{width:50px;}
 .purchase_btn {
 	width: 130px;
 	height: 35px;
@@ -84,37 +141,39 @@ a{
 
 /*history*/
 .history_title{
-	background-color:#6C266C;
-	color:#FFF;
+	color:#494949;
 	padding-left:15px;
-	width: 215px;
 	font-size:16px;
-	height:55px;
+	height:36px;
+	border-bottom:1px solid #EEEEEE;
 }
 
 .history_title .left {
 	float: left;
 	width: 185px;
-	height: 55px;
-	line-height:55px;
+	height: 36px;
+	line-height:37px;
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
 }
 .history_title .right {
 	float: left;
 	width: 30px;
-	padding-top:18px;
-	height: 37px;
+	padding-top:10px;
+	height: 36px;
 	text-align:left;
 	
 }
 
 .open_file{
-	font-weight: 700;
-	color:#4E4E4E;
-	padding:20px 0 3px 15px;
+	font-weight: 400;
+	color:#494949;
+	padding:5px 0 3px 15px;
 	
 }
 .open_file a{
 	text-decoration:none;
+	color:#494949;
+	font-size:12px;
 }
 .open_file .small_icon{
 	width:140px;
@@ -127,11 +186,19 @@ a{
 .file_history{
 	background:url('../images/icon_pdf.png') no-repeat;
 	background-position:left center;
-	font-weight:700;
-	color:#4E4E4E;
+	font-weight:500;
+	color:#494949;
 	padding-left:20px;
 	line-height:20px;	
 	text-decoration:none;
+}
+.history_list .suffix_pdf{
+	background:url('../images/icon_pdf.png') no-repeat;
+	background-position:left center;
+}
+.history_list .suffix_epub{
+	background:url('../images/icon_epub.png') no-repeat;
+	background-position:left center;
 }
 .rect_int{
 	color:#AFAFAF;
@@ -143,10 +210,12 @@ a{
 }
 .history_list li{
 	padding:3px 0 3px 20px;
+	font-size:12px;
+	color: #494949;
 }
 .history_list a{
 	text-decoration: none;
-	color:#333;	
+	color:#494949;	
 }
 img{
 	border:0;
@@ -166,3 +235,26 @@ img{
 {
 	display:none;
 }
+.carousel_ul{margin:0;padding:0;}
+.carousel_li{list-style:none;}
+.carousel_table{
+	width:642px;border:1px solid #43B3E6;
+position:relative;
+left:-4px;
+}
+#cPDF_banner_box{width:100%; overflow:hidden;position:relative;}
+#cPDF_banner{width:642px;position: relative; margin:0 auto; height:309px;}
+#cPDF_banner ul li{width:742px; height:321px; position: absolute;}
+#cPDF_banner_Last,#cPDF_banner_Next{width:20px; height:22px; color:#333; font-size:18px; position: absolute;z-index:9999; cursor:pointer; opacity:0.5;}
+#cPDF_banner_Last:hover,#cPDF_banner_Next:hover{opacity:1;}
+#cPDF_banner_Last{ 
+left:5px;
+background:url(../images/lastIco.png) no-repeat center top;
+
+}
+#cPDF_banner_Next{right:5px; background:url(../images/nextIco.png) no-repeat center top;}
+
+#cPDF_banner_Tab{position: absolute; bottom:12px; height:1px; margin:0 auto; width:240px;}
+#cPDF_banner_Tab a{display:block; float:left; height:0px; overflow:hidden; z-index:9999; }
+#cPDF_banner_Tab .TabOn{ background:#fff;} 
+#cPDF_banner .prev{position:absolute; width:642px; height:335px; background:#fff; top:0px; z-index:99; opacity:0.95;}

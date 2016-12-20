@@ -64,20 +64,29 @@
 	padding:3px 0;	
 }
 /*reader*/
+.reader_register{
+	color:#eb6b10;
+	font-size:12px;
+	text-decoration:underline;
+}
 .reader_table tr td{
-	font-weight:700;
-	color:#4E4E4E;
+	font-weight:500;
+	color:#494949;
+	font-size:12px;
 }
-.reader_table .intro_top{
-	line-height:15px;
+.reader_table .intro{
+	line-height:20px;
+	font-family: Open Sans, Arial,Tahoma, sans-serif;
+	color:#494949;
 }
+
 .reader_table ul{
 	margin:0;
 	padding:5px 10px 5px 25px;
-	color:#6C266C;
+	color:#494949;
 }
 .reader_table ul li{
-	padding:3px 0;
+	padding:4px 0;
 	
 }
 #content_left_bottom .get_support{

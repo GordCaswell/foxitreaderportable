@@ -1,10 +1,52 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-US" style="height: 100%;">
 	<head>
 		<meta charset="UTF-8">
 	</head>
-<body scroll="no">
+<body scroll="no" oncontextmenu="return false;" style="height: 100%;">
 
 <script type="text/javascript">
+// 防止 拖进去的 元素 打开另外一个网页
+var handler = function(e) {
+	e.preventDefault();
+	return false;
+};
+if(document.addEventListener) {
+	document.addEventListener('drop', handler, true);
+	document.addEventListener('dragover', handler, true);
+	document.addEventListener('dragenter', handler, true);
+	document.addEventListener('dragleave', handler, true);
+} else {
+	document.ondrop = handler;
+	document.ondragover = handler;
+	document.ondragenter = handler;
+	document.ondragleave = handler;
+}
+
+function stopEventHandle(event) {
+	event.cancelBubble = true;
+	event.returnValue = false;
+	if ( event.stopPropagation ) {
+		event.stopPropagation();
+	}
+	return false;
+}
+window.onkeydown = function(event){
+	event = event || window.event;
+	if (event.keyCode == 116) {
+		//屏蔽F5刷新网页功能
+		event.keyCode = 0;
+		return stopEventHandle(event);
+	}
+};
+window.onmousewheel = function(event){
+	event = event || window.event;
+	if (event.ctrlKey) {
+		//屏蔽Ctrl+滚轮的缩放页面
+		return stopEventHandle(event);
+	}
+};
+
 window.etCallJs = function(){return "";}
 window.onload = function (){
 	var param = "";
