@@ -60,11 +60,22 @@ window.onload = function (){
 		if (pObj) {
 			pObj.style.display = "block";
 		}
+		if(param == "ja-JP") {
+			document.body.style.fontFamily="Meiryo";
+			document.getElementById("divid").style.fontFamily="Meiryo";
+			var pLists=document.getElementsByTagName("p");
+			for(var i=0; i<pLists.length; i++) {
+				var obj = pLists[i];
+				if(obj){
+					obj.style.fontFamily="Meiryo";
+				}
+			}
+		}
 	}
 };
 </script>
 
-<div style="text-align:center; margin-top:10px; margin-bottom:10px; font-family: Segoe UI, tahoma, arial, sans-serif; font-size:14px;">
+<div id="divid" style="text-align:center; margin-top:10px; margin-bottom:10px; font-family: Segoe UI, tahoma, arial, sans-serif; font-size:14px;">
 <!--English - United States(en-US)-->
 <p id="en-US"> An active network connection is needed to perform this action. </p>
 <!--Spanish - Latin American(es-419)-->

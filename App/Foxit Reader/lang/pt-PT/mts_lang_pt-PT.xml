@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Reader version="8.1.1.1015" language="Portuguese" publisher="Foxit" lastdate="2016-10-17">
+<Reader version="8.3.0.14878" language="Portuguese" publisher="Foxit" lastdate="2017-05-21">
 <Font>
 <PreFont FaceName="Tahoma" Charset="0"/>
 </Font>
 <Activation>
 <Dialogs>
-<Dialog id="1004" text="Input Email" left="0" top="0" width="519" height="157">
+<Dialog id="1004" text="Input Email" left="0" top="0" width="519" height="156">
 <dlgitem id="1" text="Aceitar" left="312" top="91" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="413" top="91" width="88" height="25"/>
 <dlgitem id="1028" text="Please input the original email address used with previous registration:" left="12" top="23" width="488" height="18"/>
 <dlgitem id="1021" text="" left="12" top="54" width="488" height="23"/>
 </Dialog>
-<Dialog id="1011" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="458">
-<dlgitem id="1" text="Ativar agora(&amp;N)" left="399" top="392" width="88" height="25"/>
+<Dialog id="1011" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="457">
+<dlgitem id="1" text="Ativar(&amp;A)" left="399" top="392" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="509" top="392" width="88" height="25"/>
 <dlgitem id="1144" text="&lt; Retroceder(&amp;B)" left="289" top="392" width="88" height="25"/>
 <dlgitem id="1042" text="image(PNG)" left="0" top="0" width="611" height="65"/>
@@ -22,18 +22,22 @@
 <dlgitem id="1048" text="image(PNG)" left="26" top="172" width="560" height="182"/>
 <dlgitem id="1049" text="" left="0" top="380" width="609" height="2"/>
 </Dialog>
-<Dialog id="1126" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="458">
-<dlgitem id="1022" text="" left="25" top="142" width="562" height="179"/>
-<dlgitem id="1136" text="Please input the code of the registration key below, You can also activate it later by &quot;Help -&gt; Activation&quot;." left="26" top="70" width="555" height="42"/>
+<Dialog id="1126" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="457">
+<dlgitem id="1022" text="" left="58" top="266" width="522" height="82"/>
+<dlgitem id="2008" text="If you have purchased a license to %s, enter the entire registration code or key file here, then click Activate." left="58" top="221" width="525" height="32"/>
 <dlgitem id="1133" text="image(PNG)" left="0" top="0" width="611" height="65"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="508" top="392" width="88" height="25"/>
-<dlgitem id="1144" text="&lt; Retroceder(&amp;B)" left="289" top="392" width="88" height="25"/>
-<dlgitem id="1030" text="" left="0" top="378" width="609" height="2"/>
-<dlgitem id="1033" text="Instalar a Chave(&amp;I)" left="389" top="392" width="107" height="25"/>
-<dlgitem id="1403" text="If you do not have a registration key:" left="26" top="327" width="369" height="19"/>
-<dlgitem id="1404" text="Foxit Online Store" left="226" top="352" width="140" height="19"/>
+<dlgitem id="1144" text="&lt; Retroceder(&amp;B)" left="413" top="392" width="88" height="25"/>
+<dlgitem id="1030" text="" left="0" top="387" width="609" height="2"/>
+<dlgitem id="1033" text="Ativar(&amp;A)" left="58" top="355" width="88" height="25"/>
+<dlgitem id="2005" text="Ativar" left="58" top="193" width="74" height="21"/>
+<dlgitem id="2003" text="Imagem" left="12" top="184" width="32" height="32"/>
+<dlgitem id="2006" text="Imagem" left="12" top="75" width="32" height="32"/>
+<dlgitem id="2004" text="Subscription" left="58" top="79" width="100" height="19"/>
+<dlgitem id="2007" text="If you have an existing subscription to %s, sign in to your account to activate it." left="58" top="107" width="532" height="33"/>
+<dlgitem id="2002" text="Sign In(&amp;S)" left="58" top="147" width="88" height="25"/>
 </Dialog>
-<Dialog id="1127" text="z" left="0" top="0" width="617" height="458">
+<Dialog id="1127" text="z" left="0" top="0" width="617" height="457">
 <dlgitem id="1133" text="image(PNG)" left="0" top="0" width="614" height="65"/>
 <dlgitem id="1135" text="Estático" left="23" top="79" width="569" height="39"/>
 <dlgitem id="1136" text="*os asteriscos são requeridos" left="215" top="135" width="186" height="23"/>
@@ -58,17 +62,17 @@
 <dlgitem id="1035" text="*" left="434" top="291" width="14" height="14"/>
 <dlgitem id="1036" text="*" left="434" top="327" width="14" height="14"/>
 </Dialog>
-<Dialog id="1207" text="Dialogo" left="0" top="0" width="624" height="437">
+<Dialog id="1207" text="Dialogo" left="0" top="0" width="624" height="436">
 <dlgitem id="1" text="Ativar(&amp;A)" left="271" top="343" width="105" height="23"/>
-<dlgitem id="1023" text="Buy Now(&amp;B)" left="46" top="343" width="105" height="23"/>
+<dlgitem id="1023" text="Purchase Now(&amp;P)" left="46" top="343" width="105" height="23"/>
 <dlgitem id="1037" text="Continue Evaluation(&amp;C)" left="453" top="343" width="121" height="23"/>
 <dlgitem id="1133" text="image(PNG)" left="0" top="0" width="618" height="70"/>
-<dlgitem id="1136" text="Your evaluation or license period for %s %s has expired." left="33" top="82" width="555" height="35"/>
+<dlgitem id="1136" text="Your evaluation or license period for %s has expired." left="33" top="82" width="555" height="35"/>
 <dlgitem id="1025" text="Please choose one of the following options:" left="33" top="116" width="490" height="14"/>
-<dlgitem id="1132" text="Activate if you already have a license for %s edition." left="242" top="228" width="168" height="40"/>
+<dlgitem id="1132" text="Activate if you already have a license or subscription to %s." left="242" top="228" width="168" height="40"/>
 <dlgitem id="1026" text="sales@foxitsoftware.com" left="23" top="259" width="186" height="19"/>
 <dlgitem id="1038" text="Back to the free %s edition if you do not plan to get a license now." left="439" top="228" width="161" height="56"/>
-<dlgitem id="1147" text="Purchase a license for the %s edition or contact us:" left="23" top="228" width="186" height="30"/>
+<dlgitem id="1147" text="Purchase a license for %s or contact us at:" left="23" top="228" width="186" height="30"/>
 <dlgitem id="1040" text="+1-866-680-3668" left="23" top="278" width="186" height="19"/>
 <dlgitem id="1041" text="Purchase" left="68" top="200" width="98" height="16"/>
 <dlgitem id="1043" text="Ativar" left="284" top="200" width="86" height="16"/>
@@ -79,28 +83,47 @@
 <dlgitem id="1386" text="Imagem" left="243" top="193" width="32" height="32"/>
 <dlgitem id="1387" text="Imagem" left="441" top="193" width="32" height="32"/>
 </Dialog>
+<Dialog id="2038" text="CDKey Verification - Foxit PhantomPDF" left="0" top="0" width="617" height="457">
+<dlgitem id="1022" text="" left="25" top="142" width="562" height="179"/>
+<dlgitem id="1136" text="Please input your registration key code below.\n\nYou must be connected to the Internet when activating." left="26" top="70" width="555" height="42"/>
+<dlgitem id="1133" text="image(PNG)" left="0" top="0" width="611" height="65"/>
+<dlgitem id="2" text="Cancelar(&amp;C)" left="508" top="392" width="88" height="25"/>
+<dlgitem id="1144" text="&lt; Retroceder(&amp;B)" left="289" top="392" width="88" height="25"/>
+<dlgitem id="1030" text="" left="0" top="378" width="609" height="2"/>
+<dlgitem id="1033" text="Ativar(&amp;A)" left="389" top="392" width="107" height="25"/>
+</Dialog>
+<Dialog id="2041" text="Foxit PhantomPDF Activation" left="0" top="0" width="617" height="457">
+<dlgitem id="1" text="Ne&amp;xt " left="415" top="392" width="88" height="25"/>
+<dlgitem id="2" text="Cancelar" left="509" top="392" width="88" height="25"/>
+<dlgitem id="1133" text="" left="0" top="0" width="611" height="72"/>
+<dlgitem id="2010" text="Business" left="30" top="88" width="100" height="18"/>
+<dlgitem id="2011" text="Standard" left="30" top="184" width="109" height="18"/>
+<dlgitem id="2012" text="Education" left="30" top="282" width="105" height="18"/>
+<dlgitem id="2013" text="A complete business-ready PDF solution that expands upon %s Standard by offering advanced editing, shared review initiation, higher security, additional file compression, PDF A/E/X creation, redaction, and Bates numbering." left="37" top="114" width="551" height="53"/>
+<dlgitem id="2014" text="Ideal for groups of all sizes, this is a full-featured solution to create, edit, comment, collaborate and share, secure, organize, export, scan and OCR, and sign PDF documents and forms." left="37" top="212" width="551" height="47"/>
+<dlgitem id="2015" text="Specially designed for students and teachers, with the most important features for education, including create, edit, comment, OCR." left="37" top="315" width="551" height="47"/>
+<dlgitem id="2016" text="Anterior" left="320" top="392" width="88" height="25"/>
+<dlgitem id="2018" text="More Help" left="21" top="399" width="67" height="18"/>
+</Dialog>
 </Dialogs>
 <Strings>
-<string id="1170" text="Sorry, the key file you saved has expired or the contents you inputted were not correct. \n Please try it again. If you want to evaluate %s, please press the 'Cancel' button."/>
-<string id="1171" text="You have successfully registered your temp license key.\nPlease close and restart %s for the changes to take effect."/>
+<string id="1170" text="This license is invalid, or has expired.  \nIf you want to purchase a license, you can click on Help &gt; Purchase Now."/>
+<string id="1171" text="Aceitar"/>
 <string id="1172" text="You have successfully registered your formal license key.\nPlease close and restart %s for the changes to take effect."/>
-<string id="1173" text="Start 14-day free trial."/>
-<string id="1174" text="Instalar Novamente(&amp;I)"/>
-<string id="1175" text="Instalar a Chave(&amp;I)"/>
+<string id="1173" text="Start a 14-day free trial."/>
+<string id="1174" text="This account doesn't have an active subscription to %s.  \nIf you want to subscribe, you can click on Help &gt; Subscribe."/>
+<string id="1175" text="Purchase a license for %s or contact us at:"/>
 <string id="1176" text="This operation will replace the %s%[1] file under the %s%[2] directory. Are you sure you want to replace it?"/>
-<string id="1177" text="You have a 14-day free trial period for %s."/>
+<string id="1177" text="Activate if you already have a license or subscription to %s."/>
 <string id="1178" text="License key file generation failed. The failure may be due to one of the following causes:\n\n1.The key file is available in the %s%[1] directory but is currently read-only.\n2.The current user account doesn't have permission to modify the %s%[2] directory.\n\nPlease try it again after checking the file property and the operation permission of the directory."/>
 <string id="1179" text="Register now to start %d%[1]-day free trial of %s%[2] edition."/>
 <string id="1180" text="Foxit Redactor for Office"/>
 <string id="1181" text="Please fill the form below to finish your activation."/>
 <string id="1182" text="To submit your registration, you must provide all of the required answers.\nRequired answers are marked with asterisks(*)."/>
-<string id="1183" text="Your Email and Confirm Email entries don't match.\nPlease try entering and confirming your email address again."/>
-<string id="1184" text="You Serial number is not correct!"/>
-<string id="1185" text="You have registered your product with this Serial number, please check."/>
-<string id="1186" text="Por favor, insira um endereço de e-mail válido."/>
-<string id="1187" text="Registar Depois(&amp;R)"/>
+<string id="1183" text="A complete business-ready PDF solution that expands upon %s Standard by offering advanced editing, shared review initiation, higher security, additional file compression, PDF A/E/X creation, redaction, and Bates numbering."/>
+<string id="1184" text="If you have purchased a license to %s, enter the entire registration code or key file here, then click Activate."/>
+<string id="1185" text="If you have an existing subscription to %s, sign in to your account to activate it."/>
 <string id="1188" text="Registar Agora(&amp;N)"/>
-<string id="1189" text="Ativar mais tarde(&amp;r)"/>
 <string id="1190" text="Ativar agora(&amp;N)"/>
 <string id="1191" text="Registration key format error! Error code: %s"/>
 <string id="1192" text="User Name value is empty. Error code: %s"/>
@@ -109,8 +132,6 @@
 <string id="1195" text="Activated successfully. You have successfully activated %s time(s).\n"/>
 <string id="1196" text="Activation failed. Error code: %d"/>
 <string id="1197" text="Cannot connect to the server."/>
-<string id="1198" text="The registration key has been activated before, no need to re-activate."/>
-<string id="1199" text="Register successfully, you can get extra 14 days free trial."/>
 <string id="1200" text="Launching / Activating %s%[1] failed. Please check whether the executable file of %s%[2] has been renamed or removed, then try again."/>
 <string id="1201" text="FDRFMO"/>
 <string id="1202" text="%s Activation"/>
@@ -130,9 +151,7 @@
 <string id="1216" text="Você registou-se com sucesso a sua chave de licença."/>
 <string id="1217" text="You have successfully activated your additional 14 days."/>
 <string id="1218" text="The file fpmkey.txt could not be saved. \nThe file may be read-only, or opened by another user."/>
-<string id="1219" text="Please input your registration key code below.\n\nYou must be connected to the Internet when activating."/>
 <string id="1220" text="Back to the free Express edition if you do not plan to get a license now."/>
-<string id="1221" text="Next &gt;(&amp;N)"/>
 <string id="1222" text="This program can only be activated by %s%[1] language registration key. Error code: %s%[2]"/>
 <string id="1223" text="Permission denied. Please complete the operation under an account with administrator's rights."/>
 <string id="1224" text="You didn't register, please fill required fields to register."/>
@@ -163,53 +182,22 @@
 <string id="1250" text="Edition: Standard/Business"/>
 <string id="1251" text="Version: 8.0"/>
 <string id="1303" text="Cancelar(&amp;C)"/>
-<string id="1304" text="Email:"/>
-<string id="1305" text="Telefone:"/>
-<string id="1306" text="First Name:"/>
-<string id="1307" text="Last Name:"/>
-<string id="1308" text="Company:"/>
-<string id="1309" text="Confirm Email:"/>
-<string id="1310" text="*Country:(&amp;C)"/>
-<string id="1311" text="*State:"/>
-<string id="1312" text="*City/State:(&amp;S)"/>
-<string id="1313" text="*Address:(&amp;A)"/>
-<string id="1314" text="*Job Title:(&amp;J)"/>
-<string id="1315" text="Number of users:(&amp;N)"/>
-<string id="1316" text="Dias Gratis"/>
 <string id="1317" text="%s%[1]. Error code: %s%[2]"/>
-<string id="1320" text="To purchase licenses for these plugins , please visit the Foxit website"/>
 <string id="1321" text="Please fill in the User Name below to finish your activation. The User Name will be displayed in Help-&gt;About."/>
 <string id="1322" text="Please input your User Name to finish the activation."/>
 <string id="1324" text="Product Code is invalid. Error code: %s"/>
 <string id="1329" text="Please fill in the User Name Field below to finish your activation.\nYou will need to connect to the Internet."/>
 <string id="1330" text="You should use license key file to activate %s%[1] on Windows Server, please contact Foxit Sales at %s%[2] for more details. You can keep your 14 days free trail on Server."/>
-<string id="1331" text="Continue Use"/>
 <string id="1335" text="The registration key code cannot activate this version.(Code:%s)."/>
-<string id="1336" text="Purchase a license for the %s edition or contact us at:"/>
-<string id="1337" text="Please input your registration key code below. Alternatively, you can activate it later by navigating under Help menu. \nYou must be connected to the Internet when activating."/>
-<string id="1338" text="Activate if you already have a license for %s edition."/>
-<string id="1339" text="Activate if you already have a license for %s edition."/>
-<string id="1340" text="Downgrade(&amp;D)"/>
-<string id="1341" text="Purchase a license or contact us at:"/>
 <string id="1342" text="Would you like to remove some %s%[1] edition-specific features such as OCR to save space on your computer? \nYou can download them again after purchasing the %s%[2] edition."/>
-<string id="1343" text="Purchase a license for the %s edition or contact us at:"/>
-<string id="1344" text="Activate if you already have a license."/>
-<string id="1367" text="Your 14-day evaluation period for %s%[1] %s%[2] has expired."/>
+<string id="1367" text="Your 14-day evaluation period for %s has expired."/>
 <string id="1368" text="Back to %s"/>
-<string id="1369" text="Your 14-day evaluation period for %s%[1] %s%[2] has expired."/>
-<string id="1371" text="Click Free Trial button to use %s advanced features, or choose one of the following options:"/>
-<string id="1372" text="Use %s(&amp;U)"/>
-<string id="1373" text="Use the free %s edition if you do not plan to get a license or start trial now."/>
 <string id="1374" text="Free Trial(&amp;F)"/>
-<string id="1375" text="Start Trial"/>
-<string id="1376" text="Start 14-day free trial of %s edition."/>
 <string id="1379" text="Free Trial"/>
-<string id="1380" text="Use %s"/>
 <string id="1381" text="You have a 14-day free trial period for %s advanced features."/>
 <string id="1390" text="Ativar(&amp;A)"/>
-<string id="1391" text="Buy Now(&amp;B)"/>
+<string id="1391" text="Purchase Now(&amp;P)"/>
 <string id="1392" text="Back to %s(&amp;%)"/>
-<string id="1393" text="Mail:"/>
 <string id="1399" text="Aceitar(&amp;O)"/>
 <string id="1400" text="Cancelar(&amp;C)"/>
 <string id="1401" text="Sim(&amp;Y)"/>
@@ -252,8 +240,6 @@
 <string id="1444" text="Support@foxitsoftware.com"/>
 <string id="1445" text="Foxit PhantomPDF"/>
 <string id="1446" text="Foxit Reader"/>
-<string id="1447" text="Call:"/>
-<string id="1455" text="Subscribe failed."/>
 <string id="1456" text="Unknown Error."/>
 <string id="1457" text="Return failed because of permission denied. Please complete the operation under an account with administrator's rights."/>
 <string id="1458" text="Return failed."/>
@@ -282,6 +268,10 @@
 <string id="1486" text="1-866-MYFOXIT or +1-866-693-6948"/>
 <string id="1487" text="sales@foxit.co.jp"/>
 <string id="1488" text="sales@foxit.co.jp"/>
+<string id="2043" text="sales@litera.com"/>
+<string id="2044" text="sales@litera.com"/>
+<string id="2045" text="+1-336-375-2991"/>
+<string id="2046" text="+1-336-375-2991"/>
 </Strings>
 </Activation>
 <BaseAnnot_DLL>
@@ -320,12 +310,12 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="2292" text="Add Dictionaries" left="0" top="0" width="335" height="396">
+<Dialog id="2292" text="Add Dictionaries" left="0" top="0" width="335" height="395">
 <dlgitem id="1" text="Aceitar(&amp;O)" left="150" top="333" width="75" height="23"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="243" top="333" width="75" height="23"/>
 <dlgitem id="1664" text="" left="11" top="11" width="308" height="297"/>
 </Dialog>
-<Dialog id="2293" text="Place on Multiple Pages" left="0" top="0" width="305" height="197">
+<Dialog id="2293" text="Place on Multiple Pages" left="0" top="0" width="305" height="196">
 <dlgitem id="4294967295" text="Intervalo de páginas" left="12" top="4" width="284" height="116"/>
 <dlgitem id="1668" text="Todas Páginas" left="23" top="26" width="102" height="18"/>
 <dlgitem id="1669" text="Desde:" left="23" top="58" width="49" height="18"/>
@@ -534,7 +524,7 @@
 <dlgitem id="2272" text="Run form recognition when creating PDF in %s" left="16" top="156" width="480" height="19"/>
 <dlgitem id="2273" text="Enable smart non-interactive field detection and filling mode with typewriter tool." left="16" top="168" width="494" height="18"/>
 </Dialog>
-<Dialog id="2701" text="Export multiple forms to a sheet" left="0" top="0" width="431" height="451">
+<Dialog id="2701" text="Export multiple forms to a sheet" left="0" top="0" width="431" height="450">
 <dlgitem id="1" text="Exportar" left="200" top="375" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="305" top="375" width="88" height="25"/>
 <dlgitem id="2266" text="Adicionar Ficheiros...(&amp;A)" left="28" top="23" width="110" height="26"/>
@@ -624,7 +614,7 @@
 <dlgitem id="2860" text="" left="96" top="93" width="23" height="23"/>
 </Dialog>
 <Dialog id="3112" left="0" top="0" width="302" height="193"/>
-<Dialog id="3114" text="Add a new content of table" left="0" top="0" width="536" height="236">
+<Dialog id="3114" text="Add a new content of table" left="0" top="0" width="536" height="235">
 <dlgitem id="2867" text="Select the bookmark levels that should be converted into items in the table of contents. Bookmarks nested more than 4 levels cannot be converted." left="33" top="26" width="445" height="35"/>
 <dlgitem id="1" text="Aceitar" left="306" top="165" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="399" top="165" width="88" height="25"/>
@@ -789,7 +779,7 @@
 <dlgitem id="4030" text="Lote cria documentos PDF a partir de múltiplos arquivos" left="30" top="116" width="333" height="23"/>
 <dlgitem id="4028" text="From \nMultiple Files" left="30" top="145" width="100" height="77"/>
 </Dialog>
-<Dialog id="3916" text="Converter Múltiplos Ficheiros" left="0" top="0" width="704" height="556">
+<Dialog id="3916" text="Converter Múltiplos Ficheiros" left="0" top="0" width="704" height="555">
 <dlgitem id="4018" text="Adicionar Ficheiros...(&amp;A)" left="9" top="63" width="95" height="25"/>
 <dlgitem id="4044" text="Lista 1" left="9" top="116" width="681" height="198"/>
 <dlgitem id="0" text="" left="0" top="0" width="677" height="24"/>
@@ -806,6 +796,7 @@
 <dlgitem id="4294967295" text="Organizar os seus ficheiros" left="9" top="91" width="681" height="268"/>
 <dlgitem id="4055" text="Total de 0 Ficheiros" left="548" top="70" width="135" height="14"/>
 <dlgitem id="4049" text="Banner" left="9" top="7" width="681" height="51"/>
+<dlgitem id="4061" text="" left="361" top="322" width="95" height="26"/>
 </Dialog>
 <Dialog id="3917" left="0" top="0" width="565" height="375">
 <dlgitem id="4039" text="Blank Page Size" left="0" top="0" width="536" height="205"/>
@@ -825,19 +816,79 @@
 <dlgitem id="4024" text="Allow pop up alert when creating PDF(&amp;A)" left="14" top="256" width="268" height="18"/>
 <dlgitem id="4051" text="Not recommended to check this box when creating multiple files to a PDF. It will suspend the conversion process." left="30" top="282" width="450" height="60"/>
 </Dialog>
-<Dialog id="3918" text="Open PDF Files" left="0" top="0" width="400" height="418">
+<Dialog id="3918" text="Open PDF Files" left="0" top="0" width="400" height="417">
 <dlgitem id="1" text="Adicionar Ficheiros" left="159" top="352" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="294" top="352" width="88" height="25"/>
 <dlgitem id="4045" text="Lista 1" left="12" top="12" width="369" height="329"/>
 <dlgitem id="0" text="" left="0" top="0" width="365" height="24"/>
 </Dialog>
-<Dialog id="3919" text="Senha" left="0" top="0" width="438" height="157">
+<Dialog id="3919" text="Senha" left="0" top="0" width="438" height="156">
 <dlgitem id="4050" text="Entre com a senha:" left="61" top="61" width="98" height="14"/>
 <dlgitem id="4046" text="" left="165" top="56" width="207" height="25"/>
 <dlgitem id="1" text="Aceitar" left="233" top="91" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="333" top="91" width="88" height="25"/>
 <dlgitem id="4054" text="Este arquivo está protegido.Por favor entre com a senha para abri-lo." left="61" top="14" width="357" height="30"/>
 <dlgitem id="4060" text="" left="12" top="14" width="35" height="35"/>
+</Dialog>
+<Dialog id="3920" left="0" top="0" width="254" height="247">
+<dlgitem id="4062" text="Create From Web Page" left="30" top="72" width="219" height="39"/>
+<dlgitem id="4063" text="Create a PDF from web page" left="30" top="116" width="219" height="23"/>
+<dlgitem id="4064" text="From \nWeb Page" left="30" top="145" width="98" height="77"/>
+</Dialog>
+<Dialog id="4036" text="Create PDF From Web Page" left="0" top="0" width="472" height="145">
+<dlgitem id="4071" text="Créer(&amp;C)" left="259" top="77" width="88" height="25"/>
+<dlgitem id="2" text="Cancelar" left="354" top="77" width="88" height="25"/>
+<dlgitem id="4069" text="Endereço de Internet:(&amp;U)" left="30" top="28" width="32" height="14"/>
+<dlgitem id="4067" text="" left="72" top="25" width="275" height="22"/>
+<dlgitem id="4068" text="Procurar(&amp;B)" left="354" top="23" width="88" height="25"/>
+<dlgitem id="4070" text="Definições...(&amp;S)" left="30" top="77" width="88" height="25"/>
+</Dialog>
+<Dialog id="4039" left="0" top="0" width="506" height="532">
+<dlgitem id="4072" text="" left="123" top="60" width="102" height="22"/>
+<dlgitem id="4073" text="W" left="123" top="96" width="102" height="25"/>
+<dlgitem id="4075" text="H" left="354" top="96" width="102" height="25"/>
+<dlgitem id="4077" text="T" left="123" top="165" width="102" height="25"/>
+<dlgitem id="4079" text="B" left="354" top="165" width="102" height="25"/>
+<dlgitem id="4081" text="L" left="123" top="200" width="102" height="25"/>
+<dlgitem id="4095" text="R" left="354" top="198" width="102" height="25"/>
+<dlgitem id="4100" text="Tamanho" left="25" top="33" width="467" height="96"/>
+<dlgitem id="4102" text="Tamanho da Página:" left="32" top="60" width="82" height="23"/>
+<dlgitem id="4104" text="Altura:" left="292" top="95" width="56" height="23"/>
+<dlgitem id="4106" text="Largura:" left="58" top="95" width="56" height="23"/>
+<dlgitem id="4107" text="Margens" left="25" top="138" width="467" height="96"/>
+<dlgitem id="4108" text="Esquerda:" left="292" top="198" width="56" height="23"/>
+<dlgitem id="4110" text="Esquerda:" left="58" top="198" width="56" height="23"/>
+<dlgitem id="4112" text="Fundo:" left="292" top="165" width="56" height="23"/>
+<dlgitem id="4114" text="Topo:" left="58" top="165" width="56" height="23"/>
+<dlgitem id="4116" text="Orientação" left="25" top="243" width="467" height="63"/>
+<dlgitem id="4088" text="Portrait" left="56" top="270" width="128" height="18"/>
+<dlgitem id="4089" text="Landscape" left="326" top="270" width="128" height="18"/>
+<dlgitem id="4118" text="em" left="236" top="102" width="14" height="14"/>
+<dlgitem id="4119" text="em" left="236" top="172" width="14" height="14"/>
+<dlgitem id="4120" text="em" left="466" top="102" width="14" height="14"/>
+<dlgitem id="4121" text="em" left="466" top="172" width="14" height="14"/>
+<dlgitem id="4122" text="em" left="236" top="205" width="14" height="14"/>
+<dlgitem id="4123" text="em" left="466" top="205" width="14" height="14"/>
+</Dialog>
+<Dialog id="4040" left="0" top="0" width="506" height="532">
+<dlgitem id="4099" text="Convert only" left="40" top="65" width="128" height="25"/>
+<dlgitem id="4103" text="Convert the entire site" left="40" top="175" width="429" height="25"/>
+<dlgitem id="4084" text="L" left="196" top="65" width="102" height="25"/>
+<dlgitem id="4101" text="Level(s)" left="317" top="65" width="95" height="25"/>
+<dlgitem id="4091" text="Convert webpages on the same path" left="60" top="103" width="399" height="25"/>
+<dlgitem id="4093" text="Convert webpages on the same server" left="60" top="138" width="399" height="25"/>
+<dlgitem id="4098" text="Coversion Level" left="23" top="33" width="467" height="182"/>
+<dlgitem id="4105" text="PDF Setting" left="23" top="235" width="467" height="158"/>
+<dlgitem id="4109" text="Set Timeout:" left="40" top="268" width="84" height="25"/>
+<dlgitem id="4111" text="T" left="147" top="268" width="102" height="25"/>
+<dlgitem id="4113" text="segundos" left="270" top="268" width="56" height="25"/>
+<dlgitem id="4115" text="Disable all hyperlinks in the generated PDFs" left="40" top="308" width="429" height="25"/>
+<dlgitem id="4117" text="Set all the page contents to one single PDF page" left="40" top="345" width="429" height="25"/>
+</Dialog>
+<Dialog id="4043" text="Download Status" left="0" top="0" width="547" height="280">
+<dlgitem id="4125" text="Parar" left="210" top="222" width="88" height="25"/>
+<dlgitem id="4124" text="" left="11" top="9" width="520" height="201"/>
+<dlgitem id="0" text="" left="0" top="0" width="516" height="24"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -937,14 +988,46 @@
 <string id="4018" text="O ficheiro &quot;%s&quot; está protegido. Por favor, insira a Palavra-passe de Abertura do Documento."/>
 <string id="4019" text="Arquivo PDF"/>
 <string id="4020" text="%s%[1] Printer Version %s%[2]"/>
-<string id="4021" text="This document is encrypted by %s RMS protector, you have no access to do operations on it."/>
+<string id="4021" text="This document is encrypted by %s RMS protector, you do not have access to perform operations on it."/>
 <string id="4022" text="Não é possivel guardar para o arquivo. O arquivo pode ser só de leitura ou está a ser usado por outra aplicação. Pretende tentar com outro arquivo??"/>
 <string id="4023" text="Send to Evernote(&amp;S)"/>
 <string id="4024" text="Evernote"/>
 <string id="4025" text="Send current document to Evernote as a new note"/>
-<string id="4026" text="Bem Sucedido"/>
+<string id="4026" text="Disposição da Página"/>
 <string id="4027" text="Total de %d Ficheiros"/>
 <string id="4028" text="Points\nInches\nCentimeters\nPicas\nMillimeters"/>
+<string id="4029" text="XPS"/>
+<string id="4030" text="CAD files"/>
+<string id="4031" text="From Web Page"/>
+<string id="4032" text="Create a PDF from content on the web pages"/>
+<string id="4033" text="Range"/>
+<string id="4034" text="Choose Pages(&amp;P)"/>
+<string id="4035" text="Choose Sheets(&amp;h)"/>
+<string id="4036" text="Todos"/>
+<string id="4037" text="Web Page Conversion Settings"/>
+<string id="4038" text="Personalizar "/>
+<string id="4039" text="Invalid numeric format."/>
+<string id="4040" text="The value must be between %d%[1] and %d%[2]."/>
+<string id="4041" text="Connecting"/>
+<string id="4042" text="Can't connect to the server"/>
+<string id="4043" text="The operation may take a large amount of system resources or hard disk space. \nAnd it will save the file firstly. Do you want to continue?"/>
+<string id="4044" text="Don’t show this message again"/>
+<string id="4045" text="Estado"/>
+<string id="4046" text="Opening..."/>
+<string id="4047" text="Transferindo"/>
+<string id="4048" text="Bem Sucedido"/>
+<string id="4049" text="Erro"/>
+<string id="4050" text="Failed to open %s file."/>
+<string id="4051" text="The %s contains no 3D objects.\nThe generated document is empty.\n\nWould you like to open the generated document anyway?"/>
+<string id="4052" text="Invalid URL"/>
+<string id="4053" text="The URL file doesn't exist"/>
+<string id="4054" text="Failed to open the file."/>
+<string id="4055" text="Geral"/>
+<string id="4056" text="Aceitar"/>
+<string id="4057" text="Cancelar"/>
+<string id="4058" text="PDF file(*.pdf)"/>
+<string id="4059" text="Digital signatures are removed during merge"/>
+<string id="4060" text="Certified document cannot be merged"/>
 </Strings>
 </ConvertToPDF_DLL>
 <DocProcess_DLL>
@@ -957,13 +1040,13 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="4351" text="Create web links" left="0" top="0" width="559" height="150">
+<Dialog id="4351" text="Create web links" left="0" top="0" width="559" height="149">
 <dlgitem id="1" text="Aceitar" left="359" top="84" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="453" top="84" width="88" height="25"/>
 <dlgitem id="4656" text="Don't ask again" left="30" top="77" width="138" height="18"/>
 <dlgitem id="4294967295" text="This operation cannot be undone using the Undo button. You can remove all links using the &quot;remove all links&quot; button. Would you like to proceed?" left="28" top="25" width="497" height="39"/>
 </Dialog>
-<Dialog id="4352" text="Custom Properties" left="0" top="0" width="638" height="476">
+<Dialog id="4352" text="Custom Properties" left="0" top="0" width="638" height="475">
 <dlgitem id="4728" text="Nome:(&amp;N)" left="35" top="39" width="33" height="13"/>
 <dlgitem id="4661" text="" left="93" top="34" width="384" height="23"/>
 <dlgitem id="4637" text="" left="533" top="34" width="75" height="23"/>
@@ -975,38 +1058,40 @@
 <dlgitem id="1" text="Aceitar(&amp;O)" left="429" top="411" width="75" height="23"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="533" top="411" width="75" height="23"/>
 </Dialog>
-<Dialog id="4353" left="0" top="0" width="359" height="565">
+<Dialog id="4353" left="0" top="0" width="359" height="614">
 <dlgitem id="4755" text="Descrição" left="30" top="72" width="140" height="39"/>
 <dlgitem id="4673" text="Geral" left="30" top="123" width="140" height="23"/>
 <dlgitem id="4719" text="Ficheiro" left="30" top="163" width="61" height="21"/>
 <dlgitem id="4739" text="Versão do PDF" left="30" top="186" width="74" height="21"/>
-<dlgitem id="4738" text="Tamanho da Página" left="30" top="208" width="74" height="21"/>
-<dlgitem id="4736" text="Páginas" left="30" top="231" width="98" height="21"/>
-<dlgitem id="4749" text="Título" left="30" top="254" width="61" height="21"/>
-<dlgitem id="4747" text="Assunto" left="30" top="277" width="61" height="21"/>
-<dlgitem id="4718" text="Criador" left="30" top="299" width="61" height="21"/>
-<dlgitem id="4715" text="Autor" left="30" top="322" width="61" height="21"/>
-<dlgitem id="4742" text="Produtor" left="30" top="345" width="61" height="21"/>
-<dlgitem id="4723" text="Palavra-Chave" left="30" top="368" width="61" height="21"/>
-<dlgitem id="4636" text="Personalizar " left="28" top="404" width="88" height="25"/>
-<dlgitem id="4294967295" text="Related Dates" left="30" top="441" width="98" height="23"/>
-<dlgitem id="4727" text="Last Modified" left="30" top="474" width="98" height="21"/>
-<dlgitem id="4717" text="Criado" left="30" top="499" width="98" height="21"/>
-<dlgitem id="4679" text="Show More Information" left="26" top="525" width="138" height="26"/>
+<dlgitem id="4738" text="Tamanho da Página" left="30" top="231" width="74" height="21"/>
+<dlgitem id="4736" text="Páginas" left="30" top="254" width="98" height="21"/>
+<dlgitem id="4749" text="Título" left="30" top="277" width="61" height="21"/>
+<dlgitem id="4747" text="Assunto" left="30" top="299" width="61" height="21"/>
+<dlgitem id="4718" text="Criador" left="30" top="322" width="61" height="21"/>
+<dlgitem id="4715" text="Autor" left="30" top="345" width="61" height="21"/>
+<dlgitem id="4742" text="Produtor" left="30" top="368" width="61" height="21"/>
+<dlgitem id="4723" text="Palavra-Chave" left="30" top="394" width="61" height="21"/>
+<dlgitem id="4636" text="Personalizar " left="28" top="453" width="88" height="25"/>
+<dlgitem id="4294967295" text="Related Dates" left="30" top="490" width="98" height="23"/>
+<dlgitem id="4727" text="Last Modified" left="30" top="523" width="98" height="21"/>
+<dlgitem id="4717" text="Criado" left="30" top="548" width="98" height="21"/>
+<dlgitem id="4679" text="Show More Information" left="26" top="574" width="138" height="26"/>
 <dlgitem id="4672" text="" left="182" top="166" width="145" height="21"/>
 <dlgitem id="4682" text="" left="184" top="186" width="145" height="21"/>
-<dlgitem id="4681" text="" left="184" top="208" width="145" height="21"/>
-<dlgitem id="4680" text="" left="184" top="231" width="145" height="21"/>
-<dlgitem id="4759" text="" left="182" top="257" width="145" height="21"/>
-<dlgitem id="4758" text="" left="182" top="280" width="145" height="21"/>
-<dlgitem id="4655" text="" left="182" top="303" width="145" height="21"/>
-<dlgitem id="4634" text="" left="182" top="326" width="145" height="21"/>
-<dlgitem id="4683" text="" left="182" top="348" width="145" height="21"/>
-<dlgitem id="4674" text="" left="182" top="371" width="145" height="35"/>
-<dlgitem id="4678" text="1" left="184" top="474" width="145" height="21"/>
-<dlgitem id="4654" text="2." left="184" top="499" width="145" height="21"/>
+<dlgitem id="4681" text="" left="184" top="231" width="145" height="21"/>
+<dlgitem id="4680" text="" left="184" top="254" width="145" height="21"/>
+<dlgitem id="4759" text="" left="182" top="280" width="145" height="21"/>
+<dlgitem id="4758" text="" left="182" top="303" width="145" height="21"/>
+<dlgitem id="4655" text="" left="182" top="326" width="145" height="21"/>
+<dlgitem id="4634" text="" left="182" top="348" width="145" height="21"/>
+<dlgitem id="4683" text="" left="182" top="371" width="145" height="21"/>
+<dlgitem id="4674" text="" left="182" top="394" width="145" height="35"/>
+<dlgitem id="4678" text="1" left="184" top="523" width="145" height="21"/>
+<dlgitem id="4654" text="2." left="184" top="548" width="145" height="21"/>
+<dlgitem id="4743" text="Fast Web View" left="30" top="208" width="133" height="21"/>
+<dlgitem id="4684" text="Não" left="184" top="208" width="145" height="21"/>
 </Dialog>
-<Dialog id="4354" text="JavaScript Functions" left="0" top="0" width="521" height="453">
+<Dialog id="4354" text="JavaScript Functions" left="0" top="0" width="521" height="452">
 <dlgitem id="2" text="Fechar(&amp;C)" left="394" top="53" width="88" height="25"/>
 <dlgitem id="4294967295" text="Script &amp;Name:(&amp;N)" left="21" top="18" width="158" height="14"/>
 <dlgitem id="4661" text="" left="21" top="39" width="350" height="23"/>
@@ -1016,7 +1101,7 @@
 <dlgitem id="4639" text="Editar...(&amp;E)" left="394" top="119" width="88" height="25"/>
 <dlgitem id="4638" text="Apagar(&amp;D)" left="394" top="152" width="88" height="25"/>
 </Dialog>
-<Dialog id="4355" text="Document Actions" left="0" top="0" width="353" height="381">
+<Dialog id="4355" text="Document Actions" left="0" top="0" width="353" height="380">
 <dlgitem id="1" text="Aceitar" left="124" top="317" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="240" top="315" width="88" height="25"/>
 <dlgitem id="4757" text="Quando isto acontece...(&amp;W)" left="23" top="18" width="284" height="21"/>
@@ -1025,7 +1110,7 @@
 <dlgitem id="4756" text="Execute this Javascript:" left="23" top="166" width="278" height="19"/>
 <dlgitem id="4671" text="" left="23" top="191" width="305" height="107"/>
 </Dialog>
-<Dialog id="4356" text="Form Field Recognition" left="0" top="0" width="437" height="428">
+<Dialog id="4356" text="Form Field Recognition" left="0" top="0" width="437" height="427">
 <dlgitem id="1" text="Aceitar" left="324" top="362" width="88" height="25"/>
 <dlgitem id="4706" text="Your PDF Form has been created." left="28" top="26" width="376" height="23"/>
 <dlgitem id="4707" text="During creation, Foxit may have missed some fields or created extraneous fields." left="28" top="56" width="376" height="32"/>
@@ -1034,7 +1119,7 @@
 <dlgitem id="4705" text="" left="28" top="156" width="376" height="159"/>
 <dlgitem id="4647" text="Não mostrar novamente" left="11" top="359" width="243" height="30"/>
 </Dialog>
-<Dialog id="4357" text="Create web links" left="0" top="0" width="430" height="222">
+<Dialog id="4357" text="Create web links" left="0" top="0" width="430" height="221">
 <dlgitem id="4748" text="Automatically generate web links on which pages?" left="47" top="25" width="362" height="14"/>
 <dlgitem id="4702" text="Página Actual(&amp;C)" left="47" top="53" width="100" height="18"/>
 <dlgitem id="4701" text="Todas Páginas(&amp;A)" left="47" top="82" width="75" height="18"/>
@@ -1118,7 +1203,7 @@
 <dlgitem id="4652" text="" left="30" top="173" width="207" height="23"/>
 <dlgitem id="4649" text="" left="30" top="201" width="207" height="23"/>
 </Dialog>
-<Dialog id="4361" text="Page Numbers" left="0" top="0" width="475" height="421">
+<Dialog id="4361" text="Page Numbers" left="0" top="0" width="475" height="420">
 <dlgitem id="4737" text="Páginas" left="16" top="12" width="438" height="112"/>
 <dlgitem id="4697" text="Todas Páginas" left="28" top="37" width="68" height="18"/>
 <dlgitem id="4704" text="Todas as Imagens Suportadas|*.bmp;*.jpg;*.jpeg;*.png;*.tiff;*.tif;*.exif;*.gif;*.ico|Imagens \nBitmap (*.bmp)|*.bmp|Imagens JPEG (*.JPG;*.JPEG)|*.JPG;*.JPEG|\nImagens PNG (*.png)|*.png|Imagens TIFF (*.tiff, *.tif)|*.tiff;*.tif|\nImagens EXIF (*.exif)|*.exif|Imagens GIF (*.gif)|*.gif|Icon Files (*.ico)|*.ico|" left="28" top="65" width="68" height="18"/>
@@ -1142,7 +1227,7 @@
 <dlgitem id="1" text="Aceitar" left="109" top="355" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="252" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="4362" text="Page Transitions" left="0" top="0" width="375" height="370">
+<Dialog id="4362" text="Page Transitions" left="0" top="0" width="375" height="369">
 <dlgitem id="4691" text="Page Transition" left="12" top="12" width="347" height="145"/>
 <dlgitem id="4692" text="Transition:(&amp;n)" left="28" top="44" width="60" height="18"/>
 <dlgitem id="4685" text="" left="107" top="44" width="215" height="22"/>
@@ -1165,6 +1250,7 @@
 </Dialogs>
 <Strings>
 <string id="4350" text="Different page number(s) is (are):"/>
+<string id="4351" text="Sim"/>
 <string id="4381" text="Adicionar DocAction"/>
 <string id="4382" text="A total of  %d web links were added to the document."/>
 <string id="4383" text="Adicionar(&amp;A)"/>
@@ -1180,8 +1266,7 @@
 <string id="4393" text="Document Action"/>
 <string id="4394" text="Edit DocAction"/>
 <string id="4395" text="O número da página não pode ser deixado em branco."/>
-<string id="4396" text="There is no page numbered"/>
-<string id="4397" text="in this document."/>
+<string id="4396" text="There is no page numbered &quot;%s&quot; in this document."/>
 <string id="4398" text="The starting page number must be less than or equal to the ending page number."/>
 <string id="4399" text="The page number should be between 1 and"/>
 <string id="4400" text="Please enter a starting value of at least 1."/>
@@ -1366,7 +1451,7 @@
 </DrawingAnnot_DLL>
 <Email_DLL>
 <Dialogs>
-<Dialog id="5192" text="Add SMTP Account" left="0" top="0" width="438" height="234">
+<Dialog id="5192" text="Add SMTP Account" left="0" top="0" width="438" height="233">
 <dlgitem id="5917" text="" left="140" top="12" width="280" height="25"/>
 <dlgitem id="5919" text="" left="140" top="42" width="280" height="25"/>
 <dlgitem id="5921" text="" left="140" top="72" width="280" height="25"/>
@@ -1382,7 +1467,7 @@
 <dlgitem id="5937" text="Smtp Port:" left="12" top="107" width="109" height="14"/>
 <dlgitem id="5936" text="Segurança:" left="12" top="138" width="109" height="14"/>
 </Dialog>
-<Dialog id="5193" text="Edit Smtp Account" left="0" top="0" width="438" height="234">
+<Dialog id="5193" text="Edit Smtp Account" left="0" top="0" width="438" height="233">
 <dlgitem id="5917" text="" left="140" top="12" width="280" height="25"/>
 <dlgitem id="5919" text="" left="140" top="42" width="280" height="25"/>
 <dlgitem id="5921" text="" left="140" top="74" width="280" height="25"/>
@@ -1413,7 +1498,7 @@
 <dlgitem id="5911" text="Apagar(&amp;D)" left="422" top="273" width="88" height="25"/>
 <dlgitem id="5913" text="Seleccionar(&amp;S)" left="42" top="273" width="88" height="25"/>
 </Dialog>
-<Dialog id="5195" text="Send Mail" left="0" top="0" width="451" height="335">
+<Dialog id="5195" text="Send Mail" left="0" top="0" width="451" height="334">
 <dlgitem id="5914" text="Send(&amp;S)" left="250" top="270" width="88" height="25"/>
 <dlgitem id="5910" text="Cancelar(&amp;C)" left="345" top="270" width="88" height="25"/>
 <dlgitem id="5940" text="para:" left="12" top="14" width="96" height="14"/>
@@ -1424,7 +1509,7 @@
 <dlgitem id="5927" text="" left="12" top="247" width="420" height="11"/>
 <dlgitem id="5924" text="pronto" left="12" top="226" width="420" height="14"/>
 </Dialog>
-<Dialog id="5196" text="Send Mail" left="0" top="0" width="318" height="132">
+<Dialog id="5196" text="Send Mail" left="0" top="0" width="318" height="131">
 <dlgitem id="5927" text="" left="12" top="44" width="287" height="14"/>
 <dlgitem id="5910" text="Cancelar(&amp;C)" left="107" top="67" width="88" height="25"/>
 <dlgitem id="5925" text="pronto" left="12" top="19" width="287" height="14"/>
@@ -1462,7 +1547,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="5819" text="Anexo de Ficheiro" left="0" top="0" width="748" height="437">
+<Dialog id="5819" text="Anexo de Ficheiro" left="0" top="0" width="748" height="436">
 <dlgitem id="7123" text="Adicionar Ficheiros..." left="12" top="14" width="107" height="28"/>
 <dlgitem id="7125" text="Cancelar" left="642" top="371" width="88" height="25"/>
 <dlgitem id="7133" text="" left="12" top="93" width="718" height="264"/>
@@ -1471,26 +1556,26 @@
 <dlgitem id="7154" text="Add Documents to the list below." left="12" top="51" width="718" height="21"/>
 <dlgitem id="7157" text="Press OK when all the documents have been added." left="12" top="70" width="718" height="14"/>
 </Dialog>
-<Dialog id="5820" text="Dialogo" left="0" top="0" width="641" height="320">
+<Dialog id="5820" text="Dialogo" left="0" top="0" width="641" height="319">
 <dlgitem id="7160" text="Aceitar" left="536" top="254" width="88" height="25"/>
 <dlgitem id="7131" text="" left="11" top="33" width="613" height="212"/>
 <dlgitem id="0" text="" left="0" top="0" width="609" height="24"/>
 <dlgitem id="7130" text="Estático" left="11" top="11" width="613" height="18"/>
 </Dialog>
-<Dialog id="5821" text="Editar descrição do anexo" left="0" top="0" width="330" height="125">
+<Dialog id="5821" text="Editar descrição do anexo" left="0" top="0" width="330" height="124">
 <dlgitem id="7129" text="Descrição:" left="12" top="7" width="298" height="18"/>
 <dlgitem id="7127" text="" left="12" top="26" width="298" height="21"/>
 <dlgitem id="7128" text="Aceitar" left="124" top="60" width="88" height="25"/>
 <dlgitem id="7126" text="Cancelar" left="221" top="60" width="88" height="25"/>
 </Dialog>
-<Dialog id="5822" text="Attach File Attachment" left="0" top="0" width="610" height="349">
+<Dialog id="5822" text="Attach File Attachment" left="0" top="0" width="610" height="348">
 <dlgitem id="1" text="Aceitar" left="382" top="284" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="504" top="284" width="88" height="25"/>
 <dlgitem id="7132" text="" left="12" top="37" width="579" height="203"/>
 <dlgitem id="7156" text="Are you sure to attach the following files to this pdf?" left="12" top="12" width="579" height="14"/>
 <dlgitem id="7136" text="Always attach file when dragging files to the attachment panel." left="12" top="252" width="579" height="18"/>
 </Dialog>
-<Dialog id="5823" text="Foxit PhantomPDF" left="0" top="0" width="538" height="180">
+<Dialog id="5823" text="Foxit PhantomPDF" left="0" top="0" width="538" height="179">
 <dlgitem id="7161" text="Substituir" left="186" top="112" width="75" height="26"/>
 <dlgitem id="7163" text="Ignorar" left="443" top="112" width="75" height="26"/>
 <dlgitem id="7134" text="Apply to all files." left="16" top="96" width="142" height="18"/>
@@ -1498,7 +1583,7 @@
 <dlgitem id="7135" text="Current file already has an attachment named “%s”\nWould you like to replace the file, or rename to &quot;%s&quot; and attached?" left="89" top="25" width="431" height="67"/>
 <dlgitem id="7155" text="Ícone" left="16" top="25" width="63" height="53"/>
 </Dialog>
-<Dialog id="5824" text="Abrir Anexo do Ficheiro" left="0" top="0" width="542" height="199">
+<Dialog id="5824" text="Abrir Anexo do Ficheiro" left="0" top="0" width="542" height="198">
 <dlgitem id="7142" text="This attachment may harm your computer. Open this file only if you are sure that it is safe. Would you like to :" left="12" top="12" width="499" height="35"/>
 <dlgitem id="7139" text="Open this file attachment" left="44" top="53" width="214" height="21"/>
 <dlgitem id="7140" text="Always allow opening file attachments of this type" left="44" top="79" width="338" height="21"/>
@@ -1506,7 +1591,7 @@
 <dlgitem id="7138" text="Aceitar" left="334" top="131" width="88" height="25"/>
 <dlgitem id="7137" text="Cancelar" left="436" top="131" width="88" height="25"/>
 </Dialog>
-<Dialog id="5825" text="Definições de Segurança" left="0" top="0" width="479" height="344">
+<Dialog id="5825" text="Definições de Segurança" left="0" top="0" width="479" height="343">
 <dlgitem id="7143" text="Adicionar...(&amp;A)" left="12" top="12" width="88" height="25"/>
 <dlgitem id="7148" text="Apagar(&amp;D)" left="109" top="12" width="88" height="25"/>
 <dlgitem id="7149" text="List2" left="12" top="46" width="450" height="158"/>
@@ -1516,7 +1601,7 @@
 <dlgitem id="7151" text="Always allow opening file attachments of this type.(&amp;l)" left="28" top="254" width="418" height="18"/>
 <dlgitem id="7152" text="Never allow opening file attachments of this type.(&amp;N)" left="28" top="278" width="418" height="18"/>
 </Dialog>
-<Dialog id="5826" text="Definições de Segurança" left="0" top="0" width="330" height="125">
+<Dialog id="5826" text="Definições de Segurança" left="0" top="0" width="330" height="124">
 <dlgitem id="7147" text="Extensão do ficheiro de entrada:" left="12" top="7" width="298" height="18"/>
 <dlgitem id="7145" text="" left="12" top="26" width="298" height="21"/>
 <dlgitem id="7146" text="Aceitar" left="124" top="60" width="88" height="25"/>
@@ -1611,6 +1696,8 @@
 <string id="5909" text="Apagar 'Ficheiro Anexo'"/>
 <string id="5910" text="Editar Descrição do 'Anexo'"/>
 <string id="5911" text="Move 'File Attachment'"/>
+<string id="5912" text="You have selected a file that cannot be exported from %s."/>
+<string id="5913" text="Foxit cannot open the file attachment because your current file format do not allow this file to be opened."/>
 </Strings>
 </FileAttachmentAnnot_Dll>
 <FindTool_Dll>
@@ -1626,7 +1713,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="6224" text="Output Options" left="0" top="0" width="372" height="442">
+<Dialog id="6224" text="Output Options" left="0" top="0" width="372" height="441">
 <dlgitem id="7788" text="Target Folder" left="14" top="12" width="340" height="147"/>
 <dlgitem id="7772" text="The Same Folder Selected At Start(&amp;S)" left="28" top="39" width="221" height="18"/>
 <dlgitem id="7770" text="A Folder On this Computer(&amp;F)" left="28" top="68" width="168" height="18"/>
@@ -1648,7 +1735,7 @@
 <dlgitem id="1" text="Aceitar" left="184" top="376" width="77" height="23"/>
 <dlgitem id="2" text="Cancelar" left="277" top="376" width="77" height="23"/>
 </Dialog>
-<Dialog id="6225" text="Propriedades " left="0" top="0" width="396" height="269">
+<Dialog id="6225" text="Propriedades " left="0" top="0" width="396" height="268">
 <dlgitem id="1" text="Aceitar" left="186" top="193" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="282" top="193" width="88" height="25"/>
 <dlgitem id="7741" text="Côr:(&amp;r)" left="21" top="60" width="103" height="23"/>
@@ -1660,7 +1747,6 @@
 <dlgitem id="7776" text="Appearance of search result:" left="21" top="23" width="165" height="14"/>
 </Dialog>
 <Dialog id="6226" left="0" top="0" width="277" height="495">
-<dlgitem id="7760" text="" left="9" top="28" width="259" height="21"/>
 <dlgitem id="7762" text="" left="9" top="91" width="259" height="21"/>
 <dlgitem id="7775" text="Palavras completas apenas(&amp;W)" left="9" top="123" width="186" height="18"/>
 <dlgitem id="7774" text="Case Sensitive(&amp;C)" left="9" top="145" width="161" height="18"/>
@@ -1669,6 +1755,7 @@
 <dlgitem id="7773" text="Substituir(&amp;R)" left="186" top="177" width="82" height="25"/>
 <dlgitem id="4294967295" text="Initial Text:" left="9" top="9" width="121" height="14"/>
 <dlgitem id="4294967295" text="Replace With:" left="9" top="63" width="81" height="14"/>
+<dlgitem id="7760" text="" left="9" top="28" width="259" height="21"/>
 </Dialog>
 <Dialog id="6227" left="0" top="0" width="238" height="698">
 <dlgitem id="7786" text="Onde pretende procurar?" left="9" top="12" width="221" height="14"/>
@@ -1677,9 +1764,9 @@
 <dlgitem id="7763" text="" left="9" top="145" width="221" height="21"/>
 <dlgitem id="7753" text="Patterns" left="9" top="175" width="95" height="21"/>
 <dlgitem id="7745" text="Busca" left="142" top="175" width="88" height="25"/>
-<dlgitem id="7755" text="" left="9" top="231" width="221" height="22"/>
-<dlgitem id="7754" text="" left="9" top="285" width="221" height="22"/>
-<dlgitem id="7777" text="País" left="9" top="263" width="221" height="21"/>
+<dlgitem id="7755" text="" left="9" top="264" width="221" height="22"/>
+<dlgitem id="7754" text="" left="9" top="319" width="221" height="22"/>
+<dlgitem id="7777" text="País" left="9" top="296" width="221" height="21"/>
 <dlgitem id="7787" text="em:" left="9" top="373" width="221" height="14"/>
 <dlgitem id="7778" text="Documentos:" left="9" top="392" width="221" height="14"/>
 <dlgitem id="7785" text="Procurar por:" left="9" top="418" width="221" height="14"/>
@@ -1692,6 +1779,7 @@
 <dlgitem id="7747" text="Marcar Todos" left="9" top="480" width="77" height="18"/>
 <dlgitem id="7756" text="" left="9" top="67" width="221" height="24"/>
 <dlgitem id="7750" text="Include Form Data" left="9" top="203" width="128" height="21"/>
+<dlgitem id="7790" text="Include Comments" left="9" top="231" width="128" height="21"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -2061,6 +2149,11 @@
 <menu id="636">
 <menuitem id="65535" text="Ficheiro(&amp;F)"/>
 </menu>
+<menu id="1329">
+<popup id="|0" text="About">
+<menuitem id="32818" text="Copy Version(&amp;C)"/>
+</popup>
+</menu>
 </Menus>
 <Dialogs>
 <Dialog id="533" left="0" top="0" width="529" height="357">
@@ -2072,9 +2165,10 @@
 <dlgitem id="458" text="Visit" left="25" top="298" width="25" height="14"/>
 <dlgitem id="358" text="Foxit Website" left="51" top="298" width="228" height="14"/>
 <dlgitem id="386" text="This product is Licensed to:" left="25" top="105" width="294" height="14"/>
-<dlgitem id="457" text="" left="25" top="84" width="264" height="14"/>
+<dlgitem id="457" text="" left="25" top="84" width="177" height="14"/>
+<dlgitem id="511" text="Alterar" left="369" top="58" width="75" height="14"/>
 </Dialog>
-<Dialog id="534" text="About Foxit Plug-Ins" left="0" top="0" width="725" height="496">
+<Dialog id="534" text="About Foxit Plug-Ins" left="0" top="0" width="725" height="495">
 <dlgitem id="1" text="Aceitar" left="600" top="422" width="88" height="25"/>
 <dlgitem id="232" text="" left="12" top="12" width="219" height="394"/>
 <dlgitem id="426" text="Nome do Arquivo:" left="259" top="28" width="67" height="14"/>
@@ -2094,7 +2188,7 @@
 <dlgitem id="192" text="" left="270" top="259" width="425" height="72"/>
 <dlgitem id="184" text="" left="254" top="359" width="453" height="54"/>
 </Dialog>
-<Dialog id="535" text="Personalizar " left="0" top="0" width="262" height="309">
+<Dialog id="535" text="Personalizar " left="0" top="0" width="262" height="308">
 <dlgitem id="335" text="Colors:(&amp;C)" left="4" top="7" width="84" height="16"/>
 <dlgitem id="18" text="Côr" left="4" top="25" width="208" height="140"/>
 <dlgitem id="27" text="Lum" left="219" top="25" width="32" height="140"/>
@@ -2117,7 +2211,7 @@
 <dlgitem id="15" text="0" left="161" top="243" width="37" height="23"/>
 <dlgitem id="45" text="Rotação1" left="196" top="243" width="18" height="23"/>
 </Dialog>
-<Dialog id="536" text="Colors" left="0" top="0" width="358" height="353">
+<Dialog id="536" text="Colors" left="0" top="0" width="358" height="352">
 <dlgitem id="46" text="Tab Placeholder" left="7" top="11" width="256" height="306"/>
 <dlgitem id="1" text="Aceitar" left="270" top="11" width="74" height="25"/>
 <dlgitem id="2" text="Cancelar" left="270" top="39" width="74" height="25"/>
@@ -2126,7 +2220,7 @@
 <dlgitem id="18" text="Côr" left="270" top="193" width="74" height="72"/>
 <dlgitem id="332" text="Actual" left="270" top="270" width="74" height="18"/>
 </Dialog>
-<Dialog id="537" text="Standard" left="0" top="0" width="262" height="306">
+<Dialog id="537" text="Standard" left="0" top="0" width="262" height="305">
 <dlgitem id="445" text="Colors:(&amp;C)" left="5" top="7" width="88" height="19"/>
 <dlgitem id="23" text="Hex" left="4" top="32" width="247" height="201"/>
 <dlgitem id="21" text="cinza" left="4" top="236" width="247" height="35"/>
@@ -2152,13 +2246,13 @@
 <dlgitem id="25" text="Personalizar...(&amp;t)" left="135" top="378" width="105" height="25"/>
 <dlgitem id="483" text="Customizations:" left="348" top="357" width="88" height="14"/>
 </Dialog>
-<Dialog id="539" text="Renomear" left="0" top="0" width="295" height="136">
+<Dialog id="539" text="Renomear" left="0" top="0" width="295" height="135">
 <dlgitem id="4294967295" text="Display Name:(&amp;D)" left="9" top="9" width="271" height="14"/>
 <dlgitem id="30" text="" left="9" top="33" width="271" height="25"/>
 <dlgitem id="1" text="Aceitar" left="98" top="72" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="193" top="72" width="88" height="25"/>
 </Dialog>
-<Dialog id="540" text="Renomear" left="0" top="0" width="312" height="353">
+<Dialog id="540" text="Renomear" left="0" top="0" width="312" height="352">
 <dlgitem id="4294967295" text="Simbolo:" left="9" top="9" width="46" height="14"/>
 <dlgitem id="24" text="Images" left="9" top="30" width="287" height="163"/>
 <dlgitem id="482" text="Display Name:(&amp;D)" left="9" top="203" width="81" height="14"/>
@@ -2167,7 +2261,7 @@
 <dlgitem id="2" text="Cancelar" left="208" top="291" width="88" height="25"/>
 <dlgitem id="284" text="Use Large Icon" left="9" top="266" width="287" height="18"/>
 </Dialog>
-<Dialog id="541" text="Ajuda da Linha de Comandos" left="0" top="0" width="675" height="386">
+<Dialog id="541" text="Ajuda da Linha de Comandos" left="0" top="0" width="675" height="385">
 <dlgitem id="1" text="Aceitar" left="553" top="331" width="88" height="25"/>
 <dlgitem id="289" text="Here are some command lines that can be used with %s using the following syntax:" left="14" top="16" width="637" height="30"/>
 <dlgitem id="298" text="&lt;%s Path&gt; [/register] | [PDF Path] [/pwd]  [/A [...] [...] ...] | [/pwd] [/p | /t &lt;PDFPath&gt; [Printer]]" left="18" top="44" width="634" height="33"/>
@@ -2186,7 +2280,7 @@
 <dlgitem id="296" text="/url &lt;Network Station&gt;" left="28" top="273" width="292" height="33"/>
 <dlgitem id="297" text="Open a network station with a command to specify exactly what to display" left="341" top="273" width="310" height="42"/>
 </Dialog>
-<Dialog id="542" text="Report Details" left="0" top="0" width="466" height="402">
+<Dialog id="542" text="Report Details" left="0" top="0" width="466" height="401">
 <dlgitem id="1" text="Aceitar" left="361" top="336" width="88" height="25"/>
 <dlgitem id="328" text="A crash report has been generated for you,containing the files listed below. The report contains detailed information about the state of the application at the time that it crashed, as well as the information you provided us." left="12" top="14" width="436" height="56"/>
 <dlgitem id="329" text="In addition, we may have requested that additional files be sent in order to get more detailed information about the crash." left="12" top="75" width="436" height="39"/>
@@ -2195,12 +2289,12 @@
 <dlgitem id="222" text="" left="12" top="200" width="436" height="124"/>
 <dlgitem id="0" text="" left="0" top="0" width="432" height="24"/>
 </Dialog>
-<Dialog id="543" text="Sending error report" left="0" top="0" width="375" height="187">
+<Dialog id="543" text="Sending error report" left="0" top="0" width="375" height="186">
 <dlgitem id="2" text="Cancelar" left="270" top="121" width="88" height="25"/>
 <dlgitem id="282" text="" left="14" top="89" width="345" height="16"/>
 <dlgitem id="465" text="Estático" left="12" top="35" width="264" height="21"/>
 </Dialog>
-<Dialog id="544" text="Personalizar Ferramentas" left="0" top="0" width="704" height="535">
+<Dialog id="544" text="Personalizar Ferramentas" left="0" top="0" width="704" height="534">
 <dlgitem id="1" text="Aceitar(&amp;O)" left="502" top="466" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="599" top="466" width="88" height="25"/>
 <dlgitem id="478" text="Separador1" left="12" top="12" width="674" height="438"/>
@@ -2219,19 +2313,19 @@
 <dlgitem id="382" text="Comandos:" left="131" top="12" width="541" height="14"/>
 <dlgitem id="322" text="" left="163" top="292" width="376" height="16"/>
 </Dialog>
-<Dialog id="546" text="Custom Properties" left="0" top="0" width="636" height="435">
+<Dialog id="546" text="Custom Properties" left="0" top="0" width="636" height="434">
 <dlgitem id="1" text="Aceitar(&amp;O)" left="527" top="372" width="75" height="23"/>
 <dlgitem id="227" text="" left="30" top="41" width="572" height="280"/>
 <dlgitem id="0" text="" left="0" top="0" width="568" height="24"/>
 </Dialog>
-<Dialog id="549" text="Batch Print" left="0" top="0" width="529" height="164">
+<Dialog id="549" text="Batch Print" left="0" top="0" width="529" height="163">
 <dlgitem id="315" text="" left="56" top="19" width="455" height="26"/>
 <dlgitem id="99" text="" left="60" top="47" width="439" height="18"/>
 <dlgitem id="97" text="" left="60" top="72" width="439" height="18"/>
 <dlgitem id="488" text="Sim" left="331" top="98" width="88" height="25"/>
 <dlgitem id="487" text="Não" left="425" top="98" width="88" height="25"/>
 </Dialog>
-<Dialog id="550" text="Relatório de erro" left="0" top="0" width="454" height="561">
+<Dialog id="550" text="Relatório de erro" left="0" top="0" width="454" height="560">
 <dlgitem id="185" text="" left="14" top="219" width="424" height="98"/>
 <dlgitem id="205" text="" left="14" top="364" width="424" height="23"/>
 <dlgitem id="1" text="Send" left="348" top="501" width="91" height="25"/>
@@ -2246,10 +2340,10 @@
 <dlgitem id="235" text="View report details(&amp;V)" left="12" top="478" width="137" height="19"/>
 <dlgitem id="370" text="If you would like us to contact you about this crash report, please enter your email address here:" left="12" top="326" width="427" height="32"/>
 </Dialog>
-<Dialog id="551" text="Abertura de Ficheiros" left="0" top="0" width="508" height="271">
+<Dialog id="551" text="Abertura de Ficheiros" left="0" top="0" width="508" height="270">
 <dlgitem id="1" text="Abrir (&amp;O)" left="298" top="210" width="88" height="25"/>
 <dlgitem id="2" text="Não Abrir(&amp;D)" left="401" top="210" width="88" height="25"/>
-<dlgitem id="368" text="" left="12" top="30" width="35" height="35"/>
+<dlgitem id="368" text="" left="12" top="30" width="32" height="32"/>
 <dlgitem id="287" text="This file and its viewer application are set to be launched by the PDF file. The file may contain programs, macros, or viruses that could potentially cause damage to your computer." left="68" top="18" width="417" height="46"/>
 <dlgitem id="182" text="" left="68" top="110" width="417" height="44"/>
 <dlgitem id="286" text="Ficheiro:" left="12" top="114" width="46" height="21"/>
@@ -2257,7 +2351,7 @@
 <dlgitem id="88" text="Não mostrar essa mensagem novamente(&amp;n)" left="9" top="210" width="252" height="21"/>
 <dlgitem id="288" text="Only open the file when you are sure it is safe. If the file was placed by a trusted person or program, you can click Open to view the file." left="68" top="67" width="417" height="39"/>
 </Dialog>
-<Dialog id="552" text="Online Tutorial" left="0" top="0" width="928" height="472">
+<Dialog id="552" text="Online Tutorial" left="0" top="0" width="928" height="471">
 <dlgitem id="1" text="Fechar" left="761" top="411" width="140" height="25"/>
 <dlgitem id="131" text="Do not show at startup" left="44" top="413" width="284" height="21"/>
 </Dialog>
@@ -2274,7 +2368,7 @@
 <dlgitem id="57" text="Limpar" left="7" top="9" width="44" height="21"/>
 <dlgitem id="56" text="" left="187" top="0" width="47" height="46"/>
 </Dialog>
-<Dialog id="556" text="Conteúdo Multimédia" left="0" top="0" width="620" height="222">
+<Dialog id="556" text="Conteúdo Multimédia" left="0" top="0" width="620" height="221">
 <dlgitem id="1" text="Seinn" left="413" top="156" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="515" top="156" width="88" height="25"/>
 <dlgitem id="239" text="Multimedia contents have been opened.  Please decide whether to play content now and set the option for what to do when you open this document in the future." left="12" top="25" width="590" height="42"/>
@@ -2282,9 +2376,9 @@
 <dlgitem id="237" text="Play the multimedia content and add this document to my  list of trusted documents" left="12" top="96" width="513" height="18"/>
 <dlgitem id="236" text="Usar definições actuais como padrão" left="12" top="158" width="394" height="18"/>
 </Dialog>
-<Dialog id="557" text="Foxit PhantomPDF" left="0" top="0" width="447" height="180">
+<Dialog id="557" text="Foxit PhantomPDF" left="0" top="0" width="447" height="179">
 <dlgitem id="1" text="Aceitar" left="341" top="114" width="88" height="25"/>
-<dlgitem id="65535" text="" left="18" top="25" width="35" height="35"/>
+<dlgitem id="65535" text="" left="18" top="25" width="32" height="32"/>
 <dlgitem id="370" text="" left="61" top="16" width="354" height="67"/>
 <dlgitem id="389" text="http://www.foxitsoftware.com/shopping/" left="61" top="84" width="354" height="19"/>
 </Dialog>
@@ -2302,21 +2396,22 @@
 <dlgitem id="279" text="Show Quick Access Toolbar Below the Ribbon(&amp;h)" left="7" top="378" width="242" height="35"/>
 <dlgitem id="4294967295" text="Quick Access Toolbar:" left="340" top="65" width="242" height="14"/>
 </Dialog>
-<Dialog id="559" text="Launch" left="0" top="0" width="507" height="148">
+<Dialog id="559" text="Launch" left="0" top="0" width="507" height="147">
 <dlgitem id="1" text="Aceitar" left="401" top="82" width="88" height="25"/>
-<dlgitem id="65535" text="" left="16" top="12" width="35" height="35"/>
+<dlgitem id="65535" text="" left="16" top="12" width="32" height="32"/>
 <dlgitem id="287" text="" left="65" top="14" width="420" height="49"/>
 <dlgitem id="88" text="Não mostrar essa mensagem novamente(&amp;n)" left="19" top="84" width="362" height="16"/>
 </Dialog>
-<Dialog id="560" left="0" top="0" width="501" height="229">
-<dlgitem id="1" text="Aceitar" left="394" top="168" width="88" height="25"/>
+<Dialog id="560" left="0" top="0" width="606" height="193">
+<dlgitem id="1" text="Aceitar" left="396" top="130" width="88" height="25"/>
 <dlgitem id="368" text="" left="21" top="21" width="32" height="32"/>
-<dlgitem id="405" text="This file is set to be launched by this PDF program but the operation is not allowed because you are currently in Safe Reading Mode." left="74" top="21" width="404" height="33"/>
-<dlgitem id="182" text="" left="74" top="86" width="401" height="46"/>
-<dlgitem id="354" text="Ficheiro:" left="74" top="63" width="46" height="19"/>
-<dlgitem id="106" text="Disable Safe Reading Mode and Open file" left="74" top="144" width="397" height="18"/>
+<dlgitem id="405" text="This file is set to be launched by this PDF program but the operation is not allowed because you are currently in Safe Reading Mode." left="74" top="21" width="513" height="33"/>
+<dlgitem id="106" text="Disable Safe Reading Mode and Open file" left="74" top="63" width="483" height="18"/>
+<dlgitem id="107" text="Add current file to privileged locations" left="74" top="93" width="231" height="18"/>
+<dlgitem id="2" text="Cancelar" left="499" top="130" width="88" height="25"/>
+<dlgitem id="4294967295" text="" left="306" top="93" width="32" height="32"/>
 </Dialog>
-<Dialog id="561" text="Trusted Documents Setting" left="0" top="0" width="526" height="250">
+<Dialog id="561" text="Trusted Documents Setting" left="0" top="0" width="526" height="249">
 <dlgitem id="1" text="Aceitar" left="326" top="187" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="422" top="187" width="88" height="25"/>
 <dlgitem id="441" text="Trusted Documents Setting" left="11" top="14" width="497" height="161"/>
@@ -2324,7 +2419,7 @@
 <dlgitem id="139" text="Encriptação RMS" left="30" top="100" width="464" height="25"/>
 <dlgitem id="146" text="Digital Signature Verification" left="30" top="133" width="464" height="25"/>
 </Dialog>
-<Dialog id="562" text="Bem-vindo" left="0" top="0" width="599" height="384">
+<Dialog id="562" text="Bem-vindo" left="0" top="0" width="599" height="383">
 <dlgitem id="388" text="" left="11" top="310" width="574" height="2"/>
 <dlgitem id="345" text="" left="0" top="88" width="585" height="217"/>
 <dlgitem id="491" text="Aceitar" left="390" top="319" width="88" height="25"/>
@@ -2335,22 +2430,22 @@
 <dlgitem id="313" text="Estático" left="392" top="51" width="33" height="14"/>
 </Dialog>
 <Dialog id="563" left="0" top="0" width="843" height="522"/>
-<Dialog id="564" text="Add Privileged Host" left="0" top="0" width="409" height="176">
+<Dialog id="564" text="Add Privileged Host" left="0" top="0" width="409" height="175">
 <dlgitem id="1" text="Aceitar" left="208" top="112" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="303" top="112" width="88" height="25"/>
 <dlgitem id="367" text="Enter a host name (example: www.example.com)" left="26" top="18" width="354" height="23"/>
 <dlgitem id="191" text="" left="26" top="46" width="334" height="23"/>
 <dlgitem id="133" text="Secure connections only (https:)" left="26" top="77" width="334" height="18"/>
 </Dialog>
-<Dialog id="565" text="Foxit Reader" left="0" top="0" width="382" height="159">
+<Dialog id="565" text="Foxit Reader" left="0" top="0" width="382" height="158">
 <dlgitem id="1" text="fechar todos os separadores(&amp;l)" left="130" top="63" width="112" height="25"/>
 <dlgitem id="8" text="Fechar guia atual(&amp;u)" left="252" top="63" width="112" height="25"/>
-<dlgitem id="4294967295" text="" left="18" top="21" width="35" height="35"/>
+<dlgitem id="4294967295" text="" left="18" top="21" width="32" height="32"/>
 <dlgitem id="320" text="Do you want to close all tabs or the current tab?" left="70" top="28" width="271" height="26"/>
 <dlgitem id="93" text="Always close all tabs(&amp;A)" left="18" top="103" width="182" height="23"/>
 <dlgitem id="319" text="" left="5" top="98" width="367" height="2"/>
 </Dialog>
-<Dialog id="566" text="Organize Favorites" left="0" top="0" width="497" height="568">
+<Dialog id="566" text="Organize Favorites" left="0" top="0" width="497" height="567">
 <dlgitem id="210" text="Apagar" left="12" top="12" width="84" height="26"/>
 <dlgitem id="209" text="Fechar" left="380" top="481" width="88" height="30"/>
 <dlgitem id="211" text="" left="14" top="46" width="453" height="425"/>
@@ -2379,7 +2474,7 @@
 <Dialog id="569" left="0" top="0" width="740" height="35">
 <dlgitem id="82" text="Configuração...(&amp;e)" left="459" top="0" width="88" height="21"/>
 </Dialog>
-<Dialog id="570" text="Ir para" left="0" top="0" width="361" height="150">
+<Dialog id="570" text="Ir para" left="0" top="0" width="361" height="149">
 <dlgitem id="415" text="Página:(&amp;P)" left="61" top="42" width="56" height="14"/>
 <dlgitem id="363" text="" left="124" top="37" width="77" height="25"/>
 <dlgitem id="407" text="de" left="210" top="40" width="14" height="14"/>
@@ -2402,23 +2497,24 @@
 <dlgitem id="468" text="Call: %s" left="117" top="168" width="334" height="21"/>
 <dlgitem id="470" text="If you don't have a license, please register below to receive free support." left="30" top="207" width="425" height="40"/>
 </Dialog>
-<Dialog id="573" text="Dialogo" left="0" top="0" width="456" height="145">
+<Dialog id="573" text="Dialogo" left="0" top="0" width="456" height="144">
 <dlgitem id="216" text="" left="16" top="44" width="79" height="18"/>
 <dlgitem id="490" text="Aceitar(&amp;O)" left="261" top="82" width="84" height="21"/>
 <dlgitem id="489" text="Cancelar(&amp;C)" left="352" top="82" width="84" height="21"/>
 <dlgitem id="217" text="" left="16" top="12" width="418" height="18"/>
 </Dialog>
-<Dialog id="574" text="License Information" left="0" top="0" width="487" height="264">
-<dlgitem id="1" text="Aceitar" left="361" top="198" width="93" height="25"/>
+<Dialog id="574" text="License Information" left="0" top="0" width="487" height="263">
+<dlgitem id="1" text="Aceitar" left="375" top="198" width="93" height="25"/>
 <dlgitem id="206" text="" left="21" top="12" width="441" height="173"/>
+<dlgitem id="497" text="Copy All Info" left="270" top="198" width="93" height="25"/>
 </Dialog>
-<Dialog id="575" text="Dialogo" left="0" top="0" width="599" height="152">
+<Dialog id="575" text="Dialogo" left="0" top="0" width="599" height="151">
 <dlgitem id="1" text="Aceitar" left="494" top="86" width="88" height="25"/>
 <dlgitem id="368" text="I" left="19" top="32" width="37" height="35"/>
 <dlgitem id="289" text="Failed to call SendCrashReport.exe, please click this link to contact our customer service:" left="70" top="39" width="508" height="19"/>
 <dlgitem id="389" text="Online support." left="70" top="68" width="91" height="19"/>
 </Dialog>
-<Dialog id="576" text="Foxit Reader" left="0" top="0" width="564" height="314">
+<Dialog id="576" text="Foxit Reader" left="0" top="0" width="564" height="313">
 <dlgitem id="1" text="Gravar Agora" left="166" top="252" width="88" height="25"/>
 <dlgitem id="2" text="Ignorar" left="446" top="250" width="88" height="25"/>
 <dlgitem id="242" text="The plug-in you are using is trying to access a restricted interface which is implemented in Reader plug-in SDK host function table(HFT)." left="100" top="26" width="446" height="33"/>
@@ -2427,18 +2523,18 @@
 <dlgitem id="277" text="" left="26" top="180" width="506" height="47"/>
 <dlgitem id="243" text="Clique no botão &quot;Gravar Agora&quot; para guardar as alterações no presente documento, ou &quot;Ignorar&quot; para não gravar." left="30" top="70" width="509" height="37"/>
 <dlgitem id="244" text="Some functions of %s such as &quot;Save&quot;, &quot;Save as&quot;, &quot;Print&quot; and &quot;Rendering&quot; interfaces of  Plug-in SDK will be disabled." left="30" top="110" width="509" height="37"/>
-<dlgitem id="4294967295" text="" left="33" top="23" width="35" height="35"/>
+<dlgitem id="4294967295" text="" left="33" top="23" width="32" height="32"/>
 <dlgitem id="81" text="Gravar Agora" left="320" top="250" width="88" height="25"/>
 </Dialog>
-<Dialog id="577" text="Senha" left="0" top="0" width="466" height="164">
+<Dialog id="577" text="Senha" left="0" top="0" width="466" height="163">
 <dlgitem id="353" text="Entre com a senha:" left="77" top="68" width="98" height="14"/>
 <dlgitem id="247" text="" left="180" top="63" width="207" height="25"/>
 <dlgitem id="1" text="Aceitar" left="266" top="98" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="361" top="98" width="88" height="25"/>
 <dlgitem id="422" text="This file &quot;xxxxxxxxxxxxx.pdf&quot; is password protected. Please enter a password to open this document." left="67" top="18" width="357" height="39"/>
-<dlgitem id="4294967295" text="" left="19" top="18" width="35" height="35"/>
+<dlgitem id="4294967295" text="" left="19" top="18" width="32" height="32"/>
 </Dialog>
-<Dialog id="578" text="Preferencias" left="0" top="0" width="774" height="510">
+<Dialog id="578" text="Preferencias" left="0" top="0" width="774" height="509">
 <dlgitem id="1" text="Aceitar" left="576" top="450" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="669" top="450" width="88" height="25"/>
 <dlgitem id="228" text="" left="12" top="12" width="159" height="429"/>
@@ -2463,7 +2559,7 @@
 <dlgitem id="195" text="" left="158" top="35" width="56" height="21"/>
 <dlgitem id="283" text="Slider 1" left="247" top="32" width="210" height="26"/>
 </Dialog>
-<Dialog id="582" left="0" top="0" width="539" height="436">
+<Dialog id="582" left="0" top="0" width="539" height="453">
 <dlgitem id="385" text="Open Settings" left="0" top="0" width="536" height="137"/>
 <dlgitem id="129" text="Permitir multiplas instâncias(&amp;A)" left="16" top="16" width="481" height="16"/>
 <dlgitem id="94" text="Alert user when documents request Full Screen(&amp;F)" left="16" top="39" width="481" height="18"/>
@@ -2482,10 +2578,11 @@
 <dlgitem id="414" text="View document in PDF/A mode:" left="16" top="326" width="285" height="21"/>
 <dlgitem id="171" text="" left="312" top="322" width="177" height="22"/>
 <dlgitem id="114" text="Automatically save document as E-mail attachment(&amp;e)" left="16" top="191" width="480" height="16"/>
-<dlgitem id="437" text="Save Setting" left="0" top="359" width="536" height="61"/>
-<dlgitem id="96" text="Automatically save file every(&amp;t)" left="16" top="387" width="180" height="18"/>
+<dlgitem id="437" text="Save Setting" left="0" top="359" width="536" height="75"/>
+<dlgitem id="96" text="Automatically save file every(&amp;t)" left="16" top="383" width="180" height="18"/>
 <dlgitem id="183" text="" left="201" top="383" width="75" height="26"/>
 <dlgitem id="397" text="minutos" left="289" top="389" width="63" height="18"/>
+<dlgitem id="97" text="Save as optimizes for fast web view(&amp;v)" left="16" top="411" width="481" height="18"/>
 </Dialog>
 <Dialog id="583" left="0" top="0" width="539" height="345">
 <dlgitem id="355" text="File Association" left="0" top="0" width="536" height="261"/>
@@ -2496,7 +2593,7 @@
 <dlgitem id="54" text="Avançado..." left="336" top="46" width="88" height="25"/>
 <dlgitem id="147" text="Sempre verificar ao iniciar Foxit Reader(&amp;A)" left="25" top="289" width="480" height="18"/>
 </Dialog>
-<Dialog id="584" text="Avançado..." left="0" top="0" width="543" height="346">
+<Dialog id="584" text="Avançado..." left="0" top="0" width="543" height="345">
 <dlgitem id="1" text="Aceitar" left="306" top="280" width="88" height="26"/>
 <dlgitem id="2" text="Cancelar" left="424" top="280" width="88" height="26"/>
 <dlgitem id="109" text="Include browser when setting default PDF viewer(&amp;b)" left="28" top="46" width="399" height="19"/>
@@ -2661,7 +2758,7 @@
 <dlgitem id="49" text="Remover" left="432" top="329" width="77" height="25"/>
 <dlgitem id="372" text="Privileged Locations allows you to work security while granting trust to items in your workflow." left="14" top="70" width="508" height="30"/>
 </Dialog>
-<Dialog id="595" left="0" top="0" width="550" height="382">
+<Dialog id="595" left="0" top="0" width="550" height="541">
 <dlgitem id="455" text="Gerenciador Confiança" left="0" top="74" width="536" height="175"/>
 <dlgitem id="344" text="" left="12" top="93" width="490" height="58"/>
 <dlgitem id="140" text="Activar Modo de Leitura em Segurança(&amp;S)" left="12" top="154" width="490" height="19"/>
@@ -2672,15 +2769,18 @@
 <dlgitem id="124" text="Activar Ações JavaScript(&amp;E)" left="12" top="25" width="487" height="19"/>
 <dlgitem id="107" text="Disable Safe Reading Mode for Trusted Documents(&amp;D)" left="30" top="182" width="483" height="19"/>
 <dlgitem id="53" text="Advanced Preferences...(&amp;A)" left="313" top="208" width="180" height="25"/>
+<dlgitem id="473" text="Open %s from applications without valid digital signatures" left="4" top="369" width="536" height="145"/>
+<dlgitem id="68" text="Mudar Definições...(&amp;h)" left="317" top="478" width="180" height="25"/>
+<dlgitem id="505" text="%s will show a warning message when an application without a vaild digital signature attempts to open it. \n \nYou can add trusted applications using the button below." left="23" top="399" width="488" height="67"/>
 </Dialog>
-<Dialog id="596" text="Foxit Reader" left="0" top="0" width="571" height="174">
+<Dialog id="596" text="Foxit Reader" left="0" top="0" width="571" height="173">
 <dlgitem id="278" text="Restart now" left="366" top="107" width="88" height="25"/>
 <dlgitem id="1" text="Restart Later" left="462" top="107" width="88" height="25"/>
 <dlgitem id="471" text="You have changed the display language of %s. Please restart %s to apply this change." left="75" top="26" width="474" height="51"/>
-<dlgitem id="4294967295" text="" left="19" top="19" width="35" height="35"/>
+<dlgitem id="4294967295" text="" left="19" top="19" width="32" height="32"/>
 </Dialog>
-<Dialog id="597" text="Foxit Reader" left="0" top="0" width="473" height="173">
-<dlgitem id="4294967295" text="" left="12" top="12" width="35" height="35"/>
+<Dialog id="597" text="Foxit Reader" left="0" top="0" width="473" height="172">
+<dlgitem id="4294967295" text="" left="12" top="12" width="32" height="32"/>
 <dlgitem id="148" text="Always perform this check when starting %s" left="19" top="77" width="429" height="18"/>
 <dlgitem id="1" text="Sim(&amp;Y)" left="257" top="107" width="88" height="25"/>
 <dlgitem id="2" text="Não(&amp;N)" left="357" top="107" width="88" height="25"/>
@@ -2690,7 +2790,7 @@
 <dlgitem id="272" text="Recent Documents" left="30" top="70" width="313" height="32"/>
 <dlgitem id="273" text="" left="30" top="112" width="313" height="373"/>
 </Dialog>
-<Dialog id="599" text="Progresso" left="0" top="0" width="473" height="134">
+<Dialog id="599" text="Progresso" left="0" top="0" width="473" height="133">
 <dlgitem id="2" text="Cancelar" left="368" top="35" width="88" height="25"/>
 <dlgitem id="275" text="" left="12" top="39" width="347" height="18"/>
 <dlgitem id="413" text="Remover..." left="18" top="70" width="324" height="14"/>
@@ -2708,36 +2808,38 @@
 <dlgitem id="333" text="Current Folder" left="30" top="109" width="313" height="19"/>
 </Dialog>
 <Dialog id="602" left="0" top="0" width="515" height="382"/>
-<Dialog id="603" left="0" top="0" width="639" height="583">
+<Dialog id="603" left="0" top="0" width="639" height="606">
 <dlgitem id="212" text="" left="166" top="163" width="439" height="25"/>
-<dlgitem id="177" text="Estático" left="166" top="504" width="439" height="14"/>
-<dlgitem id="240" text="Estático" left="166" top="480" width="439" height="14"/>
-<dlgitem id="406" text="Páginas" left="30" top="231" width="112" height="14"/>
+<dlgitem id="177" text="Estático" left="166" top="532" width="439" height="14"/>
+<dlgitem id="240" text="Estático" left="166" top="508" width="439" height="14"/>
+<dlgitem id="406" text="Páginas" left="30" top="254" width="112" height="14"/>
 <dlgitem id="457" text="Versão do PDF" left="30" top="186" width="84" height="14"/>
-<dlgitem id="241" text="Show More Description" left="23" top="530" width="138" height="26"/>
-<dlgitem id="419" text="Tamanho da Página" left="30" top="208" width="84" height="14"/>
-<dlgitem id="454" text="Título" left="30" top="254" width="70" height="14"/>
-<dlgitem id="447" text="Assunto" left="30" top="277" width="70" height="14"/>
-<dlgitem id="310" text="Autor" left="30" top="299" width="70" height="14"/>
-<dlgitem id="383" text="Palavra-Chave" left="30" top="368" width="70" height="14"/>
-<dlgitem id="331" text="Criador" left="30" top="322" width="70" height="14"/>
-<dlgitem id="428" text="Produtor" left="30" top="345" width="70" height="14"/>
-<dlgitem id="330" text="Criado" left="30" top="504" width="70" height="14"/>
-<dlgitem id="398" text="Last Modified" left="30" top="480" width="96" height="14"/>
-<dlgitem id="479" text="" left="166" top="254" width="439" height="25"/>
-<dlgitem id="477" text="" left="166" top="277" width="439" height="25"/>
-<dlgitem id="13" text="" left="166" top="299" width="439" height="25"/>
-<dlgitem id="178" text="" left="166" top="322" width="439" height="25"/>
-<dlgitem id="255" text="" left="166" top="345" width="439" height="25"/>
-<dlgitem id="218" text="" left="166" top="368" width="443" height="32"/>
+<dlgitem id="241" text="Show More Description" left="28" top="558" width="138" height="26"/>
+<dlgitem id="419" text="Tamanho da Página" left="30" top="231" width="84" height="14"/>
+<dlgitem id="454" text="Título" left="30" top="277" width="70" height="14"/>
+<dlgitem id="447" text="Assunto" left="30" top="299" width="70" height="14"/>
+<dlgitem id="310" text="Autor" left="30" top="322" width="70" height="14"/>
+<dlgitem id="383" text="Palavra-Chave" left="30" top="390" width="70" height="14"/>
+<dlgitem id="331" text="Criador" left="30" top="345" width="70" height="14"/>
+<dlgitem id="428" text="Produtor" left="30" top="368" width="70" height="14"/>
+<dlgitem id="330" text="Criado" left="30" top="532" width="70" height="14"/>
+<dlgitem id="398" text="Last Modified" left="30" top="508" width="96" height="14"/>
+<dlgitem id="479" text="" left="166" top="277" width="439" height="25"/>
+<dlgitem id="477" text="" left="166" top="299" width="439" height="25"/>
+<dlgitem id="13" text="" left="166" top="322" width="439" height="25"/>
+<dlgitem id="178" text="" left="166" top="345" width="439" height="25"/>
+<dlgitem id="255" text="" left="166" top="368" width="439" height="25"/>
+<dlgitem id="218" text="" left="166" top="390" width="443" height="32"/>
 <dlgitem id="248" text="Estático" left="166" top="186" width="439" height="14"/>
-<dlgitem id="246" text="Estático" left="166" top="208" width="439" height="14"/>
-<dlgitem id="245" text="Estático" left="166" top="231" width="439" height="14"/>
+<dlgitem id="246" text="Estático" left="166" top="231" width="439" height="14"/>
+<dlgitem id="245" text="Estático" left="166" top="254" width="439" height="14"/>
 <dlgitem id="354" text="Ficheiro" left="30" top="163" width="70" height="14"/>
-<dlgitem id="432" text="Related Dates" left="30" top="434" width="105" height="37"/>
+<dlgitem id="432" text="Related Dates" left="30" top="462" width="105" height="37"/>
 <dlgitem id="361" text="Geral" left="30" top="123" width="152" height="33"/>
 <dlgitem id="464" text="Descrição" left="30" top="72" width="140" height="39"/>
-<dlgitem id="58" text="Personalizar " left="7" top="403" width="88" height="25"/>
+<dlgitem id="58" text="Personalizar " left="28" top="431" width="88" height="25"/>
+<dlgitem id="429" text="Fast Web View" left="30" top="208" width="126" height="14"/>
+<dlgitem id="247" text="Não" left="166" top="208" width="439" height="14"/>
 </Dialog>
 <Dialog id="604" left="0" top="0" width="677" height="632">
 <dlgitem id="480" text="Arvore 1" left="28" top="107" width="495" height="424"/>
@@ -2749,7 +2851,7 @@
 <dlgitem id="71" text="Botão1" left="35" top="89" width="348" height="236"/>
 <dlgitem id="475" text="Estático" left="35" top="33" width="348" height="30"/>
 </Dialog>
-<Dialog id="606" text="Aviso de Segurança" left="0" top="0" width="559" height="220">
+<Dialog id="606" text="Aviso de Segurança" left="0" top="0" width="559" height="219">
 <dlgitem id="1" text="Autorizar" left="261" top="154" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="453" top="154" width="88" height="25"/>
 <dlgitem id="47" text="Block" left="357" top="154" width="88" height="25"/>
@@ -2757,18 +2859,18 @@
 <dlgitem id="473" text="Estático" left="98" top="47" width="429" height="19"/>
 <dlgitem id="474" text="If you do not trust the site, choose Block." left="98" top="75" width="441" height="30"/>
 <dlgitem id="89" text="Remember this action for this site for all PDF documents." left="33" top="112" width="485" height="18"/>
-<dlgitem id="368" text="" left="18" top="19" width="35" height="35"/>
+<dlgitem id="368" text="" left="18" top="19" width="32" height="32"/>
 </Dialog>
-<Dialog id="607" text="Aviso de Segurança" left="0" top="0" width="529" height="244">
+<Dialog id="607" text="Aviso de Segurança" left="0" top="0" width="529" height="243">
 <dlgitem id="1" text="Aceitar" left="329" top="180" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="425" top="180" width="88" height="25"/>
 <dlgitem id="89" text="Remember your choice for this application." left="74" top="154" width="422" height="18"/>
 <dlgitem id="459" text="Foxit PhantomPDF has been opened by the following app without a valid signature. This may indicate a security issue. If you know what's going on and would like to continue, click &quot;OK&quot;. If you're not sure, click &quot;Cancel&quot;." left="74" top="21" width="418" height="51"/>
 <dlgitem id="204" text="" left="74" top="96" width="422" height="46"/>
 <dlgitem id="460" text="App:" left="74" top="74" width="46" height="19"/>
-<dlgitem id="368" text="" left="21" top="21" width="35" height="35"/>
+<dlgitem id="368" text="" left="21" top="21" width="32" height="32"/>
 </Dialog>
-<Dialog id="608" text="Manage Sites" left="0" top="0" width="535" height="670">
+<Dialog id="608" text="Manage Sites" left="0" top="0" width="535" height="669">
 <dlgitem id="271" text="Custom setting(&amp;m)" left="11" top="37" width="110" height="18"/>
 <dlgitem id="270" text="Allow PDF files to access all web sites(&amp;w)" left="11" top="63" width="231" height="18"/>
 <dlgitem id="269" text="Block PDF files' access to all web sites(&amp;k)" left="11" top="89" width="233" height="18"/>
@@ -2789,11 +2891,41 @@
 <dlgitem id="306" text="Specify Web Sites to Allow or Block" left="11" top="119" width="506" height="121"/>
 <dlgitem id="399" text="Web Sites" left="11" top="247" width="506" height="341"/>
 </Dialog>
-<Dialog id="609" text="Ajustar Zoom para" left="0" top="0" width="326" height="148">
+<Dialog id="609" text="Ajustar Zoom para" left="0" top="0" width="326" height="147">
 <dlgitem id="393" text="Zoom:(&amp;M)" left="33" top="33" width="82" height="14"/>
 <dlgitem id="462" text="" left="119" top="33" width="151" height="22"/>
 <dlgitem id="1" text="Aceitar" left="126" top="82" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="221" top="82" width="88" height="25"/>
+</Dialog>
+<Dialog id="610" text="Trusted Apps..." left="0" top="0" width="536" height="508">
+<dlgitem id="504" text="Allowed Apps (C:Program FilesExampleexample.exe):" left="21" top="65" width="466" height="19"/>
+<dlgitem id="498" text="" left="21" top="95" width="481" height="23"/>
+<dlgitem id="499" text="Autorizar(&amp;A)" left="413" top="124" width="88" height="25"/>
+<dlgitem id="60" text="Apagar(&amp;D)" left="21" top="194" width="88" height="25"/>
+<dlgitem id="500" text="Lista 1" left="21" top="231" width="481" height="170"/>
+<dlgitem id="0" text="" left="0" top="0" width="477" height="24"/>
+<dlgitem id="1" text="Aceitar" left="334" top="443" width="88" height="25"/>
+<dlgitem id="2" text="Cancelar" left="431" top="443" width="88" height="25"/>
+<dlgitem id="502" text="Applications in the list below will not show warning messages when they open %s" left="11" top="12" width="508" height="21"/>
+<dlgitem id="503" text="Specify Apps Allow" left="11" top="39" width="508" height="121"/>
+<dlgitem id="501" text="Apps" left="11" top="168" width="508" height="257"/>
+</Dialog>
+<Dialog id="1330" text="Guardar Como" left="0" top="0" width="578" height="418">
+<dlgitem id="1" text="Aceitar" left="359" top="354" width="88" height="25"/>
+<dlgitem id="2" text="Cancelar" left="473" top="354" width="88" height="25"/>
+<dlgitem id="1341" text="Output Folder" left="40" top="32" width="490" height="96"/>
+<dlgitem id="1342" text="File Naming" left="40" top="140" width="490" height="193"/>
+<dlgitem id="1331" text="Same as source" left="61" top="58" width="252" height="18"/>
+<dlgitem id="1332" text="em" left="61" top="89" width="39" height="18"/>
+<dlgitem id="1340" text="" left="107" top="86" width="313" height="26"/>
+<dlgitem id="1343" text="Procurar" left="427" top="86" width="88" height="25"/>
+<dlgitem id="1333" text="Keep Original File Names" left="58" top="165" width="156" height="18"/>
+<dlgitem id="1334" text="Etiqueta:" left="58" top="200" width="65" height="18"/>
+<dlgitem id="1335" text="New file name:" left="58" top="287" width="110" height="18"/>
+<dlgitem id="1336" text="" left="175" top="285" width="210" height="26"/>
+<dlgitem id="1337" text="" left="123" top="198" width="119" height="23"/>
+<dlgitem id="512" text="Add label before the original file name" left="88" top="228" width="235" height="18"/>
+<dlgitem id="513" text="Add label after the original file name" left="88" top="259" width="235" height="18"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -2802,6 +2934,16 @@
 <string id="91" text="\nXFDF\nXFDF\nXFDF Files(*.xfdf)\n.xfdf\nFoxitReader.XFDFDoc\nFoxit Reader Document"/>
 <string id="92" text="\nXDP\nXDP\nXDP Files(*.xdp)\n.xdp\nFoxitReader.XDPDoc\nFoxit Reader Document"/>
 <string id="616" text="OLE initialization failed.  Make sure the version of the OLE libraries is correct."/>
+<string id="617" text="Add to the privileged location list to bypass the restrictions of safe reading mode. See more details in Preferences-&gt;Security."/>
+<string id="618" text="Nome"/>
+<string id="619" text="Caminho"/>
+<string id="620" text="Applications in the list below will not show warning messages when they open %s"/>
+<string id="621" text="PhantomPDF"/>
+<string id="622" text="Leitor"/>
+<string id="623" text="Open %s from applications without valid digital signatures"/>
+<string id="624" text="%s will show a warning message when an application without a vaild digital signature attempts to open it. \n \nYou can add trusted applications using the button below."/>
+<string id="625" text="The App already exists. The addition is invalid."/>
+<string id="626" text="The following characters can't be included in file name:"/>
 <string id="641" text="Evaluation user"/>
 <string id="642" text="Acerca de FoxitReader"/>
 <string id="643" text="Display %s%[1] information, version number and copyright\nAbout %s%[2]"/>
@@ -2926,7 +3068,7 @@
 <string id="765" text="Protect your  PDF files with  PhantomPDF  Business"/>
 <string id="766" text="Protect your  PDF files with  PhantomPDF  Standard"/>
 <string id="767" text="Foxit PhantomPDF Express for HP"/>
-<string id="768" text="2004-2016 Foxit Software Inc. All Rights Reserved."/>
+<string id="768" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
 <string id="769" text="This file is set to be launched by this PDF program but the operation is not allowed because you are currently in safe reading mode. You can click the Preferences item in the File menu, then uncheck the 'Enable Safe Reading Mode' box in order to launch this file."/>
 <string id="770" text="Support"/>
 <string id="771" text="This document is trying to send an email to:\n\n%s\n\nIf you trust the email, click &quot;Yes&quot;, otherwise click &quot;No&quot;. \n"/>
@@ -3065,11 +3207,11 @@
 <string id="904" text="Vista Anterior"/>
 <string id="905" text="Copyright"/>
 <string id="906" text="Copyright"/>
-<string id="907" text="2004-2016 Foxit Software Inc. All Rights Reserved."/>
-<string id="908" text="2004-2016 Foxit Software Inc. All Rights Reserved."/>
+<string id="907" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
+<string id="908" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
 <string id="909" text="About %s(&amp;A)"/>
 <string id="910" text="About %s(&amp;A)"/>
-<string id="911" text="8.1.0.803"/>
+<string id="911" text="8.3.0.65535"/>
 <string id="912" text="Versão:"/>
 <string id="913" text="Access Right"/>
 <string id="914" text="Atribuído"/>
@@ -3463,7 +3605,11 @@
 <string id="1326" text="Want to keep the ribbon visible always? Pin the ribbon to keep it open while you work."/>
 <string id="1327" text="Pin the Ribbon"/>
 <string id="1328" text="Converting CAD files to PDF is currently in beta. To enable CAD conversion, click on Help &gt; Foxit Plug-Ins, find the DWG2PDF plugin, and click on the icon on the right side to turn it on. Then, convert this file again."/>
-<string id="1329" text="2004-2016 Foxit Software Inc. and IMSI/Design. All Rights Reserved."/>
+<string id="1329" text="2004-2017 Foxit Software Inc. and IMSI/Design. All Rights Reserved."/>
+<string id="1344" text="Antes"/>
+<string id="1345" text="Depois"/>
+<string id="1346" text="Restart the application in order for these changes to take effect."/>
+<string id="1347" text="Sim"/>
 <string id="32768" text="Show help for using %s through a command line\nCommand Line Help"/>
 <string id="32770" text="Set %s as the default PDF reader\nSet to Default PDF Reader"/>
 <string id="57345" text="pronto"/>
@@ -3532,7 +3678,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="161" left="0" top="0" width="561" height="237">
+<Dialog id="161" left="0" top="0" width="561" height="236">
 <dlgitem id="1033" text="" left="26" top="18" width="495" height="84"/>
 <dlgitem id="1037" text="" left="49" top="81" width="481" height="21"/>
 <dlgitem id="1036" text="Get Details online" left="26" top="170" width="110" height="19"/>
@@ -3545,38 +3691,38 @@
 <dlgitem id="1093" text="Don't Install" left="315" top="165" width="105" height="25"/>
 <dlgitem id="1088" text="Remind Me Later" left="424" top="165" width="105" height="25"/>
 </Dialog>
-<Dialog id="171" text="Foxit Reader Updater" left="0" top="0" width="540" height="185">
-<dlgitem id="1062" text="" left="30" top="33" width="35" height="35"/>
+<Dialog id="171" text="Foxit Reader Updater" left="0" top="0" width="540" height="184">
+<dlgitem id="1062" text="" left="30" top="33" width="32" height="32"/>
 <dlgitem id="1049" text="Ne&amp;xt " left="453" top="117" width="63" height="25"/>
 <dlgitem id="1065" text="Install a free 14 day trial of %s %s" left="86" top="37" width="350" height="18"/>
 <dlgitem id="1066" text="Don't install a free 14 day trial of %s %s" left="86" top="68" width="385" height="18"/>
 <dlgitem id="1067" text="Learn more about" left="86" top="107" width="114" height="14"/>
 <dlgitem id="1068" text="%s %s" left="203" top="107" width="196" height="14"/>
 </Dialog>
-<Dialog id="176" left="0" top="0" width="472" height="222">
+<Dialog id="176" left="0" top="0" width="472" height="221">
 <dlgitem id="1095" text="" left="12" top="12" width="441" height="112"/>
 <dlgitem id="1" text="Instalar" left="249" top="144" width="88" height="25"/>
 <dlgitem id="1076" text="Remind Me Later" left="350" top="144" width="102" height="25"/>
 <dlgitem id="1073" text="Get Details online" left="14" top="149" width="116" height="19"/>
 </Dialog>
-<Dialog id="177" text="Dialogo" left="0" top="0" width="494" height="229">
+<Dialog id="177" text="Dialogo" left="0" top="0" width="494" height="228">
 <dlgitem id="1080" text="A major update for %s is available." left="21" top="23" width="455" height="42"/>
 <dlgitem id="1081" text="Click on “More Info” to see what’s new in the new version. You can download a 14-day free trial or choose to upgrade. \nNote: Your current license will not work with this new version. An upgrade license(with extra fee) is required." left="21" top="79" width="446" height="56"/>
 <dlgitem id="1077" text="Cancelar" left="383" top="151" width="79" height="25"/>
 <dlgitem id="1" text="More Info" left="289" top="151" width="79" height="25"/>
 </Dialog>
-<Dialog id="178" text="Cloud Reading" left="0" top="0" width="472" height="222">
+<Dialog id="178" text="Cloud Reading" left="0" top="0" width="472" height="221">
 <dlgitem id="1084" text="The latest Cloud Reading release is available. To improve your experience, we hightly recommend you install or update the plugin to the new version. \nIf you select Not Install, we will not notify you about this install or update again." left="23" top="30" width="415" height="72"/>
 <dlgitem id="1" text="Instalar" left="147" top="144" width="88" height="25"/>
 <dlgitem id="1077" text="Don't Install" left="243" top="144" width="88" height="25"/>
 <dlgitem id="1076" text="Remind Me Later" left="340" top="144" width="102" height="25"/>
 </Dialog>
-<Dialog id="10734" left="0" top="0" width="484" height="162">
+<Dialog id="10734" left="0" top="0" width="484" height="161">
 <dlgitem id="2" text="Cancelar" left="376" top="96" width="88" height="25"/>
 <dlgitem id="10758" text="Localizando atualizações ..." left="18" top="33" width="403" height="19"/>
 <dlgitem id="10759" text="" left="18" top="68" width="441" height="14"/>
 </Dialog>
-<Dialog id="10736" left="0" top="0" width="683" height="528">
+<Dialog id="10736" left="0" top="0" width="683" height="527">
 <dlgitem id="1" text="Ne&amp;xt (&amp;N)" left="476" top="467" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="579" top="467" width="88" height="25"/>
 <dlgitem id="10761" text="Actualizações Disponíveis:(&amp;v)" left="16" top="67" width="189" height="14"/>
@@ -3592,25 +3738,25 @@
 <dlgitem id="10771" text="" left="14" top="359" width="653" height="58"/>
 <dlgitem id="1033" text="" left="0" top="0" width="677" height="51"/>
 <dlgitem id="10782" text="Please do not update the add-ons and the application at the same time. Otherwise, the new add-ons may be unavailable in the new application." left="58" top="425" width="609" height="35"/>
-<dlgitem id="65535" text="" left="14" top="422" width="35" height="35"/>
+<dlgitem id="65535" text="" left="14" top="422" width="32" height="32"/>
 <dlgitem id="1078" text="Add All Add-ons(&amp;o)" left="289" top="156" width="103" height="25"/>
 </Dialog>
-<Dialog id="10740" left="0" top="0" width="627" height="188">
+<Dialog id="10740" left="0" top="0" width="627" height="187">
 <dlgitem id="10775" text="" left="14" top="82" width="595" height="18"/>
 <dlgitem id="1038" text="Updates have been installed successfully. They will take effect the next time you launch %s" left="14" top="28" width="595" height="47"/>
 <dlgitem id="1" text="Aceitar" left="509" top="123" width="88" height="25"/>
 </Dialog>
-<Dialog id="10744" text="Download Components" left="0" top="0" width="571" height="276">
+<Dialog id="10744" text="Download Components" left="0" top="0" width="571" height="275">
 <dlgitem id="1" text="Sim(&amp;Y)" left="359" top="214" width="88" height="25"/>
 <dlgitem id="2" text="Não(&amp;N)" left="459" top="214" width="88" height="25"/>
-<dlgitem id="4294967295" text="" left="14" top="18" width="35" height="35"/>
+<dlgitem id="4294967295" text="" left="14" top="18" width="32" height="32"/>
 <dlgitem id="10770" text="The %s component needs to be installed." left="56" top="14" width="490" height="28"/>
 <dlgitem id="10781" text="Please click Yes to download and install this component. You can also download it at a later time from the following link. After downloading, you can install it from 'Install Updates' on the Help tab." left="56" top="89" width="490" height="49"/>
 <dlgitem id="10782" text="Note: Downloading the update requires an Internet connection." left="56" top="180" width="490" height="14"/>
 <dlgitem id="1054" text="http://www.foxitsoftware.com/products/phantomPDF/addons.php" left="56" top="147" width="490" height="25"/>
 <dlgitem id="1089" text="This component will allow you to convert scanned or image-based content into selectable, searchable, and editable text." left="56" top="47" width="490" height="33"/>
 </Dialog>
-<Dialog id="10748" left="0" top="0" width="746" height="465">
+<Dialog id="10748" left="0" top="0" width="746" height="464">
 <dlgitem id="10780" text="Download(&amp;D)" left="628" top="399" width="102" height="25"/>
 <dlgitem id="10772" text="" left="12" top="11" width="632" height="21"/>
 <dlgitem id="10775" text="" left="12" top="58" width="716" height="18"/>
@@ -3622,7 +3768,7 @@
 <dlgitem id="10779" text="" left="12" top="33" width="641" height="21"/>
 <dlgitem id="10791" text="Fechar para a Barra de tarefas" left="12" top="399" width="478" height="25"/>
 </Dialog>
-<Dialog id="10840" text="Dialogo" left="0" top="0" width="381" height="190">
+<Dialog id="10840" text="Dialogo" left="0" top="0" width="381" height="189">
 <dlgitem id="1" text="Aceitar" left="203" top="123" width="65" height="25"/>
 <dlgitem id="2" text="Cancelar" left="273" top="123" width="65" height="25"/>
 <dlgitem id="1045" text="To download this file from Foxit's server, please click OK. \nTo get more information about volunteer translations, please refer to:" left="30" top="28" width="355" height="53"/>
@@ -3762,11 +3908,12 @@
 <string id="10897" text="OCR_uk-UA"/>
 <string id="10898" text="TurboPDF"/>
 <string id="10899" text="Foxit PDF"/>
+<string id="10900" text="LDF powered by Foxit"/>
 </Strings>
 </FoxitUpdater_DLL>
 <fpdfprint_dll>
 <Dialogs>
-<Dialog id="7651" text="Avançado" left="0" top="0" width="631" height="447">
+<Dialog id="7651" text="Avançado" left="0" top="0" width="631" height="446">
 <dlgitem id="10284" text="PCL Optimization(&amp;P)" left="19" top="14" width="593" height="18"/>
 <dlgitem id="10346" text="If you select “PCL Optimization”, printings will be executed with PCL Optimization Driver. You can remove the printer from the “PCL Optimization Drivers” if you are not satisfied with the printing results it delivers." left="19" top="39" width="581" height="46"/>
 <dlgitem id="10328" text="Printers(&amp;t)" left="19" top="96" width="215" height="14"/>
@@ -3787,7 +3934,7 @@
 <dlgitem id="10299" text="" left="124" top="91" width="42" height="21"/>
 <dlgitem id="10336" text="inch" left="173" top="93" width="88" height="14"/>
 </Dialog>
-<Dialog id="7653" text="Page Ranges" left="0" top="0" width="274" height="157">
+<Dialog id="7653" text="Page Ranges" left="0" top="0" width="274" height="156">
 <dlgitem id="10342" text="If you want to print pages 3,5 and 8,\nenter &quot;3,5,8&quot; in the text box.\n\nIf you want to print pages from 3 to 8,\nenter &quot;3-8&quot; in the text box." left="16" top="19" width="236" height="93"/>
 </Dialog>
 <Dialog id="7654" left="0" top="0" width="364" height="154">
@@ -3822,7 +3969,7 @@
 <dlgitem id="10275" text="Cut Marks" left="4" top="86" width="352" height="18"/>
 <dlgitem id="10276" text="Rótulos" left="4" top="119" width="352" height="18"/>
 </Dialog>
-<Dialog id="7657" text="Senha" left="0" top="0" width="377" height="140">
+<Dialog id="7657" text="Senha" left="0" top="0" width="377" height="139">
 <dlgitem id="10331" text="Entre com a senha:" left="63" top="44" width="84" height="13"/>
 <dlgitem id="10306" text="" left="152" top="39" width="177" height="23"/>
 <dlgitem id="1" text="Aceitar" left="221" top="80" width="60" height="20"/>
@@ -3830,7 +3977,7 @@
 <dlgitem id="10345" text="Este arquivo está protegido.Por favor entre com a senha para abri-lo." left="48" top="13" width="306" height="13"/>
 <dlgitem id="65535" text="" left="12" top="13" width="30" height="33"/>
 </Dialog>
-<Dialog id="7658" text="Imprimir" left="0" top="0" width="711" height="670">
+<Dialog id="7658" text="Imprimir" left="0" top="0" width="711" height="723">
 <dlgitem id="10349" text="" left="12" top="0" width="679" height="98"/>
 <dlgitem id="10337" text="Nome:(&amp;N)" left="23" top="18" width="58" height="16"/>
 <dlgitem id="10290" text="" left="86" top="16" width="299" height="22"/>
@@ -3858,12 +4005,12 @@
 <dlgitem id="10311" text="Multiple Pages\nPer Sheet(&amp;M)" left="203" top="278" width="88" height="37"/>
 <dlgitem id="10310" text="Brochura(&amp;k)" left="294" top="278" width="88" height="37"/>
 <dlgitem id="10332" text="" left="18" top="319" width="364" height="154"/>
-<dlgitem id="10354" text="" left="12" top="476" width="375" height="119"/>
-<dlgitem id="10280" text="Print on both sides of paper" left="23" top="494" width="334" height="18"/>
-<dlgitem id="10308" text="Flip on long edge" left="39" top="518" width="158" height="18"/>
-<dlgitem id="10309" text="Flip on short edge" left="207" top="518" width="158" height="18"/>
-<dlgitem id="10273" text="Auto-Girar(&amp;R)" left="23" top="543" width="334" height="18"/>
-<dlgitem id="10272" text="Auto-Centralizar" left="23" top="567" width="334" height="18"/>
+<dlgitem id="10354" text="" left="12" top="539" width="375" height="119"/>
+<dlgitem id="10280" text="Print on both sides of paper" left="23" top="557" width="334" height="18"/>
+<dlgitem id="10308" text="Flip on long edge" left="39" top="581" width="158" height="18"/>
+<dlgitem id="10309" text="Flip on short edge" left="207" top="581" width="158" height="18"/>
+<dlgitem id="10273" text="Auto-Girar(&amp;R)" left="23" top="606" width="334" height="18"/>
+<dlgitem id="10272" text="Auto-Centralizar" left="23" top="630" width="334" height="18"/>
 <dlgitem id="10350" text="Imprimir(&amp;W)" left="392" top="98" width="299" height="74"/>
 <dlgitem id="10291" text="" left="404" top="116" width="193" height="22"/>
 <dlgitem id="10271" text="Sumariar Comentários" left="403" top="142" width="147" height="25"/>
@@ -3883,12 +4030,15 @@
 <dlgitem id="10322" text="" left="473" top="513" width="145" height="21"/>
 <dlgitem id="10264" text="&gt;" left="635" top="513" width="33" height="23"/>
 <dlgitem id="10295" text="" left="424" top="536" width="242" height="21"/>
-<dlgitem id="10263" text="Avançado" left="18" top="604" width="88" height="25"/>
-<dlgitem id="10269" text="Dicas de Impressão" left="109" top="604" width="88" height="25"/>
-<dlgitem id="1" text="Aceitar" left="457" top="602" width="86" height="26"/>
-<dlgitem id="2" text="Cancelar" left="569" top="602" width="86" height="26"/>
+<dlgitem id="10263" text="Avançado" left="18" top="658" width="88" height="25"/>
+<dlgitem id="10269" text="Dicas de Impressão" left="109" top="658" width="88" height="25"/>
+<dlgitem id="1" text="Aceitar" left="457" top="656" width="86" height="26"/>
+<dlgitem id="2" text="Cancelar" left="569" top="656" width="86" height="26"/>
+<dlgitem id="10367" text="Orientação" left="12" top="476" width="375" height="65"/>
+<dlgitem id="10365" text="Portrait" left="21" top="494" width="329" height="18"/>
+<dlgitem id="10366" text="Landscape" left="21" top="516" width="341" height="18"/>
 </Dialog>
-<Dialog id="7659" text="Progresso" left="0" top="0" width="470" height="117">
+<Dialog id="7659" text="Progresso" left="0" top="0" width="470" height="116">
 <dlgitem id="2" text="Cancelar" left="371" top="29" width="74" height="20"/>
 <dlgitem id="10307" text="" left="15" top="33" width="345" height="15"/>
 <dlgitem id="10339" text="Imprimindo ..." left="20" top="59" width="332" height="16"/>
@@ -4005,7 +4155,7 @@
 </fpdftext_dll>
 <FreeText_DLL>
 <Dialogs>
-<Dialog id="8336" text="Set Predefined Text" left="0" top="0" width="438" height="341">
+<Dialog id="8336" text="Set Predefined Text" left="0" top="0" width="438" height="340">
 <dlgitem id="1" text="Aceitar(&amp;O)" left="198" top="273" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="312" top="273" width="88" height="25"/>
 <dlgitem id="11513" text="Identity information is automatically saved as predefined text." left="40" top="25" width="369" height="14"/>
@@ -4073,7 +4223,7 @@
 </FreeText_DLL>
 <FXPDF_A_DLL>
 <Dialogs>
-<Dialog id="9174" text="Standards Validation and Creation" left="0" top="0" width="525" height="456">
+<Dialog id="9174" text="Standards Validation and Creation" left="0" top="0" width="525" height="455">
 <dlgitem id="12744" text="Profiles(&amp;P)" left="12" top="25" width="88" height="25"/>
 <dlgitem id="12745" text="Results(&amp;R)" left="135" top="25" width="88" height="25"/>
 <dlgitem id="12746" text="Standards(&amp;S)" left="264" top="25" width="88" height="25"/>
@@ -4260,12 +4410,12 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="9574" text="Aguarde por favor..." left="0" top="0" width="354" height="139">
+<Dialog id="9574" text="Aguarde por favor..." left="0" top="0" width="354" height="138">
 <dlgitem id="13376" text="" left="70" top="12" width="266" height="86"/>
 <dlgitem id="13377" text="Aqui está a mensagem de informação." left="81" top="23" width="245" height="63"/>
 </Dialog>
-<Dialog id="9575" left="0" top="0" width="564" height="348"/>
-<Dialog id="9576" text="Seleccionar Ícone" left="0" top="0" width="361" height="383">
+<Dialog id="9575" left="0" top="0" width="564" height="347"/>
+<Dialog id="9576" text="Seleccionar Ícone" left="0" top="0" width="361" height="382">
 <dlgitem id="13447" text="Ficheiro:(&amp;F)" left="2" top="25" width="44" height="16"/>
 <dlgitem id="13420" text="" left="58" top="23" width="198" height="23"/>
 <dlgitem id="13379" text="Procurar...(&amp;B)" left="268" top="23" width="70" height="25"/>
@@ -4275,7 +4425,7 @@
 <dlgitem id="2" text="Cancelar(&amp;C)" left="249" top="313" width="88" height="25"/>
 </Dialog>
 <Dialog id="9577" left="0" top="0" width="329" height="170"/>
-<Dialog id="9578" text="Criar Multiplas Copias de Campos" left="0" top="0" width="382" height="414">
+<Dialog id="9578" text="Criar Multiplas Copias de Campos" left="0" top="0" width="382" height="413">
 <dlgitem id="13511" text="Numero de Campos" left="18" top="5" width="341" height="82"/>
 <dlgitem id="13489" text="Copiar campos seleccionados abaixo (vezes)(&amp;d)" left="33" top="25" width="210" height="21"/>
 <dlgitem id="13418" text="0" left="250" top="21" width="70" height="25"/>
@@ -4300,13 +4450,13 @@
 <dlgitem id="13554" text="Aceitar(&amp;O)" left="170" top="354" width="88" height="25"/>
 <dlgitem id="13374" text="Cancelar(&amp;C)" left="271" top="354" width="88" height="25"/>
 </Dialog>
-<Dialog id="9579" text="File Format" left="0" top="0" width="318" height="157">
+<Dialog id="9579" text="File Format" left="0" top="0" width="318" height="156">
 <dlgitem id="13409" text="" left="77" top="44" width="156" height="22"/>
 <dlgitem id="1" text="Aceitar" left="107" top="88" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="205" top="88" width="88" height="25"/>
 <dlgitem id="13498" text="Please select a file format:" left="12" top="12" width="215" height="26"/>
 </Dialog>
-<Dialog id="9580" text="Contabilizar pedidos" left="0" top="0" width="353" height="372">
+<Dialog id="9580" text="Contabilizar pedidos" left="0" top="0" width="353" height="371">
 <dlgitem id="13461" text="" left="12" top="32" width="233" height="263"/>
 <dlgitem id="13392" text="Cima(&amp;U)" left="257" top="53" width="70" height="25"/>
 <dlgitem id="13381" text="Baixo(&amp;D)" left="257" top="95" width="70" height="25"/>
@@ -4314,18 +4464,18 @@
 <dlgitem id="2" text="Cancelar(&amp;C)" left="240" top="306" width="88" height="25"/>
 <dlgitem id="13439" text="Campos de formulário:" left="12" top="9" width="88" height="18"/>
 </Dialog>
-<Dialog id="9581" text="Ir para uma página" left="0" top="0" width="305" height="202">
+<Dialog id="9581" text="Ir para uma página" left="0" top="0" width="305" height="201">
 <dlgitem id="1" text="Escolher esta posição(&amp;S)" left="35" top="124" width="114" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="175" top="124" width="88" height="25"/>
 <dlgitem id="13510" text="" left="18" top="18" width="270" height="96"/>
 </Dialog>
-<Dialog id="9582" text="Edição de JavaScript" left="0" top="0" width="518" height="372">
+<Dialog id="9582" text="Edição de JavaScript" left="0" top="0" width="518" height="371">
 <dlgitem id="13423" text="" left="12" top="37" width="478" height="243"/>
 <dlgitem id="1" text="Aceitar(&amp;O)" left="292" top="291" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="397" top="291" width="88" height="25"/>
 <dlgitem id="13490" text="Introduzir JavaScript:" left="14" top="11" width="131" height="14"/>
 </Dialog>
-<Dialog id="9583" text="Lançar ficheiros seleccionados" left="0" top="0" width="547" height="153">
+<Dialog id="9583" text="Lançar ficheiros seleccionados" left="0" top="0" width="547" height="152">
 <dlgitem id="13509" text="Edite ou seleccione o ficheiro para lançar:(&amp;E)" left="18" top="19" width="222" height="18"/>
 <dlgitem id="13424" text="" left="18" top="39" width="473" height="21"/>
 <dlgitem id="13382" text="Botão1" left="499" top="39" width="26" height="18"/>
@@ -4336,13 +4486,13 @@
 <dlgitem id="13466" text="0" left="0" top="0" width="45" height="23"/>
 <dlgitem id="13467" text="Rotação1" left="43" top="0" width="18" height="23"/>
 </Dialog>
-<Dialog id="9585" text="Edição de URL" left="0" top="0" width="501" height="141">
+<Dialog id="9585" text="Edição de URL" left="0" top="0" width="501" height="140">
 <dlgitem id="13491" text="Enter URL for this link:(&amp;E)" left="18" top="18" width="343" height="14"/>
 <dlgitem id="13434" text="" left="18" top="35" width="464" height="22"/>
 <dlgitem id="1" text="Aceitar(&amp;O)" left="289" top="72" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="394" top="72" width="88" height="25"/>
 </Dialog>
-<Dialog id="9586" text="Senha" left="0" top="0" width="473" height="162">
+<Dialog id="9586" text="Senha" left="0" top="0" width="473" height="161">
 <dlgitem id="13492" text="Entre com a senha:" left="117" top="58" width="98" height="14"/>
 <dlgitem id="13430" text="" left="221" top="54" width="207" height="25"/>
 <dlgitem id="1" text="Aceitar" left="250" top="96" width="88" height="25"/>
@@ -4350,7 +4500,7 @@
 <dlgitem id="13524" text="Este arquivo está protegido.Por favor entre com a senha para abri-lo." left="56" top="14" width="401" height="28"/>
 <dlgitem id="13525" text="I" left="9" top="14" width="37" height="30"/>
 </Dialog>
-<Dialog id="9587" text="Permissão PDF" left="0" top="0" width="549" height="461">
+<Dialog id="9587" text="Permissão PDF" left="0" top="0" width="549" height="460">
 <dlgitem id="13553" text="Arvore 1" left="12" top="35" width="518" height="207"/>
 <dlgitem id="1" text="Aceitar" left="343" top="396" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="443" top="396" width="88" height="25"/>
@@ -4381,7 +4531,7 @@
 <dlgitem id="13459" text="Estático:" left="23" top="354" width="221" height="16"/>
 <dlgitem id="13530" text="Estático" left="284" top="354" width="292" height="16"/>
 </Dialog>
-<Dialog id="9589" text="Reinicializar  Formulário" left="0" top="0" width="333" height="321">
+<Dialog id="9589" text="Reinicializar  Formulário" left="0" top="0" width="333" height="320">
 <dlgitem id="13529" text="Seleccionar Campos" left="18" top="9" width="292" height="228"/>
 <dlgitem id="13475" text="Árvore2" left="26" top="30" width="175" height="198"/>
 <dlgitem id="13391" text="Seleccionar Tudo(&amp;S)" left="210" top="37" width="88" height="25"/>
@@ -4389,19 +4539,19 @@
 <dlgitem id="1" text="Aceitar(&amp;O)" left="119" top="247" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="219" top="247" width="88" height="25"/>
 </Dialog>
-<Dialog id="9590" text="Menu de Selecção de Item" left="0" top="0" width="578" height="213">
+<Dialog id="9590" text="Menu de Selecção de Item" left="0" top="0" width="578" height="212">
 <dlgitem id="1" text="Aceitar" left="369" top="123" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="469" top="123" width="88" height="25"/>
 <dlgitem id="13494" text="Select an item from the menu below as an action to execute.  \nThe current selected menu item is:" left="18" top="9" width="455" height="35"/>
 <dlgitem id="13493" text="" left="53" top="47" width="464" height="53"/>
 </Dialog>
-<Dialog id="9591" text="Menu de Selecção de Item" left="0" top="0" width="410" height="409">
+<Dialog id="9591" text="Menu de Selecção de Item" left="0" top="0" width="410" height="408">
 <dlgitem id="13552" text="Arvore 1" left="12" top="44" width="380" height="289"/>
 <dlgitem id="1" text="Aceitar" left="196" top="343" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="305" top="343" width="88" height="25"/>
 <dlgitem id="13494" text="Select an item from the menu below as an action to execute:" left="14" top="16" width="376" height="23"/>
 </Dialog>
-<Dialog id="9592" text="Mostrar/Esconder campo" left="0" top="0" width="325" height="318">
+<Dialog id="9592" text="Mostrar/Esconder campo" left="0" top="0" width="325" height="317">
 <dlgitem id="13500" text="Seleccionar Campo" left="16" top="5" width="289" height="224"/>
 <dlgitem id="13461" text="" left="26" top="26" width="177" height="194"/>
 <dlgitem id="13480" text="Mostrar(&amp;S)" left="219" top="35" width="79" height="18"/>
@@ -4409,7 +4559,7 @@
 <dlgitem id="1" text="Aceitar(&amp;O)" left="116" top="247" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="217" top="247" width="88" height="25"/>
 </Dialog>
-<Dialog id="9593" text="Submeter formulário" left="0" top="0" width="585" height="491">
+<Dialog id="9593" text="Submeter formulário" left="0" top="0" width="585" height="490">
 <dlgitem id="13495" text="Export Format" left="14" top="9" width="280" height="172"/>
 <dlgitem id="13469" text="FDF Include:" left="37" top="26" width="193" height="23"/>
 <dlgitem id="13470" text="HTML" left="37" top="75" width="84" height="23"/>
@@ -4440,13 +4590,13 @@
 <dlgitem id="13402" text="Field data" left="46" top="128" width="81" height="18"/>
 <dlgitem id="13401" text="Comentários" left="170" top="128" width="86" height="18"/>
 </Dialog>
-<Dialog id="9594" text="Open PDF Files" left="0" top="0" width="400" height="418">
+<Dialog id="9594" text="Open PDF Files" left="0" top="0" width="400" height="417">
 <dlgitem id="1" text="Adicionar Ficheiros" left="159" top="352" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="294" top="352" width="88" height="25"/>
 <dlgitem id="13463" text="Lista 1" left="12" top="12" width="369" height="329"/>
 <dlgitem id="0" text="" left="0" top="0" width="365" height="24"/>
 </Dialog>
-<Dialog id="9595" text="Permisson Settings" left="0" top="0" width="556" height="290">
+<Dialog id="9595" text="Permisson Settings" left="0" top="0" width="556" height="289">
 <dlgitem id="1" text="Aceitar" left="348" top="221" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="450" top="221" width="88" height="25"/>
 <dlgitem id="13405" text="Restrict printing and editing of the document and its security settings(&amp;R)" left="26" top="25" width="420" height="18"/>
@@ -4470,7 +4620,7 @@
 <dlgitem id="13451" text="Please remove problem files from the list." left="49" top="53" width="228" height="14"/>
 <dlgitem id="13373" text="Remove unsupported file(s)" left="495" top="47" width="175" height="25"/>
 </Dialog>
-<Dialog id="9597" text="Go to a page in this document" left="0" top="0" width="384" height="262">
+<Dialog id="9597" text="Go to a page in this document" left="0" top="0" width="384" height="261">
 <dlgitem id="1" text="Aceitar" left="166" top="191" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="271" top="191" width="88" height="25"/>
 <dlgitem id="13540" text="Opções" left="14" top="7" width="340" height="156"/>
@@ -4480,13 +4630,13 @@
 <dlgitem id="13539" text="Not specified" left="105" top="117" width="130" height="33"/>
 <dlgitem id="13398" text="Procurar...(&amp;r)" left="250" top="110" width="88" height="30"/>
 </Dialog>
-<Dialog id="9598" text="Go to a named &amp;position" left="0" top="0" width="326" height="398">
+<Dialog id="9598" text="Go to a named &amp;position" left="0" top="0" width="326" height="397">
 <dlgitem id="13465" text="Seleccione uma posição nomeada da seguinte lista:" left="12" top="12" width="254" height="14"/>
 <dlgitem id="13464" text="" left="12" top="26" width="296" height="298"/>
 <dlgitem id="1" text="Aceitar(&amp;O)" left="121" top="336" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="221" top="336" width="88" height="25"/>
 </Dialog>
-<Dialog id="9599" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9599" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13514" text="The following digital IDs will be added to your list of digital IDs that you can use for signing or encryption:" left="26" top="32" width="539" height="58"/>
 <dlgitem id="13460" text="" left="26" top="89" width="513" height="172"/>
 <dlgitem id="0" text="" left="0" top="0" width="509" height="24"/>
@@ -4494,26 +4644,26 @@
 <dlgitem id="13393" text="Anterior" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9600" text="Digital ID Authentication" left="0" top="0" width="559" height="279">
-<dlgitem id="13440" text="Access to your digital ID is required to open an encryted document." left="30" top="28" width="399" height="28"/>
-<dlgitem id="13441" text="Digital ID Information:" left="21" top="63" width="184" height="26"/>
-<dlgitem id="13442" text="Emissor:" left="44" top="89" width="42" height="14"/>
-<dlgitem id="13537" text="Estático" left="98" top="89" width="329" height="14"/>
-<dlgitem id="13443" text="Email:" left="47" top="121" width="35" height="14"/>
-<dlgitem id="13449" text="Estático" left="98" top="121" width="357" height="14"/>
-<dlgitem id="13444" text="Senha:" left="26" top="156" width="70" height="21"/>
-<dlgitem id="13427" text="" left="98" top="152" width="151" height="25"/>
-<dlgitem id="1" text="Aceitar" left="313" top="194" width="88" height="25"/>
-<dlgitem id="2" text="Cancelar" left="422" top="194" width="88" height="25"/>
+<Dialog id="9600" text="Digital ID Authentication" left="0" top="0" width="459" height="278">
+<dlgitem id="13440" text="Access to your digital ID is required to open an encryted document." left="30" top="26" width="399" height="28"/>
+<dlgitem id="13441" text="Digital ID Information:" left="21" top="60" width="184" height="26"/>
+<dlgitem id="13442" text="Emissor:" left="47" top="89" width="42" height="14"/>
+<dlgitem id="13537" text="Estático" left="102" top="89" width="282" height="14"/>
+<dlgitem id="13443" text="Email:" left="54" top="121" width="35" height="14"/>
+<dlgitem id="13449" text="Estático" left="102" top="121" width="292" height="14"/>
+<dlgitem id="13444" text="Senha:" left="19" top="156" width="70" height="21"/>
+<dlgitem id="13427" text="" left="102" top="152" width="151" height="25"/>
+<dlgitem id="1" text="Aceitar" left="217" top="205" width="88" height="25"/>
+<dlgitem id="2" text="Cancelar" left="326" top="205" width="88" height="25"/>
 </Dialog>
-<Dialog id="9601" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9601" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13397" text="Ne&amp;xt " left="469" top="355" width="88" height="25"/>
 <dlgitem id="13534" text="I want to sign this document using:" left="26" top="39" width="415" height="18"/>
 <dlgitem id="13476" text="My existing digital ID from a file(&amp;M)" left="44" top="124" width="221" height="18"/>
 <dlgitem id="13477" text="A new digital ID I want to create now(&amp;A)" left="44" top="196" width="270" height="18"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9602" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9602" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13514" text="Browse for a digital ID file. Digital ID files are password protected and require your password in order to be opened." left="26" top="32" width="539" height="58"/>
 <dlgitem id="13515" text="Nome do Arquivo:(&amp;F)" left="26" top="105" width="68" height="16"/>
 <dlgitem id="13421" text="" left="26" top="137" width="436" height="25"/>
@@ -4524,7 +4674,7 @@
 <dlgitem id="13393" text="Anterior" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9603" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9603" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13501" text="Enter your identity information to be used when generating the self-signed certificate." left="25" top="35" width="509" height="14"/>
 <dlgitem id="13502" text="Name(e.g.John Smith):(&amp;N)" left="44" top="77" width="131" height="14"/>
 <dlgitem id="13436" text="" left="198" top="75" width="159" height="25"/>
@@ -4544,7 +4694,7 @@
 <dlgitem id="13393" text="Anterior" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9604" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9604" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13514" text="" left="26" top="32" width="539" height="58"/>
 <dlgitem id="13515" text="Nome do Arquivo:(&amp;F)" left="26" top="105" width="68" height="16"/>
 <dlgitem id="13421" text="" left="26" top="137" width="436" height="25"/>
@@ -4557,7 +4707,7 @@
 <dlgitem id="13393" text="Anterior" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9605" text="Add Digital ID" left="0" top="0" width="585" height="428">
+<Dialog id="9605" text="Add Digital ID" left="0" top="0" width="585" height="427">
 <dlgitem id="13534" text="Where would you like to store your self-signed digital ID?" left="26" top="32" width="415" height="18"/>
 <dlgitem id="13535" text="" left="49" top="100" width="511" height="54"/>
 <dlgitem id="13478" text="New PKCS#12 digital ID file(&amp;N)" left="32" top="68" width="180" height="18"/>
@@ -4566,6 +4716,41 @@
 <dlgitem id="13397" text="Ne&amp;xt " left="469" top="355" width="88" height="25"/>
 <dlgitem id="13393" text="Anterior" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="Cancelar" left="26" top="355" width="88" height="25"/>
+</Dialog>
+<Dialog id="9730" text="Choose Pages" left="0" top="0" width="588" height="366">
+<dlgitem id="1" text="Aceitar(&amp;O)" left="365" top="304" width="75" height="23"/>
+<dlgitem id="2" text="Cancelar(&amp;C)" left="458" top="304" width="75" height="23"/>
+<dlgitem id="13562" text="" left="381" top="20" width="155" height="236"/>
+<dlgitem id="13563" text="" left="540" top="20" width="17" height="236"/>
+<dlgitem id="21303" text="" left="380" top="267" width="63" height="20"/>
+<dlgitem id="21304" text="de" left="452" top="271" width="18" height="16"/>
+<dlgitem id="21309" text="Páginas" left="534" top="271" width="33" height="15"/>
+<dlgitem id="21124" text="Intervalo de páginas" left="18" top="13" width="350" height="273"/>
+<dlgitem id="21125" text="de" left="269" top="76" width="21" height="18"/>
+<dlgitem id="21127" text="" left="296" top="76" width="60" height="18"/>
+<dlgitem id="21126" text="Extract:(&amp;x)" left="27" top="161" width="50" height="18"/>
+<dlgitem id="21120" text="" left="81" top="159" width="158" height="21"/>
+<dlgitem id="21291" text="Páginas:" left="30" top="78" width="41" height="15"/>
+<dlgitem id="13561" text="Sample:1,5-9,12" left="77" top="120" width="96" height="16"/>
+<dlgitem id="21129" text="" left="470" top="268" width="60" height="18"/>
+<dlgitem id="13564" text="" left="77" top="75" width="186" height="23"/>
+</Dialog>
+<Dialog id="9731" text="Choose Sheets" left="0" top="0" width="570" height="376">
+<dlgitem id="1" text="Aceitar(&amp;O)" left="369" top="310" width="75" height="23"/>
+<dlgitem id="2" text="Cancelar(&amp;C)" left="458" top="310" width="75" height="23"/>
+<dlgitem id="21123" text="" left="381" top="36" width="162" height="249"/>
+<dlgitem id="13582" text="Add All &gt;&gt;(&amp;A)" left="149" top="262" width="75" height="23"/>
+<dlgitem id="13581" text="&lt;Remove(&amp;R)" left="149" top="202" width="75" height="23"/>
+<dlgitem id="13573" text="Add&gt;(&amp;d)" left="149" top="141" width="75" height="23"/>
+<dlgitem id="13574" text="" left="252" top="137" width="104" height="151"/>
+<dlgitem id="13575" text="" left="26" top="137" width="104" height="151"/>
+<dlgitem id="13578" text="Sheets in Excel" left="20" top="119" width="116" height="176"/>
+<dlgitem id="13579" text="Sheet Selection" left="141" top="119" width="90" height="176"/>
+<dlgitem id="13580" text="Sheets in PDF" left="240" top="120" width="122" height="176"/>
+<dlgitem id="13577" text="Conversion Range" left="18" top="20" width="342" height="86"/>
+<dlgitem id="4294967295" text="Pré-visualizar" left="369" top="20" width="185" height="276"/>
+<dlgitem id="13572" text="Sheet(s)(&amp;S)" left="33" top="76" width="65" height="16"/>
+<dlgitem id="13576" text="Entire Workbook(&amp;E)" left="33" top="46" width="104" height="16"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -4681,74 +4866,99 @@
 <string id="9726" text="Supported files"/>
 <string id="9727" text="Por favor, insira um endereço de e-mail válido!"/>
 <string id="9728" text="No page is selected. Please select appropriate options."/>
+<string id="9729" text="Even and odd pages"/>
+<string id="9730" text="Paginas Pares"/>
+<string id="9731" text="Páginas Impares"/>
+<string id="9732" text="Todos"/>
 </Strings>
 </GlobalWnd_DLL>
 <JavaScript_DLL>
 <Dialogs>
-<Dialog id="10023" text="Consola de JavaScript" left="0" top="0" width="574" height="506">
-<dlgitem id="14134" text="" left="11" top="9" width="539" height="320"/>
-<dlgitem id="14133" text="" left="11" top="334" width="539" height="81"/>
-<dlgitem id="14132" text="Mostrar dicas ao editar(&amp;t)" left="11" top="434" width="156" height="21"/>
-<dlgitem id="14129" text="Correr(&amp;R)" left="250" top="431" width="88" height="25"/>
-<dlgitem id="14128" text="Limpar(&amp;e)" left="355" top="431" width="88" height="25"/>
+<Dialog id="10201" left="0" top="0" width="236" height="348">
+<dlgitem id="14292" text="" left="23" top="56" width="187" height="270"/>
+</Dialog>
+<Dialog id="10202" text="Javascript develop path setting" left="0" top="0" width="426" height="189">
+<dlgitem id="1" text="Aceitar" left="230" top="127" width="75" height="23"/>
+<dlgitem id="2" text="Cancelar" left="335" top="127" width="75" height="23"/>
+<dlgitem id="4294967295" text="Please Input Javascript develop path:" left="29" top="37" width="183" height="13"/>
+<dlgitem id="14285" text="" left="30" top="68" width="362" height="23"/>
+</Dialog>
+<Dialog id="10203" text="Dialogo" left="0" top="0" width="559" height="347">
+<dlgitem id="14296" text="Estático" left="12" top="12" width="529" height="294"/>
+</Dialog>
+<Dialog id="10204" text="Consola de JavaScript" left="0" top="0" width="574" height="505">
+<dlgitem id="14287" text="" left="11" top="9" width="539" height="320"/>
+<dlgitem id="14286" text="" left="11" top="334" width="539" height="81"/>
+<dlgitem id="14284" text="Mostrar dicas ao editar(&amp;t)" left="11" top="434" width="156" height="21"/>
+<dlgitem id="14281" text="Correr(&amp;R)" left="250" top="431" width="88" height="25"/>
+<dlgitem id="14280" text="Limpar(&amp;e)" left="355" top="431" width="88" height="25"/>
 <dlgitem id="2" text="Fechar(&amp;C)" left="460" top="431" width="88" height="25"/>
 </Dialog>
-<Dialog id="10024" text="Foxit PhantomPDF" left="0" top="0" width="568" height="159">
-<dlgitem id="14145" text="Aceitar(&amp;O)" left="175" top="93" width="88" height="25"/>
-<dlgitem id="14143" text="Cancelar(&amp;C)" left="270" top="93" width="88" height="25"/>
-<dlgitem id="14146" text="Sim(&amp;Y)" left="364" top="93" width="88" height="25"/>
-<dlgitem id="14144" text="Não(&amp;N)" left="459" top="93" width="88" height="25"/>
-<dlgitem id="14137" text="" left="70" top="23" width="471" height="63"/>
-<dlgitem id="14136" text="I" left="28" top="16" width="32" height="30"/>
+<Dialog id="10205" text="Foxit PhantomPDF" left="0" top="0" width="568" height="158">
+<dlgitem id="14300" text="Aceitar(&amp;O)" left="175" top="93" width="88" height="25"/>
+<dlgitem id="14298" text="Cancelar(&amp;C)" left="270" top="93" width="88" height="25"/>
+<dlgitem id="14301" text="Sim(&amp;Y)" left="364" top="93" width="88" height="25"/>
+<dlgitem id="14299" text="Não(&amp;N)" left="459" top="93" width="88" height="25"/>
+<dlgitem id="14290" text="" left="70" top="23" width="471" height="63"/>
+<dlgitem id="14289" text="I" left="28" top="16" width="32" height="30"/>
 </Dialog>
-<Dialog id="10025" text="Foxit PhantomPDF" left="0" top="0" width="599" height="166">
+<Dialog id="10206" text="Foxit PhantomPDF" left="0" top="0" width="599" height="165">
 <dlgitem id="1" text="Aceitar" left="357" top="93" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="490" top="93" width="88" height="25"/>
-<dlgitem id="14141" text="" left="23" top="12" width="26" height="19"/>
-<dlgitem id="14139" text="" left="68" top="12" width="495" height="37"/>
-<dlgitem id="14131" text="Disable Safe Reading Mode and Run JavaScript Function" left="68" top="54" width="404" height="18"/>
-<dlgitem id="14130" text="Add current file to privileged location" left="68" top="79" width="228" height="18"/>
-<dlgitem id="14140" text="" left="298" top="81" width="28" height="19"/>
+<dlgitem id="14295" text="" left="23" top="12" width="26" height="19"/>
+<dlgitem id="14293" text="" left="68" top="12" width="495" height="37"/>
+<dlgitem id="14283" text="Disable Safe Reading Mode and Run JavaScript Function" left="68" top="54" width="404" height="18"/>
+<dlgitem id="14282" text="Add current file to privileged location" left="68" top="79" width="228" height="18"/>
+<dlgitem id="14294" text="" left="298" top="81" width="28" height="19"/>
 </Dialog>
-<Dialog id="10026" text="Dialogo" left="0" top="0" width="458" height="174">
-<dlgitem id="14135" text="" left="16" top="61" width="79" height="18"/>
-<dlgitem id="14147" text="Aceitar(&amp;O)" left="233" top="107" width="88" height="25"/>
-<dlgitem id="14142" text="Cancelar(&amp;C)" left="352" top="107" width="88" height="25"/>
-<dlgitem id="14138" text="" left="16" top="12" width="418" height="40"/>
+<Dialog id="10207" text="Dialogo" left="0" top="0" width="458" height="173">
+<dlgitem id="14288" text="" left="16" top="61" width="79" height="18"/>
+<dlgitem id="14302" text="Aceitar(&amp;O)" left="233" top="107" width="88" height="25"/>
+<dlgitem id="14297" text="Cancelar(&amp;C)" left="352" top="107" width="88" height="25"/>
+<dlgitem id="14291" text="" left="16" top="12" width="418" height="40"/>
 </Dialog>
 </Dialogs>
 <Strings>
-<string id="10033" text="O parâmetro que inseriu está incorrecto!"/>
-<string id="10034" text="Execute and debug the JavaScript code"/>
-<string id="10035" text="This document is trying print.Do you wagnt to allow this?"/>
-<string id="10036" text="JavaScript"/>
-<string id="10037" text="Consola de JavaScript"/>
-<string id="10038" text="Add, modify and test JavaScript within this document"/>
-<string id="10039" text="Disable Safe Reading Mode and Run JavaScript Function"/>
-<string id="10040" text="The Value entered does not match the format of the field [%s]."/>
-<string id="10041" text="Alerta do Foxit"/>
-<string id="10042" text="Atenção"/>
-<string id="10043" text="O sistema está ocupado!"/>
-<string id="10044" text="O evento do formulário existe!"/>
-<string id="10045" text="Invalid JavaScript parameters. Please check the parameters and try again."/>
-<string id="10046" text="Input value has exceeded %d characters."/>
-<string id="10047" text="The input string could not be parsed to a valid date and time(%s). Please input a valid string."/>
-<string id="10048" text="The second parameter could not be converted to a date. Please input a valid parameter."/>
-<string id="10049" text="The second parameter isn't a valid date. Please input a valid date."/>
-<string id="10050" text="Invalid value: must be greater or equal to %s%[1] and less than or equal to %s%[2]."/>
-<string id="10051" text="Valor inválido: deve ser maior ou igual a %s."/>
-<string id="10052" text="Valor inválido: deve ser menor ou igual a %s."/>
-<string id="10053" text="Envio de formulário falhado!"/>
-<string id="10054" text="Submitted form successfully."/>
-<string id="10055" text="The Document is trying to connect to  \n%s \nIf you trust the site, choose OK. If you don't trust the site, choose Cancel."/>
-<string id="10056" text="Não suportado."/>
-<string id="10057" text="Corre com sucesso."/>
-<string id="10058" text="In safe reading mode, %s does not allow to run JavaScript Function \nthat may cause potential security issues."/>
-<string id="10059" text="Add to privileged location to bypass the restrictions of safe reading mode. See more details from Preferences-&gt;Security."/>
-<string id="10060" text="An error occurred. Please contact the owner of this file."/>
-<string id="10062" text="The value entered does not match the format of the field = &quot;%s&quot;"/>
-<string id="10063" text="%s already exists.\n Do you want to replace it?"/>
-<string id="10064" text="PDF Files (*.pdf)|*.pdf|All Files (*.*)|*.*||"/>
+<string id="10214" text="O parâmetro que inseriu está incorrecto!"/>
+<string id="10215" text="Execute and debug the JavaScript code"/>
+<string id="10216" text="Encrypt"/>
+<string id="10217" text="ConnectedPDF"/>
+<string id="10218" text="Rever"/>
+<string id="10219" text="Outros"/>
+<string id="10220" text="This document is trying to print. Do you want to allow this?"/>
+<string id="10221" text="JavaScript"/>
+<string id="10222" text="Consola de JavaScript"/>
+<string id="10223" text="Add, modify and test JavaScript within this document"/>
+<string id="10224" text="Disable Safe Reading Mode and Run JavaScript Function"/>
+<string id="10225" text="The Value entered does not match the format of the field [%s]."/>
+<string id="10226" text="Alerta do Foxit"/>
+<string id="10227" text="Atenção"/>
+<string id="10228" text="O sistema está ocupado!"/>
+<string id="10229" text="O evento do formulário existe!"/>
+<string id="10230" text="Invalid JavaScript parameters. Please check the parameters and try again."/>
+<string id="10231" text="Input value has exceeded %d characters."/>
+<string id="10232" text="The input string could not be parsed to a valid date and time(%s). Please input a valid string."/>
+<string id="10233" text="The second parameter could not be converted to a date. Please input a valid parameter."/>
+<string id="10234" text="The second parameter isn't a valid date. Please input a valid date."/>
+<string id="10235" text="Invalid value: must be greater or equal to %s%[1] and less than or equal to %s%[2]."/>
+<string id="10236" text="Valor inválido: deve ser maior ou igual a %s."/>
+<string id="10237" text="Valor inválido: deve ser menor ou igual a %s."/>
+<string id="10238" text="Envio de formulário falhado!"/>
+<string id="10239" text="Submitted form successfully."/>
+<string id="10240" text="The Document is trying to connect to  \n%s \nIf you trust the site, choose OK. If you don't trust the site, choose Cancel."/>
+<string id="10241" text="Não suportado."/>
+<string id="10242" text="Corre com sucesso."/>
+<string id="10243" text="In safe reading mode, %s does not allow to run JavaScript Function \nthat may cause potential security issues."/>
+<string id="10244" text="Add to privileged location to bypass the restrictions of safe reading mode. See more details from Preferences-&gt;Security."/>
+<string id="10245" text="An error occurred. Please contact the owner of this file."/>
+<string id="10247" text="The value entered does not match the format of the field = &quot;%s&quot;"/>
+<string id="10248" text="%s already exists.\n Do you want to replace it?"/>
+<string id="10249" text="PDF Files (*.pdf)|*.pdf|All Files (*.*)|*.*||"/>
+<string id="10250" text="ConnectedPDF"/>
+<string id="10251" text="ConnectedPDF"/>
+<string id="10252" text="Connected Discussion"/>
+<string id="10253" text="Plugin is loading. Please try it again later."/>
+<string id="10254" text="Internet connection is required to use this feature. Please check your network and try again."/>
 </Strings>
 </JavaScript_DLL>
 <LayerPanelTool_DLL>
@@ -4778,7 +4988,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="10363" text="Propriedades da Camada" left="0" top="0" width="407" height="524">
+<Dialog id="10363" text="Propriedades da Camada" left="0" top="0" width="407" height="523">
 <dlgitem id="1" text="Aceitar" left="107" top="434" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="207" top="434" width="88" height="25"/>
 <dlgitem id="14728" text="Nome da Camada:" left="16" top="16" width="84" height="14"/>
@@ -4822,7 +5032,7 @@
 </LicenseManager_DLL>
 <LinkAnnot_DLL>
 <Dialogs>
-<Dialog id="11120" text="Criar ligação" left="0" top="0" width="477" height="307">
+<Dialog id="11120" text="Criar ligação" left="0" top="0" width="477" height="306">
 <dlgitem id="15902" text="Aparência" left="11" top="12" width="446" height="96"/>
 <dlgitem id="15907" text="Espessura:(&amp;T)" left="19" top="35" width="75" height="18"/>
 <dlgitem id="15901" text="0" left="100" top="35" width="28" height="21"/>
@@ -4880,7 +5090,7 @@
 </LinkAnnot_DLL>
 <LoupeTool_DLL>
 <Dialogs>
-<Dialog id="11445" text="Ferramenta Lupa" left="0" top="0" width="326" height="323">
+<Dialog id="11445" text="Ferramenta Lupa" left="0" top="0" width="326" height="320">
 <dlgitem id="16498" text="" left="257" top="0" width="53" height="35"/>
 <dlgitem id="16496" text="Slider 1" left="105" top="105" width="175" height="25"/>
 <dlgitem id="16499" text="%" left="79" top="263" width="18" height="21"/>
@@ -4963,7 +5173,7 @@
 <dlgitem id="17088" text="Slider 1" left="102" top="210" width="175" height="26"/>
 <dlgitem id="17076" text="Sho&amp;w text in line(&amp;w)" left="327" top="173" width="123" height="21"/>
 </Dialog>
-<Dialog id="11744" text="Author Name" left="0" top="0" width="249" height="139">
+<Dialog id="11744" text="Author Name" left="0" top="0" width="249" height="138">
 <dlgitem id="1" text="Aceitar" left="79" top="70" width="72" height="25"/>
 <dlgitem id="2" text="Cancelar" left="158" top="70" width="72" height="25"/>
 <dlgitem id="17116" text="Input author's name:" left="14" top="11" width="215" height="19"/>
@@ -5134,6 +5344,22 @@
 </popup>
 </menu>
 </Menus>
+<Dialogs>
+<Dialog id="12228" text="Filter Comments" left="0" top="0" width="383" height="389">
+<dlgitem id="17702" text="Aceitar" left="188" top="330" width="75" height="23"/>
+<dlgitem id="17703" text="Cancelar" left="278" top="330" width="75" height="23"/>
+<dlgitem id="17695" text="Estado:" left="23" top="16" width="107" height="13"/>
+<dlgitem id="17696" text="Nenhum" left="23" top="33" width="50" height="16"/>
+<dlgitem id="17697" text="Aceite" left="150" top="33" width="69" height="16"/>
+<dlgitem id="17701" text="Autor:" left="23" top="81" width="39" height="13"/>
+<dlgitem id="17698" text="Rejeitado" left="293" top="33" width="60" height="16"/>
+<dlgitem id="17699" text="Completo" left="23" top="55" width="75" height="16"/>
+<dlgitem id="17700" text="Cancelado" left="150" top="55" width="71" height="16"/>
+<dlgitem id="17704" text="Clear Selection" left="23" top="309" width="89" height="23"/>
+<dlgitem id="17705" text="" left="23" top="98" width="330" height="211"/>
+<dlgitem id="0" text="" left="0" top="0" width="326" height="0"/>
+</Dialog>
+</Dialogs>
 <Strings>
 <string id="12183" text="Esconder tudo"/>
 <string id="12184" text="Expandir tudo"/>
@@ -5182,6 +5408,9 @@
 <string id="12227" text="Rejected by:"/>
 <string id="12228" text="Cancelled by:"/>
 <string id="12229" text="Completed by:"/>
+<string id="12230" text="Email: \n%s"/>
+<string id="12231" text="Total: %d"/>
+<string id="12232" text="Filter"/>
 </Strings>
 </MarkupPanel_DLL>
 <MeasureAnnot_DLL>
@@ -5315,7 +5544,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="12907" text="Adicionar Imagem" left="0" top="0" width="571" height="489">
+<Dialog id="12907" text="Adicionar Imagem" left="0" top="0" width="571" height="488">
 <dlgitem id="18909" text="Procurar...(&amp;B)" left="448" top="35" width="86" height="26"/>
 <dlgitem id="2" text="Cancelar" left="466" top="424" width="88" height="25"/>
 <dlgitem id="19047" text="Definições de Imagem" left="12" top="5" width="541" height="387"/>
@@ -5331,7 +5560,7 @@
 <dlgitem id="19039" text="%" left="259" top="361" width="14" height="18"/>
 <dlgitem id="1" text="Aceitar" left="350" top="424" width="88" height="25"/>
 </Dialog>
-<Dialog id="12908" text="Add Video  Audio(&amp; )" left="0" top="0" width="547" height="337">
+<Dialog id="12908" text="Add Video  Audio(&amp; )" left="0" top="0" width="547" height="336">
 <dlgitem id="18925" text="Procurar...(&amp;B)" left="441" top="35" width="72" height="21"/>
 <dlgitem id="19003" text="Definições do Poster" left="12" top="140" width="516" height="109"/>
 <dlgitem id="1" text="Aceitar" left="308" top="266" width="88" height="25"/>
@@ -5349,20 +5578,20 @@
 <dlgitem id="19015" text="Mostrar Player(&amp;S)" left="299" top="102" width="214" height="21"/>
 <dlgitem id="19009" text="" left="116" top="214" width="308" height="21"/>
 </Dialog>
-<Dialog id="12909" text="Gravador de Som" left="0" top="0" width="431" height="162">
+<Dialog id="12909" text="Gravador de Som" left="0" top="0" width="431" height="161">
 <dlgitem id="1" text="Aceitar" left="214" top="96" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="326" top="96" width="88" height="25"/>
 <dlgitem id="18878" text="Procurar..." left="12" top="96" width="88" height="25"/>
 </Dialog>
 <Dialog id="12910" left="0" top="0" width="242" height="80"/>
-<Dialog id="12911" text="Renderização da Cópia" left="0" top="0" width="452" height="171">
+<Dialog id="12911" text="Renderização da Cópia" left="0" top="0" width="452" height="170">
 <dlgitem id="1" text="Aceitar" left="243" top="102" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="347" top="102" width="88" height="25"/>
 <dlgitem id="18988" text="Para sua informação:(&amp;R)" left="19" top="30" width="107" height="14"/>
 <dlgitem id="18892" text="" left="138" top="26" width="280" height="22"/>
 <dlgitem id="19010" text="Please select a rendition from the list above that you want to copy." left="137" top="58" width="298" height="32"/>
 </Dialog>
-<Dialog id="12912" text="Adicionar Novo Capítulo Utilizando um Ficheiro" left="0" top="0" width="507" height="188">
+<Dialog id="12912" text="Adicionar Novo Capítulo Utilizando um Ficheiro" left="0" top="0" width="507" height="187">
 <dlgitem id="1" text="Aceitar" left="303" top="123" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="401" top="123" width="88" height="25"/>
 <dlgitem id="18987" text="Localização:(&amp;L)" left="28" top="30" width="79" height="14"/>
@@ -5372,7 +5601,7 @@
 <dlgitem id="18891" text="" left="116" top="61" width="275" height="22"/>
 <dlgitem id="18884" text="Conteudo incluido no documento(&amp;E)" left="23" top="95" width="182" height="18"/>
 </Dialog>
-<Dialog id="12913" text="Adicionar Novo Capítulo Usando uma ligação" left="0" top="0" width="463" height="180">
+<Dialog id="12913" text="Adicionar Novo Capítulo Usando uma ligação" left="0" top="0" width="463" height="179">
 <dlgitem id="1" text="Aceitar" left="243" top="112" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="345" top="112" width="88" height="25"/>
 <dlgitem id="19007" text="Localização:(&amp;L)" left="12" top="37" width="96" height="14"/>
@@ -5380,7 +5609,7 @@
 <dlgitem id="19006" text="Tipo de Conteudo:(&amp;C)" left="12" top="74" width="96" height="14"/>
 <dlgitem id="18890" text="" left="116" top="72" width="319" height="22"/>
 </Dialog>
-<Dialog id="12914" text="Adicionar  Som" left="0" top="0" width="550" height="337">
+<Dialog id="12914" text="Adicionar  Som" left="0" top="0" width="550" height="336">
 <dlgitem id="18985" text="Localização:(&amp;L)" left="49" top="35" width="53" height="14"/>
 <dlgitem id="18983" text="" left="109" top="32" width="306" height="23"/>
 <dlgitem id="18980" text="Procurar...(&amp;B)" left="429" top="33" width="88" height="21"/>
@@ -5397,7 +5626,7 @@
 <dlgitem id="19012" text="" left="130" top="217" width="282" height="18"/>
 <dlgitem id="18883" text="Procurar...(&amp;o)" left="429" top="217" width="88" height="21"/>
 </Dialog>
-<Dialog id="12915" text="Mudar Painel" left="0" top="0" width="543" height="225">
+<Dialog id="12915" text="Mudar Painel" left="0" top="0" width="543" height="224">
 <dlgitem id="1" text="Aceitar" left="333" top="159" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="438" top="159" width="88" height="25"/>
 <dlgitem id="19032" text="Definições de Poster" left="16" top="9" width="509" height="140"/>
@@ -5408,7 +5637,7 @@
 <dlgitem id="18860" text="Procurar...(&amp;B)" left="424" top="105" width="84" height="25"/>
 <dlgitem id="18868" text="" left="105" top="105" width="305" height="25"/>
 </Dialog>
-<Dialog id="12916" text="Posicionamento da Imagem" left="0" top="0" width="353" height="379">
+<Dialog id="12916" text="Posicionamento da Imagem" left="0" top="0" width="353" height="378">
 <dlgitem id="19049" text="Quando escalonar:(&amp;W)" left="23" top="21" width="102" height="19"/>
 <dlgitem id="18900" text="" left="130" top="21" width="149" height="22"/>
 <dlgitem id="19046" text="Escala:(&amp;S)" left="53" top="53" width="72" height="18"/>
@@ -5426,13 +5655,13 @@
 <dlgitem id="19000" text="Imagem" left="165" top="145" width="53" height="32"/>
 <dlgitem id="18999" text="" left="154" top="135" width="67" height="60"/>
 </Dialog>
-<Dialog id="12917" text="Introduzir URL para Filme" left="0" top="0" width="438" height="153">
+<Dialog id="12917" text="Introduzir URL para Filme" left="0" top="0" width="438" height="152">
 <dlgitem id="1" text="Aceitar" left="175" top="79" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="319" top="79" width="88" height="25"/>
 <dlgitem id="19004" text="Localização:(&amp;o)" left="26" top="32" width="53" height="14"/>
 <dlgitem id="18906" text="" left="89" top="30" width="317" height="21"/>
 </Dialog>
-<Dialog id="12918" text="Conteúdo Multimédia" left="0" top="0" width="480" height="166">
+<Dialog id="12918" text="Conteúdo Multimédia" left="0" top="0" width="480" height="165">
 <dlgitem id="1" text="Seinn" left="252" top="96" width="88" height="25"/>
 <dlgitem id="2" text="Reject" left="361" top="96" width="88" height="25"/>
 <dlgitem id="18938" text="Play one time" left="397" top="30" width="14" height="14"/>
@@ -5440,12 +5669,12 @@
 <dlgitem id="18886" text="Remember choice until I close the document" left="23" top="67" width="312" height="18"/>
 <dlgitem id="19005" text="Multimedia contents have been opened.  Do you want to play the contents?" left="23" top="19" width="420" height="33"/>
 </Dialog>
-<Dialog id="12919" text="Foxit PhantomPDF" left="0" top="0" width="487" height="150">
+<Dialog id="12919" text="Foxit PhantomPDF" left="0" top="0" width="487" height="149">
 <dlgitem id="1" text="Aceitar" left="373" top="82" width="88" height="25"/>
 <dlgitem id="19037" text="" left="63" top="18" width="401" height="58"/>
 <dlgitem id="19030" text="" left="16" top="18" width="35" height="35"/>
 </Dialog>
-<Dialog id="12920" text="Especificar Jogador" left="0" top="0" width="312" height="204">
+<Dialog id="12920" text="Especificar Jogador" left="0" top="0" width="312" height="203">
 <dlgitem id="18933" text="Nome:(&amp;N)" left="30" top="39" width="42" height="14"/>
 <dlgitem id="18931" text="" left="79" top="35" width="196" height="22"/>
 <dlgitem id="18934" text="Estado:(&amp;S)" left="32" top="82" width="40" height="14"/>
@@ -5453,7 +5682,7 @@
 <dlgitem id="1" text="Aceitar" left="105" top="137" width="79" height="21"/>
 <dlgitem id="2" text="Cancelar" left="210" top="137" width="79" height="21"/>
 </Dialog>
-<Dialog id="12921" text="Confirmação de Localização URL" left="0" top="0" width="347" height="122">
+<Dialog id="12921" text="Confirmação de Localização URL" left="0" top="0" width="347" height="121">
 <dlgitem id="1" text="Aceitar" left="152" top="61" width="75" height="23"/>
 <dlgitem id="2" text="Cancelar" left="252" top="61" width="75" height="23"/>
 <dlgitem id="19051" text="" left="14" top="16" width="313" height="40"/>
@@ -5498,7 +5727,7 @@
 <dlgitem id="18880" text="Cima(&amp;U)" left="366" top="161" width="58" height="23"/>
 <dlgitem id="18881" text="Baixo(&amp;o)" left="366" top="261" width="58" height="23"/>
 </Dialog>
-<Dialog id="12925" text="Geral" left="0" top="0" width="452" height="290">
+<Dialog id="12925" text="Geral" left="0" top="0" width="452" height="289">
 <dlgitem id="19036" text="Título:(&amp;T)" left="26" top="32" width="28" height="14"/>
 <dlgitem id="18870" text="" left="65" top="28" width="369" height="23"/>
 <dlgitem id="19033" text="Localização do ficheiro multimédia" left="26" top="75" width="408" height="172"/>
@@ -5507,7 +5736,7 @@
 <dlgitem id="18861" text="Procurar...(&amp;B)" left="340" top="103" width="77" height="23"/>
 <dlgitem id="18869" text="" left="42" top="172" width="373" height="54"/>
 </Dialog>
-<Dialog id="12926" text="Reprodução" left="0" top="0" width="284" height="199">
+<Dialog id="12926" text="Reprodução" left="0" top="0" width="284" height="198">
 <dlgitem id="18863" text="Mostrar os controlos do leitor(&amp;w)" left="23" top="23" width="142" height="18"/>
 <dlgitem id="18864" text="Usar janela flutuante(&amp;U)" left="23" top="53" width="138" height="18"/>
 <dlgitem id="18867" text="" left="75" top="82" width="175" height="22"/>
@@ -5587,7 +5816,7 @@
 <dlgitem id="19022" text="Slider 1" left="268" top="93" width="98" height="25"/>
 <dlgitem id="19043" text="%" left="329" top="61" width="30" height="21"/>
 </Dialog>
-<Dialog id="12931" text="Dialogo" left="0" top="0" width="673" height="341">
+<Dialog id="12931" text="Dialogo" left="0" top="0" width="673" height="340">
 <dlgitem id="1" text="Aceitar" left="460" top="250" width="88" height="28"/>
 <dlgitem id="2" text="Cancelar" left="553" top="250" width="88" height="28"/>
 <dlgitem id="19016" text="Separador1" left="30" top="34" width="611" height="200"/>
@@ -5705,7 +5934,7 @@
 <string id="13048" text="Editar"/>
 <string id="13049" text="Audio  Video(&amp;&amp;)"/>
 <string id="13050" text="Image Properties"/>
-<string id="13051" text="Do not show this message until this document is closed"/>
+<string id="13051" text="Disable Safe Reading Mode and play media"/>
 <string id="13052" text="Select an area on the page and insert an image there"/>
 <string id="13053" text="Image Annotation"/>
 <string id="13054" text="Select an area on the page and insert an image there"/>
@@ -5713,7 +5942,7 @@
 <string id="13056" text="Audio  Video(&amp;&amp;)"/>
 <string id="13057" text="Select an area on the page and insert an audio or video file there"/>
 <string id="13058" text="Inserir(&amp;e)"/>
-<string id="13059" text="The media clip cannot be played because media playback is disabled in safe reading mode. If you want to enable this function, please check the Trust Manager preferences to disable safe reading mode."/>
+<string id="13059" text="The media clip cannot be played because media playback is disabled in Safe Reading Mode."/>
 <string id="13060" text="Ferramenta de Som"/>
 <string id="13061" text="Ferramenta de Som"/>
 <string id="13062" text="Ferramenta de Som"/>
@@ -5837,7 +6066,7 @@
 </PagesPanelTool_DLL>
 <PDFOptimizer_DLL>
 <Dialogs>
-<Dialog id="15393" text="Audit Space Usage" left="0" top="0" width="447" height="621">
+<Dialog id="15393" text="Audit Space Usage" left="0" top="0" width="447" height="620">
 <dlgitem id="1" text="Aceitar" left="175" top="550" width="88" height="25"/>
 <dlgitem id="22557" text="Results" left="12" top="18" width="418" height="511"/>
 <dlgitem id="22532" text="Descrição" left="28" top="44" width="63" height="14"/>
@@ -5927,7 +6156,7 @@
 <dlgitem id="22559" text="para" left="249" top="40" width="26" height="14"/>
 <dlgitem id="22560" text="para" left="249" top="165" width="26" height="14"/>
 </Dialog>
-<Dialog id="15398" text="Reconhecer Texto" left="0" top="0" width="395" height="180">
+<Dialog id="15398" text="Reconhecer Texto" left="0" top="0" width="395" height="179">
 <dlgitem id="22554" text="Página Actual(&amp;C)" left="14" top="14" width="158" height="21"/>
 <dlgitem id="22556" text="Todas Páginas(&amp;A)" left="14" top="42" width="156" height="21"/>
 <dlgitem id="22555" text="Pages from(&amp;P)" left="14" top="70" width="91" height="21"/>
@@ -5939,7 +6168,7 @@
 <dlgitem id="22581" text="de" left="306" top="74" width="18" height="14"/>
 <dlgitem id="22571" text="" left="334" top="72" width="42" height="16"/>
 </Dialog>
-<Dialog id="15399" text="PDF Optimizer" left="0" top="0" width="766" height="505">
+<Dialog id="15399" text="PDF Optimizer" left="0" top="0" width="766" height="504">
 <dlgitem id="22547" text="List3" left="7" top="72" width="154" height="361"/>
 <dlgitem id="0" text="" left="0" top="0" width="150" height="0"/>
 <dlgitem id="22493" text="Restore Default(&amp;D)" left="478" top="443" width="102" height="25"/>
@@ -5959,13 +6188,13 @@
 <dlgitem id="22507" text="Discard file attachments(&amp;f)" left="9" top="96" width="301" height="18"/>
 <dlgitem id="22511" text="Discard private data of other applications(&amp;r)" left="9" top="126" width="254" height="18"/>
 </Dialog>
-<Dialog id="15401" text="%s" left="0" top="0" width="515" height="183">
+<Dialog id="15401" text="%s" left="0" top="0" width="515" height="182">
 <dlgitem id="22500" text="Não mostrar essa mensagem novamente(&amp;D)" left="28" top="86" width="208" height="18"/>
 <dlgitem id="1" text="Aceitar" left="410" top="117" width="88" height="25"/>
 <dlgitem id="22584" text="Hint" left="72" top="19" width="411" height="58"/>
 <dlgitem id="22585" text="" left="28" top="19" width="35" height="35"/>
 </Dialog>
-<Dialog id="15402" text="Sanitize Document" left="0" top="0" width="526" height="430">
+<Dialog id="15402" text="Sanitize Document" left="0" top="0" width="526" height="429">
 <dlgitem id="1" text="Aceitar" left="315" top="368" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="424" top="368" width="88" height="25"/>
 <dlgitem id="22550" text="Não mostrar essa mensagem novamente" left="14" top="340" width="205" height="18"/>
@@ -6095,18 +6324,18 @@
 <dlgitem id="23753" text="" left="125" top="330" width="24" height="23"/>
 <dlgitem id="23754" text="Add a column:" left="21" top="275" width="182" height="13"/>
 </Dialog>
-<Dialog id="16149" text="New Folder" left="0" top="0" width="359" height="135">
+<Dialog id="16149" text="New Folder" left="0" top="0" width="359" height="134">
 <dlgitem id="23744" text="" left="150" top="20" width="191" height="24"/>
 <dlgitem id="1" text="Aceitar" left="117" top="62" width="80" height="26"/>
 <dlgitem id="2" text="Cancelar" left="236" top="62" width="80" height="26"/>
 <dlgitem id="23756" text="Enter new folder name:" left="14" top="23" width="129" height="23"/>
 </Dialog>
-<Dialog id="16150" text="Foxit PhantomPDF" left="0" top="0" width="284" height="120">
+<Dialog id="16150" text="Foxit PhantomPDF" left="0" top="0" width="284" height="119">
 <dlgitem id="1" text="Aceitar" left="189" top="57" width="75" height="23"/>
 <dlgitem id="23764" text="Access denied." left="59" top="26" width="209" height="13"/>
 <dlgitem id="23745" text="" left="18" top="16" width="30" height="33"/>
 </Dialog>
-<Dialog id="16151" text="File Properties" left="0" top="0" width="342" height="320">
+<Dialog id="16151" text="File Properties" left="0" top="0" width="342" height="319">
 <dlgitem id="1" text="Aceitar" left="152" top="250" width="75" height="23"/>
 <dlgitem id="2" text="Cancelar" left="243" top="250" width="75" height="23"/>
 <dlgitem id="23760" text="Nome:" left="4" top="23" width="86" height="14"/>
@@ -6227,7 +6456,7 @@
 <PropertyBox_DLL>
 <Dialogs>
 <Dialog id="16551" left="0" top="0" width="264" height="242">
-<dlgitem id="4294967295" text="Property Controller\n\nCopyright © 2004-2016 Foxit Software Inc.\nAll Rights Reserved." left="28" top="67" width="214" height="112"/>
+<dlgitem id="4294967295" text="Property Controller\n\nCopyright © 2004-2017 Foxit Software Inc.\nAll Rights Reserved." left="28" top="67" width="214" height="112"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -6247,7 +6476,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="17163" left="0" top="0" width="380" height="221"/>
+<Dialog id="17163" left="0" top="0" width="380" height="220"/>
 </Dialogs>
 <Strings>
 <string id="17165" text="Please install the required version of Flash Player to view the Flash content in this PDF file."/>
@@ -6287,13 +6516,13 @@
 <dlgitem id="26092" text="Flatten the document when applying all signatures(&amp;F)" left="30" top="46" width="299" height="18"/>
 <dlgitem id="26180" text="" left="334" top="47" width="16" height="16"/>
 </Dialog>
-<Dialog id="17486" text="Draw Signature" left="0" top="0" width="834" height="552">
+<Dialog id="17486" text="Draw Signature" left="0" top="0" width="834" height="551">
 <dlgitem id="1" text="Aceitar" left="611" top="487" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="728" top="487" width="88" height="25"/>
 <dlgitem id="26116" text="" left="26" top="26" width="775" height="448"/>
 <dlgitem id="26104" text="Limpar(&amp;C)" left="494" top="487" width="88" height="25"/>
 </Dialog>
-<Dialog id="17487" text="Select Image for Custom Stamp" left="0" top="0" width="396" height="524">
+<Dialog id="17487" text="Select Image for Custom Stamp" left="0" top="0" width="396" height="523">
 <dlgitem id="1" text="Aceitar" left="177" top="452" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="280" top="452" width="88" height="25"/>
 <dlgitem id="26100" text="Select a page you preferred from the document as your stamp" left="19" top="19" width="341" height="28"/>
@@ -6303,7 +6532,7 @@
 <dlgitem id="26098" text="1 out of 10 image" left="208" top="408" width="142" height="16"/>
 <dlgitem id="26097" text="" left="95" top="86" width="196" height="310"/>
 </Dialog>
-<Dialog id="17488" text="Create Custom Dynamic Stamp" left="0" top="0" width="557" height="407">
+<Dialog id="17488" text="Create Custom Dynamic Stamp" left="0" top="0" width="557" height="406">
 <dlgitem id="2" text="Cancelar" left="436" top="341" width="88" height="25"/>
 <dlgitem id="1" text="Aceitar" left="243" top="341" width="88" height="25"/>
 <dlgitem id="26117" text="" left="14" top="5" width="518" height="326"/>
@@ -6327,7 +6556,7 @@
 <dlgitem id="26118" text="Adicionar(&amp;A)" left="373" top="299" width="65" height="21"/>
 <dlgitem id="26120" text="Remover(&amp;R)" left="450" top="299" width="65" height="21"/>
 </Dialog>
-<Dialog id="17489" text="Manage Custom Stamps" left="0" top="0" width="564" height="377">
+<Dialog id="17489" text="Manage Custom Stamps" left="0" top="0" width="564" height="376">
 <dlgitem id="1" text="Aceitar" left="448" top="303" width="88" height="25"/>
 <dlgitem id="26144" text="" left="16" top="12" width="520" height="271"/>
 <dlgitem id="26145" text="Custom Stamps and Categories:" left="32" top="30" width="231" height="19"/>
@@ -6337,11 +6566,11 @@
 <dlgitem id="26140" text="Apagar(&amp;D)" left="226" top="242" width="88" height="25"/>
 <dlgitem id="26142" text="" left="326" top="39" width="186" height="214"/>
 </Dialog>
-<Dialog id="17490" text="Marcas" left="0" top="0" width="288" height="566">
+<Dialog id="17490" text="Marcas" left="0" top="0" width="288" height="565">
 <dlgitem id="26151" text="" left="19" top="21" width="243" height="22"/>
 <dlgitem id="26152" text="" left="19" top="53" width="243" height="464"/>
 </Dialog>
-<Dialog id="17491" text="Senha" left="0" top="0" width="522" height="153">
+<Dialog id="17491" text="Senha" left="0" top="0" width="522" height="152">
 <dlgitem id="26178" text="Entre com a senha:" left="149" top="56" width="98" height="14"/>
 <dlgitem id="26137" text="" left="252" top="53" width="207" height="25"/>
 <dlgitem id="1" text="Aceitar" left="310" top="89" width="88" height="25"/>
@@ -6349,7 +6578,7 @@
 <dlgitem id="26184" text="Este arquivo está protegido.Por favor entre com a senha para abri-lo." left="56" top="14" width="452" height="37"/>
 <dlgitem id="26185" text="" left="14" top="14" width="35" height="35"/>
 </Dialog>
-<Dialog id="17492" text="Create Custom Stamp" left="0" top="0" width="599" height="398">
+<Dialog id="17492" text="Create Custom Stamp" left="0" top="0" width="599" height="397">
 <dlgitem id="26153" text="Procurar...(&amp;B)" left="501" top="93" width="63" height="23"/>
 <dlgitem id="26156" text="" left="354" top="93" width="144" height="25"/>
 <dlgitem id="26161" text="Ficheiro:" left="301" top="100" width="44" height="14"/>
@@ -6366,7 +6595,7 @@
 <dlgitem id="1" text="Aceitar" left="387" top="322" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="490" top="322" width="88" height="25"/>
 </Dialog>
-<Dialog id="17493" text="Definir marca favorita" left="0" top="0" width="564" height="362">
+<Dialog id="17493" text="Definir marca favorita" left="0" top="0" width="564" height="361">
 <dlgitem id="1" text="Aceitar" left="453" top="292" width="88" height="25"/>
 <dlgitem id="26172" text="" left="16" top="11" width="527" height="259"/>
 <dlgitem id="26173" text="Todas as Marcas" left="28" top="37" width="89" height="14"/>
@@ -6376,7 +6605,7 @@
 <dlgitem id="26170" text="Adicionar como Favorito(&amp;A)" left="210" top="88" width="137" height="25"/>
 <dlgitem id="26171" text="Remover dos Favoritos(&amp;R)" left="210" top="142" width="137" height="25"/>
 </Dialog>
-<Dialog id="17494" text="Create Your Stamp Template" left="0" top="0" width="571" height="342">
+<Dialog id="17494" text="Create Your Stamp Template" left="0" top="0" width="571" height="341">
 <dlgitem id="26106" text="Procurar...(&amp;B)" left="460" top="79" width="70" height="25"/>
 <dlgitem id="1" text="Aceitar" left="354" top="270" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="457" top="270" width="88" height="25"/>
@@ -6391,13 +6620,13 @@
 <dlgitem id="26114" text="%" left="364" top="159" width="14" height="19"/>
 <dlgitem id="26110" text="Slider 1" left="392" top="156" width="128" height="28"/>
 </Dialog>
-<Dialog id="17495" text="Apply All Signatures" left="0" top="0" width="627" height="176">
+<Dialog id="17495" text="Apply All Signatures" left="0" top="0" width="627" height="175">
 <dlgitem id="1" text="Continue Applying" left="327" top="112" width="140" height="25"/>
 <dlgitem id="26093" text="Change Setting" left="471" top="112" width="140" height="25"/>
 <dlgitem id="4294967295" text="Apply all signatures will flatten the whole document.This will make all signatures, text objects and other annotations being embedded into the document. You can change this setting in Preferences -&gt; PDF Sign." left="77" top="32" width="513" height="46"/>
 <dlgitem id="26182" text="" left="32" top="33" width="28" height="28"/>
 </Dialog>
-<Dialog id="17496" text="Create Signature" left="0" top="0" width="529" height="426">
+<Dialog id="17496" text="Create Signature" left="0" top="0" width="529" height="425">
 <dlgitem id="1" text="Guardar" left="294" top="362" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="410" top="362" width="88" height="25"/>
 <dlgitem id="26186" text="" left="214" top="33" width="270" height="166"/>
@@ -6413,7 +6642,7 @@
 <dlgitem id="26181" text="Opções" left="23" top="214" width="473" height="124"/>
 <dlgitem id="26177" text="Create By" left="25" top="14" width="168" height="193"/>
 </Dialog>
-<Dialog id="17497" text="Manage Signature" left="0" top="0" width="676" height="414">
+<Dialog id="17497" text="Manage Signature" left="0" top="0" width="676" height="413">
 <dlgitem id="26138" text="" left="44" top="42" width="457" height="271"/>
 <dlgitem id="26149" text="Move Forward(&amp;F)" left="536" top="37" width="109" height="25"/>
 <dlgitem id="26146" text="Move Backward(&amp;B)" left="536" top="79" width="109" height="25"/>
@@ -6423,20 +6652,20 @@
 <dlgitem id="1" text="Fechar" left="536" top="348" width="109" height="25"/>
 <dlgitem id="26187" text="Signature List" left="28" top="25" width="490" height="299"/>
 </Dialog>
-<Dialog id="17498" text="Signatures Not Applied" left="0" top="0" width="522" height="153">
+<Dialog id="17498" text="Signatures Not Applied" left="0" top="0" width="522" height="152">
 <dlgitem id="1" text="Apply All" left="242" top="88" width="123" height="25"/>
 <dlgitem id="2" text="Discard" left="382" top="88" width="123" height="25"/>
 <dlgitem id="4294967295" text="There are signatures that have not been applied. What do you want to do with them?" left="89" top="32" width="390" height="37"/>
 <dlgitem id="26188" text="" left="40" top="32" width="28" height="28"/>
 </Dialog>
-<Dialog id="17499" text="Senha" left="0" top="0" width="559" height="159">
+<Dialog id="17499" text="Senha" left="0" top="0" width="559" height="158">
 <dlgitem id="26183" text="Open password:(&amp;O)" left="25" top="68" width="114" height="23"/>
 <dlgitem id="26136" text="" left="151" top="68" width="161" height="25"/>
 <dlgitem id="1" text="Aceitar" left="359" top="93" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="453" top="93" width="88" height="25"/>
 <dlgitem id="4294967295" text="Usage of signature profile is protected and cannot be applied without providing the \ncorrect password." left="25" top="25" width="499" height="39"/>
 </Dialog>
-<Dialog id="17500" text="Set Signature Password" left="0" top="0" width="515" height="208">
+<Dialog id="17500" text="Set Signature Password" left="0" top="0" width="515" height="207">
 <dlgitem id="1" text="Aceitar" left="170" top="140" width="142" height="25"/>
 <dlgitem id="2" text="Cancelar" left="327" top="140" width="142" height="25"/>
 <dlgitem id="26165" text="Require password to use this signature(&amp;R)" left="40" top="26" width="387" height="18"/>
@@ -6445,7 +6674,7 @@
 <dlgitem id="26168" text="Confirm Password(&amp;C)" left="54" top="98" width="98" height="14"/>
 <dlgitem id="26166" text="" left="172" top="95" width="203" height="25"/>
 </Dialog>
-<Dialog id="17501" text="Type Signature" left="0" top="0" width="508" height="481">
+<Dialog id="17501" text="Type Signature" left="0" top="0" width="508" height="480">
 <dlgitem id="26197" text="" left="128" top="23" width="242" height="23"/>
 <dlgitem id="26192" text="Recommended fonts(&amp;R)" left="40" top="84" width="142" height="18"/>
 <dlgitem id="26193" text="" left="203" top="82" width="186" height="22"/>
@@ -6576,7 +6805,7 @@
 <string id="17668" text="Assinar Aqui"/>
 <string id="17669" text="Signature List"/>
 <string id="17670" text="Selos Padrão"/>
-<string id="17671" text="This document is encrypted by PhantomPDF RMS protector, you have no access to do operations on it."/>
+<string id="17671" text="This document is encrypted by %s RMS protector, you do not have access to perform operations on it."/>
 <string id="17672" text="Select a page you preferred from the document as your Signature"/>
 <string id="17673" text="Embed all signatures into the document"/>
 <string id="17674" text="Assinar Aqui"/>
@@ -6616,11 +6845,12 @@
 <string id="17708" text="Verified"/>
 <string id="17709" text="Void"/>
 <string id="17710" text="Witness"/>
+<string id="17711" text="Updating data"/>
 </Strings>
 </RStampAnnot_DLL>
 <Scanner_DLL>
 <Dialogs>
-<Dialog id="18025" text="Configure Scan Presets" left="0" top="0" width="535" height="442">
+<Dialog id="18025" text="Configure Scan Presets" left="0" top="0" width="535" height="441">
 <dlgitem id="26813" text="" left="18" top="77" width="501" height="191"/>
 <dlgitem id="4294967295" text="Configure scanner" left="33" top="77" width="100" height="14"/>
 <dlgitem id="26804" text="Configure scanner using scanner‘s interface(&amp;u)" left="39" top="102" width="264" height="18"/>
@@ -6648,7 +6878,7 @@
 <dlgitem id="1" text="Guardar(&amp;S)" left="240" top="375" width="131" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="382" top="375" width="131" height="25"/>
 </Dialog>
-<Dialog id="18026" text="Procurar" left="0" top="0" width="529" height="488">
+<Dialog id="18026" text="Procurar" left="0" top="0" width="529" height="487">
 <dlgitem id="26833" text="" left="23" top="123" width="487" height="191"/>
 <dlgitem id="26829" text="Configure scanner" left="26" top="123" width="103" height="14"/>
 <dlgitem id="26830" text="" left="130" top="124" width="14" height="12"/>
@@ -6681,7 +6911,7 @@
 <dlgitem id="4294967295" text="Create From Scanner" left="28" top="58" width="249" height="42"/>
 <dlgitem id="26792" text="From \n Scanner..." left="28" top="107" width="103" height="77"/>
 </Dialog>
-<Dialog id="18028" text="Manage Scan Presets" left="0" top="0" width="486" height="302">
+<Dialog id="18028" text="Manage Scan Presets" left="0" top="0" width="486" height="301">
 <dlgitem id="1" text="Fechar(&amp;C)" left="362" top="236" width="102" height="25"/>
 <dlgitem id="26776" text="Editar(&amp;E)" left="362" top="39" width="102" height="25"/>
 <dlgitem id="26775" text="Apagar(&amp;D)" left="362" top="72" width="102" height="25"/>
@@ -6691,7 +6921,7 @@
 <dlgitem id="26797" text="" left="19" top="39" width="327" height="189"/>
 <dlgitem id="4294967295" text="Scan Presets" left="19" top="12" width="74" height="14"/>
 </Dialog>
-<Dialog id="18029" text="Optimize Scanned PDF" left="0" top="0" width="442" height="454">
+<Dialog id="18029" text="Optimize Scanned PDF" left="0" top="0" width="442" height="453">
 <dlgitem id="26837" text="Opções Optimização" left="12" top="135" width="411" height="170"/>
 <dlgitem id="26854" text="Cor/Cinza:(&amp;G)" left="28" top="165" width="75" height="21"/>
 <dlgitem id="26823" text="" left="126" top="163" width="259" height="22"/>
@@ -6714,14 +6944,14 @@
 <dlgitem id="2" text="Cancelar(&amp;C)" left="324" top="387" width="88" height="25"/>
 <dlgitem id="26780" text="" left="126" top="98" width="200" height="22"/>
 </Dialog>
-<Dialog id="18030" text="Save Scan Preset" left="0" top="0" width="456" height="162">
+<Dialog id="18030" text="Save Scan Preset" left="0" top="0" width="456" height="161">
 <dlgitem id="26849" text="Save a  scan preset and then use it directly from &quot;Scan&quot; menu." left="46" top="21" width="348" height="14"/>
 <dlgitem id="26793" text="" left="182" top="54" width="200" height="21"/>
 <dlgitem id="1" text="Guardar(&amp;S)" left="182" top="91" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="331" top="91" width="88" height="25"/>
 <dlgitem id="4294967295" text="Preset Name(&amp;P)" left="54" top="56" width="86" height="14"/>
 </Dialog>
-<Dialog id="18031" text="Informação do Documento" left="0" top="0" width="379" height="176">
+<Dialog id="18031" text="Informação do Documento" left="0" top="0" width="379" height="175">
 <dlgitem id="26852" text="Autor:(&amp;A)" left="26" top="18" width="44" height="14"/>
 <dlgitem id="26794" text="" left="107" top="12" width="257" height="25"/>
 <dlgitem id="26856" text="Título:(&amp;T)" left="26" top="51" width="30" height="14"/>
@@ -6731,7 +6961,7 @@
 <dlgitem id="1" text="Aceitar" left="159" top="114" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="277" top="114" width="88" height="25"/>
 </Dialog>
-<Dialog id="18032" text="Opções Optimização" left="0" top="0" width="382" height="227">
+<Dialog id="18032" text="Opções Optimização" left="0" top="0" width="382" height="226">
 <dlgitem id="26799" text="Definições de Imagem" left="12" top="7" width="347" height="151"/>
 <dlgitem id="26854" text="Cor/Cinza:(&amp;G)" left="25" top="33" width="70" height="19"/>
 <dlgitem id="26784" text="" left="107" top="32" width="222" height="22"/>
@@ -6745,7 +6975,7 @@
 <dlgitem id="1" text="Aceitar(&amp;O)" left="156" top="166" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="263" top="166" width="88" height="25"/>
 </Dialog>
-<Dialog id="18033" text="Opções Digitalizador" left="0" top="0" width="347" height="110">
+<Dialog id="18033" text="Opções Digitalizador" left="0" top="0" width="347" height="109">
 <dlgitem id="1" text="Aceitar(&amp;O)" left="107" top="44" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar(&amp;C)" left="233" top="44" width="88" height="25"/>
 <dlgitem id="26851" text="Transfer Mechanism:(&amp;T)" left="5" top="16" width="124" height="14"/>
@@ -6881,7 +7111,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="18452" text="Certificate Protection" left="0" top="0" width="550" height="535">
+<Dialog id="18452" text="Certificate Protection" left="0" top="0" width="550" height="534">
 <dlgitem id="27485" text="Lista Destinatários:" left="12" top="16" width="145" height="19"/>
 <dlgitem id="27474" text="Lista 1" left="12" top="35" width="411" height="151"/>
 <dlgitem id="0" text="" left="0" top="0" width="407" height="24"/>
@@ -6909,7 +7139,7 @@
 <dlgitem id="1" text="Aceitar" left="327" top="464" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="429" top="464" width="88" height="25"/>
 </Dialog>
-<Dialog id="18453" text="Import Certificate" left="0" top="0" width="690" height="416">
+<Dialog id="18453" text="Import Certificate" left="0" top="0" width="690" height="415">
 <dlgitem id="27485" text="Please select one of your digital IDs to encrypt the document." left="12" top="12" width="466" height="19"/>
 <dlgitem id="27474" text="Lista 1" left="30" top="67" width="621" height="240"/>
 <dlgitem id="0" text="" left="0" top="0" width="617" height="24"/>
@@ -6919,7 +7149,7 @@
 <dlgitem id="27433" text="Add Digital ID" left="390" top="350" width="93" height="25"/>
 <dlgitem id="27443" text="Refresh" left="201" top="350" width="93" height="25"/>
 </Dialog>
-<Dialog id="18454" text="Senha" left="0" top="0" width="480" height="160">
+<Dialog id="18454" text="Senha" left="0" top="0" width="480" height="159">
 <dlgitem id="27455" text="" left="186" top="61" width="187" height="21"/>
 <dlgitem id="1" text="Aceitar" left="257" top="95" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="359" top="95" width="88" height="25"/>
@@ -6927,7 +7157,7 @@
 <dlgitem id="27497" text="Documento actual é protegido, Insira a senha de permissão." left="70" top="18" width="389" height="35"/>
 <dlgitem id="27500" text="Senha:" left="75" top="63" width="88" height="21"/>
 </Dialog>
-<Dialog id="18455" text="Password Protection" left="0" top="0" width="549" height="479">
+<Dialog id="18455" text="Password Protection" left="0" top="0" width="549" height="478">
 <dlgitem id="27519" text="Definições Abertura Documento" left="12" top="5" width="518" height="82"/>
 <dlgitem id="27445" text="Requer senha para abrir documento(&amp;o)" left="21" top="26" width="347" height="18"/>
 <dlgitem id="27517" text="Introduzir de senha:(&amp;u)" left="30" top="56" width="107" height="19"/>
@@ -6960,7 +7190,7 @@
 <dlgitem id="1" text="Aceitar" left="306" top="406" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="424" top="406" width="88" height="25"/>
 </Dialog>
-<Dialog id="18456" text="Gerir Politicas Segurança" left="0" top="0" width="697" height="477">
+<Dialog id="18456" text="Gerir Politicas Segurança" left="0" top="0" width="697" height="476">
 <dlgitem id="27506" text="Políticas:(&amp;P)" left="12" top="12" width="121" height="18"/>
 <dlgitem id="27473" text="Lista 1" left="12" top="32" width="184" height="368"/>
 <dlgitem id="0" text="" left="0" top="0" width="180" height="24"/>
@@ -6995,7 +7225,7 @@
 <dlgitem id="27437" text="Apagar(&amp;D)" left="487" top="408" width="88" height="25"/>
 <dlgitem id="1" text="Fechar" left="592" top="408" width="88" height="25"/>
 </Dialog>
-<Dialog id="18457" text="Foxit Security" left="0" top="0" width="445" height="148">
+<Dialog id="18457" text="Foxit Security" left="0" top="0" width="445" height="147">
 <dlgitem id="1" text="Aceitar" left="340" top="82" width="88" height="25"/>
 <dlgitem id="27496" text="W" left="23" top="23" width="32" height="32"/>
 <dlgitem id="27447" text="ABC" left="12" top="67" width="285" height="21"/>
@@ -7109,12 +7339,12 @@
 </Security_DLL>
 <SendCrashReport_DLL>
 <Dialogs>
-<Dialog id="12000" text="About SendCrashReport" left="0" top="0" width="424" height="146">
-<dlgitem id="12110" text="" left="25" top="19" width="35" height="35"/>
+<Dialog id="12000" text="About SendCrashReport" left="0" top="0" width="424" height="145">
+<dlgitem id="12110" text="" left="25" top="19" width="32" height="32"/>
 <dlgitem id="1" text="Aceitar" left="319" top="79" width="88" height="25"/>
 <dlgitem id="12109" text="This program is used to send the crash report. It need to work with the Main Application. Without this program, the crash report will not be sent." left="74" top="19" width="320" height="51"/>
 </Dialog>
-<Dialog id="12002" text="Send Crash Report" left="0" top="0" width="421" height="225">
+<Dialog id="12002" text="Send Crash Report" left="0" top="0" width="421" height="224">
 <dlgitem id="2" text="Aceitar" left="315" top="159" width="88" height="25"/>
 <dlgitem id="12104" text="Contacting server" left="117" top="28" width="285" height="14"/>
 <dlgitem id="12101" text="" left="12" top="140" width="390" height="12"/>
@@ -7197,19 +7427,19 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="18866" text="Error Message Box" left="0" top="0" width="519" height="174">
+<Dialog id="18866" text="Error Message Box" left="0" top="0" width="519" height="173">
 <dlgitem id="1" text="Aceitar" left="413" top="109" width="88" height="25"/>
 <dlgitem id="28213" text="I" left="21" top="26" width="37" height="35"/>
 <dlgitem id="28211" text="Please click this link to contact Foxit support:" left="72" top="65" width="429" height="18"/>
 <dlgitem id="28212" text="Online support." left="72" top="93" width="91" height="18"/>
 <dlgitem id="28210" text="ERROR MESSAGE" left="72" top="26" width="429" height="32"/>
 </Dialog>
-<Dialog id="18867" text="Choose Default Timestamp Server" left="0" top="0" width="561" height="458">
+<Dialog id="18867" text="Choose Default Timestamp Server" left="0" top="0" width="561" height="457">
 <dlgitem id="1" text="Ne&amp;xt (&amp;N)" left="448" top="394" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="343" top="394" width="88" height="25"/>
 <dlgitem id="28112" text="Time Stamp Server Show Location" left="4" top="2" width="541" height="383"/>
 </Dialog>
-<Dialog id="18868" text="Signature Selection" left="0" top="0" width="326" height="335">
+<Dialog id="18868" text="Signature Selection" left="0" top="0" width="326" height="334">
 <dlgitem id="1" text="Aceitar" left="126" top="271" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="221" top="271" width="88" height="25"/>
 <dlgitem id="28181" text="Mark Fields as Read-only" left="12" top="12" width="296" height="249"/>
@@ -7217,7 +7447,7 @@
 <dlgitem id="28124" text="Desseleccionar Tudo(&amp;D)" left="210" top="117" width="88" height="25"/>
 <dlgitem id="28157" text="Arvore 1" left="18" top="30" width="182" height="215"/>
 </Dialog>
-<Dialog id="18869" text="Time Stamp Sever" left="0" top="0" width="461" height="327">
+<Dialog id="18869" text="Time Stamp Sever" left="0" top="0" width="461" height="326">
 <dlgitem id="1" text="Aceitar" left="217" top="263" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="334" top="263" width="88" height="25"/>
 <dlgitem id="28214" text="Nome:(&amp;N)" left="21" top="25" width="67" height="19"/>
@@ -7253,7 +7483,7 @@
 <dlgitem id="28143" text="" left="53" top="165" width="242" height="128"/>
 <dlgitem id="28123" text="Editar...(&amp;E)" left="305" top="165" width="65" height="21"/>
 </Dialog>
-<Dialog id="18872" text="Configurar estilo da assinatura" left="0" top="0" width="473" height="556">
+<Dialog id="18872" text="Configurar estilo da assinatura" left="0" top="0" width="473" height="555">
 <dlgitem id="28173" text="Título:(&amp;T)" left="25" top="18" width="30" height="14"/>
 <dlgitem id="28155" text="" left="68" top="14" width="303" height="21"/>
 <dlgitem id="28186" text="Pré-visualizar" left="12" top="39" width="441" height="159"/>
@@ -7281,13 +7511,13 @@
 <dlgitem id="1" text="Aceitar" left="266" top="492" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="364" top="492" width="88" height="25"/>
 </Dialog>
-<Dialog id="18873" text="Signature Validation Status" left="0" top="0" width="515" height="216">
+<Dialog id="18873" text="Signature Validation Status" left="0" top="0" width="515" height="215">
 <dlgitem id="1" text="Propriedades Assinatura..." left="228" top="151" width="152" height="25"/>
 <dlgitem id="2" text="Cancelar" left="410" top="151" width="88" height="25"/>
 <dlgitem id="28201" text="" left="12" top="12" width="23" height="21"/>
 <dlgitem id="28180" text="" left="51" top="12" width="446" height="131"/>
 </Dialog>
-<Dialog id="18874" text="Assinar Documento" left="0" top="0" width="445" height="563">
+<Dialog id="18874" text="Assinar Documento" left="0" top="0" width="445" height="562">
 <dlgitem id="28188" text="Sign As:(&amp;A)" left="23" top="26" width="46" height="14"/>
 <dlgitem id="28149" text="" left="79" top="23" width="261" height="22"/>
 <dlgitem id="28119" text="Informação...(&amp;n)" left="348" top="23" width="74" height="23"/>
@@ -7310,7 +7540,7 @@
 <dlgitem id="28222" text="Sign(&amp;S)" left="256" top="497" width="79" height="25"/>
 <dlgitem id="2" text="Cancelar" left="343" top="497" width="79" height="25"/>
 </Dialog>
-<Dialog id="18875" text="Propriedades Assinatura" left="0" top="0" width="599" height="652">
+<Dialog id="18875" text="Propriedades Assinatura" left="0" top="0" width="599" height="651">
 <dlgitem id="28197" text="" left="77" top="257" width="464" height="42"/>
 <dlgitem id="28216" text="" left="65" top="452" width="497" height="109"/>
 <dlgitem id="28201" text="" left="12" top="12" width="35" height="35"/>
@@ -7345,7 +7575,7 @@
 <dlgitem id="28106" text="Set Default(&amp;S)" left="345" top="12" width="109" height="25"/>
 <dlgitem id="28117" text="" left="18" top="224" width="509" height="147"/>
 </Dialog>
-<Dialog id="18877" text="Timestamp Properties" left="0" top="0" width="480" height="220">
+<Dialog id="18877" text="Timestamp Properties" left="0" top="0" width="480" height="219">
 <dlgitem id="28204" text="Timestamp is embedded in the signature. Timestamps are  signed just as documents are signed. For a timestamp signature to be valid you must have trusted the Timestamp Authority that signed the timestamp." left="14" top="12" width="434" height="47"/>
 <dlgitem id="28205" text="Click Show Certificate to view details regarding verification of the timestamp signature. Click Add to trusted certificates to trust it." left="14" top="61" width="410" height="35"/>
 <dlgitem id="28206" text="Timestamp Authority:" left="16" top="107" width="124" height="25"/>
@@ -7354,7 +7584,7 @@
 <dlgitem id="2" text="Cancelar" left="355" top="145" width="88" height="25"/>
 <dlgitem id="28203" text="Mostrar ertificado...(&amp;S)" left="301" top="103" width="152" height="25"/>
 </Dialog>
-<Dialog id="18878" text="Trusted Certificates" left="0" top="0" width="452" height="407">
+<Dialog id="18878" text="Trusted Certificates" left="0" top="0" width="452" height="406">
 <dlgitem id="28218" text="Adicionar...(&amp;A)" left="19" top="18" width="88" height="25"/>
 <dlgitem id="28219" text="Apagar(&amp;D)" left="117" top="18" width="88" height="25"/>
 <dlgitem id="28221" text="Visualizar...(&amp;V)" left="221" top="18" width="88" height="25"/>
@@ -7542,6 +7772,7 @@
 <string id="19096" text="An unknown error occurred while importing the certificate."/>
 <string id="19097" text="The signature includes an embedded timestamp but it could not be verified."/>
 <string id="19098" text="Upexpected byte range values defining scope of signed data."/>
+<string id="28223" text="This certification cannot be used to sign this document, it cannot be added into the trusted certificates list."/>
 </Strings>
 </Signature_Dll>
 <SnapShot_Dll>
@@ -7626,7 +7857,7 @@
 <dlgitem id="31752" text="Desativar busca na Internet por arrasto mas use barras pop-up(&amp;D)" left="23" top="65" width="413" height="18"/>
 <dlgitem id="31755" text="Esconder Botão de Procura Ask.com(&amp;A)" left="23" top="95" width="394" height="18"/>
 </Dialog>
-<Dialog id="20952" text="Word Count" left="0" top="0" width="281" height="257">
+<Dialog id="20952" text="Word Count" left="0" top="0" width="281" height="256">
 <dlgitem id="31756" text="Statistics:" left="9" top="11" width="56" height="14"/>
 <dlgitem id="31758" text="Words" left="18" top="56" width="47" height="14"/>
 <dlgitem id="31759" text="Characters (no spaces)" left="18" top="75" width="147" height="14"/>
@@ -7686,7 +7917,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="21260" text="Cores do Visualizar de Texto" left="0" top="0" width="452" height="400">
+<Dialog id="21260" text="Cores do Visualizar de Texto" left="0" top="0" width="452" height="399">
 <dlgitem id="32389" text="Fundo" left="14" top="11" width="420" height="126"/>
 <dlgitem id="32395" text="vermelho:" left="30" top="32" width="23" height="14"/>
 <dlgitem id="32361" text="" left="56" top="32" width="70" height="25"/>
@@ -7717,7 +7948,7 @@
 <dlgitem id="1" text="Aceitar" left="247" top="334" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="347" top="334" width="88" height="25"/>
 </Dialog>
-<Dialog id="21261" text="Fonte do PDF ..." left="0" top="0" width="655" height="435">
+<Dialog id="21261" text="Fonte do PDF ..." left="0" top="0" width="655" height="434">
 <dlgitem id="32364" text="Lista 1" left="12" top="12" width="625" height="285"/>
 <dlgitem id="0" text="" left="0" top="0" width="621" height="24"/>
 <dlgitem id="32397" text="Alvo:" left="16" top="317" width="53" height="14"/>
@@ -7726,7 +7957,7 @@
 <dlgitem id="1" text="Aceitar" left="452" top="369" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="550" top="369" width="88" height="25"/>
 </Dialog>
-<Dialog id="21262" text="Configuração do Visualizador de Texto" left="0" top="0" width="452" height="369">
+<Dialog id="21262" text="Configuração do Visualizador de Texto" left="0" top="0" width="452" height="368">
 <dlgitem id="32383" text="Largura da Página Atual" left="14" top="14" width="420" height="84"/>
 <dlgitem id="32392" text="Largura Minima:" left="42" top="42" width="98" height="14"/>
 <dlgitem id="32362" text="" left="161" top="42" width="84" height="25"/>
@@ -7748,7 +7979,7 @@
 <dlgitem id="1" text="Aceitar" left="247" top="303" width="88" height="25"/>
 <dlgitem id="2" text="Cancelar" left="347" top="303" width="88" height="25"/>
 </Dialog>
-<Dialog id="21263" text="Save As TXT Setting" left="0" top="0" width="423" height="208">
+<Dialog id="21263" text="Save As TXT Setting" left="0" top="0" width="423" height="207">
 <dlgitem id="32367" text="Página Actual" left="30" top="33" width="277" height="18"/>
 <dlgitem id="32366" text="Todas Páginas" left="30" top="65" width="275" height="18"/>
 <dlgitem id="32369" text="Desde a Página" left="30" top="96" width="93" height="18"/>
@@ -7799,7 +8030,7 @@
 </Menus>
 <Dialogs>
 <Dialog id="21607" left="0" top="0" width="214" height="155"/>
-<Dialog id="21608" text="Escala Horizontal" left="0" top="0" width="360" height="236">
+<Dialog id="21608" text="Escala Horizontal" left="0" top="0" width="360" height="235">
 <dlgitem id="32989" text="Escala Horizontal:(&amp;H)" left="12" top="21" width="105" height="21"/>
 <dlgitem id="32986" text="" left="121" top="21" width="70" height="21"/>
 <dlgitem id="32987" text="%" left="193" top="21" width="18" height="21"/>
@@ -7807,7 +8038,7 @@
 <dlgitem id="32985" text="Aceitar(&amp;O)" left="250" top="21" width="88" height="25"/>
 <dlgitem id="32984" text="Cancelar(&amp;C)" left="250" top="49" width="88" height="25"/>
 </Dialog>
-<Dialog id="21609" text="Line Spacing" left="0" top="0" width="291" height="117">
+<Dialog id="21609" text="Line Spacing" left="0" top="0" width="291" height="116">
 <dlgitem id="32977" text="Definir valor corrente:(&amp;S)" left="12" top="12" width="114" height="21"/>
 <dlgitem id="32976" text="" left="130" top="12" width="88" height="21"/>
 <dlgitem id="32975" text="Aceitar(&amp;O)" left="21" top="47" width="88" height="25"/>
@@ -7822,7 +8053,7 @@
 <dlgitem id="32980" text="" left="14" top="175" width="35" height="21"/>
 <dlgitem id="32981" text="%" left="51" top="175" width="18" height="19"/>
 </Dialog>
-<Dialog id="21611" text="Espaço de Caracter" left="0" top="0" width="358" height="243">
+<Dialog id="21611" text="Espaço de Caracter" left="0" top="0" width="358" height="242">
 <dlgitem id="32996" text="Você pode expandir ou condensar a linha de texto usando espaçamento de caracteres diferentes:" left="12" top="12" width="326" height="42"/>
 <dlgitem id="32992" text="Expandir por:(&amp;E)" left="12" top="70" width="96" height="21"/>
 <dlgitem id="32993" text="" left="112" top="70" width="70" height="21"/>
@@ -7912,7 +8143,7 @@
 <string id="21798" text="Times Roman"/>
 <string id="21799" text="ZapfDingbats"/>
 <string id="21800" text="Cross something out by drawing a line through it"/>
-<string id="21801" text="Align the bottom side fo all selected objects"/>
+<string id="21801" text="Align the bottom side of all selected objects"/>
 <string id="21802" text="Align all selected objects horizontally"/>
 <string id="21803" text="Align the left side of all selected objects"/>
 <string id="21804" text="Align the right side of all selected objects"/>
@@ -8018,7 +8249,7 @@
 </menu>
 </Menus>
 <Dialogs>
-<Dialog id="102" text="Track Review" left="0" top="0" width="896" height="601"/>
+<Dialog id="102" text="Track Review" left="0" top="0" width="896" height="600"/>
 <Dialog id="129" left="0" top="0" width="277" height="550"/>
 <Dialog id="130" left="0" top="0" width="523" height="548"/>
 <Dialog id="131" left="0" top="0" width="616" height="548">
@@ -8128,20 +8359,20 @@
 <dlgitem id="1049" text="Expandir tudo" left="19" top="11" width="72" height="14"/>
 <dlgitem id="1050" text="Esconder tudo" left="107" top="11" width="72" height="14"/>
 </Dialog>
-<Dialog id="166" text="New Folder..." left="0" top="0" width="414" height="159">
+<Dialog id="166" text="New Folder..." left="0" top="0" width="414" height="158">
 <dlgitem id="1113" text="Enter the name for the new folder:" left="25" top="18" width="359" height="14"/>
 <dlgitem id="1052" text="" left="35" top="47" width="348" height="25"/>
 <dlgitem id="1" text="Aceitar" left="186" top="84" width="88" height="30"/>
 <dlgitem id="2" text="Cancelar" left="298" top="84" width="88" height="30"/>
 </Dialog>
-<Dialog id="168" text="Foxit" left="0" top="0" width="575" height="232">
+<Dialog id="168" text="Foxit" left="0" top="0" width="575" height="231">
 <dlgitem id="1055" text="" left="23" top="18" width="35" height="35"/>
 <dlgitem id="1053" text="Are you sure you want to remove the file &quot;%s&quot; from Tracker?" left="84" top="19" width="459" height="14"/>
 <dlgitem id="1054" text="Removing this folder will permanently end the reviews contained in it, and users will no longer be able to make comments. All comments are permanently removed from the server." left="84" top="56" width="459" height="72"/>
 <dlgitem id="1" text="Aceitar" left="347" top="149" width="88" height="32"/>
 <dlgitem id="2" text="Cancelar" left="455" top="149" width="88" height="32"/>
 </Dialog>
-<Dialog id="169" text="Foxit" left="0" top="0" width="515" height="199">
+<Dialog id="169" text="Foxit" left="0" top="0" width="515" height="198">
 <dlgitem id="1055" text="" left="16" top="18" width="35" height="35"/>
 <dlgitem id="1053" text="Are you sure you want to remove the file &quot;%s&quot; from Tracker?" left="65" top="19" width="432" height="42"/>
 <dlgitem id="1054" text="Removing this review file will permanently end the review, and users will no longer be able to make comments. All comments will be permanently removed from the server." left="65" top="61" width="432" height="54"/>
@@ -8164,10 +8395,10 @@
 <dlgitem id="1080" text="" left="28" top="93" width="567" height="446"/>
 <dlgitem id="0" text="" left="0" top="0" width="563" height="24"/>
 </Dialog>
-<Dialog id="187" left="0" top="0" width="578" height="482">
+<Dialog id="187" left="0" top="0" width="578" height="481">
 <dlgitem id="1103" text="&lt;Browser location&gt;" left="0" top="0" width="571" height="452"/>
 </Dialog>
-<Dialog id="241" left="0" top="0" width="379" height="173">
+<Dialog id="241" left="0" top="0" width="379" height="172">
 <dlgitem id="1" text="Aceitar" left="287" top="110" width="77" height="26"/>
 <dlgitem id="1120" text="" left="18" top="16" width="334" height="72"/>
 </Dialog>

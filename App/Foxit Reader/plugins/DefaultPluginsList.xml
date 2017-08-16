@@ -5,7 +5,7 @@
 		Description=""
 		PIPath="Updater.fpi"
 		LoadBehavior="0"
-		MinVersion="8.0.0.405"
+		MinVersion="8.2.0.1215"
 	/>
 
 	<Plugin Name="FoxitInnerPluginPlgDynLoader"
@@ -13,7 +13,7 @@
 		Description=""
 		PIPath="PlgDynLoader.fpi"
 		LoadBehavior="0"
-		MinVersion="1.1.6.422"
+		MinVersion="8.2.0.1206"
 	/>
 
 	<Plugin Name="FoxitInnerPluginCommentsSummary"
@@ -21,7 +21,7 @@
 		Description=""
 		PIPath="CommentsSummary.fpi"
 		LoadBehavior="9"
-		MinVersion="2.1.2.1225"
+		MinVersion="2.1.7.1209"
 	/>
 
 	<Plugin Name="FoxitInnerPluginComparePDF"
@@ -29,7 +29,7 @@
 		Description=""
 		PIPath="ComparePDF.fpi"
 		LoadBehavior="9"
-		MinVersion="1.0.2.426"
+		MinVersion="1.0.2.1213"
 	/>
 
 	<Plugin Name="FoxitInnerPluginDocuSign"
@@ -37,7 +37,7 @@
 		Description=""
 		PIPath="docusign_plugin.fpi"
 		LoadBehavior="9"
-		MinVersion="8.0.0.505"
+		MinVersion="8.2.0.1206"
 	/>
 
 	<Plugin Name="FileOpen"
@@ -53,7 +53,7 @@
 		Description=""
 		PIPath="FRMSPlgV2.fpi"
 		LoadBehavior="9"
-		MinVersion="8.0.0.519"
+		MinVersion="8.2.0.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginIntegrateWithSP"
@@ -61,7 +61,7 @@
 		Description=""
 		PIPath="IntegrateWithSP.fpi"
 		LoadBehavior="9"
-		MinVersion="2.3.6.422"
+		MinVersion="2.3.8.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginPageEditor"
@@ -77,7 +77,7 @@
 		Description=""
 		PIPath="CPDFOCLink.fpi"
 		LoadBehavior="3"
-		MinVersion="1.1.3.519"
+		MinVersion="8.0.0.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginReadOutLoud"
@@ -85,7 +85,7 @@
 		Description=""
 		PIPath="Speech.fpi"
 		LoadBehavior="9"
-		MinVersion="1.1.6.1228"
+		MinVersion="1.1.7.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginShareReview"
@@ -93,7 +93,7 @@
 		Description=""
 		PIPath="ShareReviewPlugin.fpi"
 		LoadBehavior="9"
-		MinVersion="1.2.3.520"
+		MinVersion="8.2.0.0"
 	/>
 	
 	<Plugin Name="CusIntelRMSPlg"
@@ -117,7 +117,7 @@
 		Description=""
 		PIPath="OneDrivePlugin.fpi"
 		LoadBehavior="9"
-		MinVersion="2.0.0.506"
+		MinVersion="2.0.1.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginGoogleDrive"
@@ -133,7 +133,7 @@
 		Description=""
 		PIPath="ActionWizard.fpi"
 		LoadBehavior="3"
-		MinVersion="1.0.0.428"
+		MinVersion="1.0.1.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginDropboxPlugin"
@@ -141,10 +141,10 @@
 		Description=""
 		PIPath="DropboxPlugin.fpi"
 		LoadBehavior="9"
-		MinVersion="1.0.0.429"
+		MinVersion="1.0.1.0"
 	/>
 	
-   <Plugin Name="FoxitInnerPluginEpubViewer"
+	<Plugin Name="FoxitInnerPluginEpubViewer"
 		FriendlyName="FoxitEpubViewer"
 		Description=""
 		PIPath="EpubViewer.fpi"
@@ -157,14 +157,15 @@
 		Description="ConnectedPDF DRM"
 		PIPath="ConnectedPDFDRM.fpi"
 		LoadBehavior="3"
-		MinVersion="1.0.0.521"
+		MinVersion="8.2.0.0"
+		CanNotDisable="1"
 	/>
 	<Plugin Name="FoxitInnerPluginFoxitAccountManagement"
 		FriendlyName="FoxitInnerPluginFoxitAccountManagement"
 		Description=""
 		PIPath="FoxitAccountManagement.fpi"
 		LoadBehavior="3"
-		MinVersion="3.9.168.519"
+		MinVersion="8.2.0.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginConnectedPDF"
@@ -172,7 +173,8 @@
 		Description=""
 		PIPath="ConnectedPDFPlugin.fpi"
 		LoadBehavior="3"
-		MinVersion="1.0.1.521"
+		MinVersion="8.2.0.0"
+		CanNotDisable="1"
 	/>
 
 	<Plugin Name="FoxitInnerPluginBrowser"
@@ -188,7 +190,7 @@
 		Description=""
 		PIPath="CloudReading.fpi"
 		LoadBehavior="3"
-		MinVersion="8.0.0.603"
+		MinVersion="8.2.0.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginFoxitArchiveConnector"
@@ -196,7 +198,7 @@
 		Description=""
 		PIPath="FoxitArchiveConnector.fpi"
 		LoadBehavior="3"
-		MinVersion="8.1.0.910"
+		MinVersion="8.2.0.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginLicenseManager"
@@ -204,7 +206,7 @@
 		Description=""
 		PIPath="LicenseManager.fpi"
 		LoadBehavior="3"
-		MinVersion="1.0.0.519"
+		MinVersion="1.0.0.1209"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginSubscribe"
@@ -220,7 +222,7 @@
 		Description=""
 		PIPath="NetDocuments.fpi"
 		LoadBehavior="9"
-		MinVersion="1.0.0.420"
+		MinVersion="1.1.0.0"
 	/>
 
 	<Plugin Name="FoxitInnerPluginBoxPlugin"
@@ -228,7 +230,7 @@
 		Description=""
 		PIPath="BoxPlugin.fpi"
 		LoadBehavior="9"
-		MinVersion="1.0.0.0"
+		MinVersion="1.0.1.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginU3DBrowser"
@@ -244,7 +246,7 @@
 		Description=""
 		PIPath="Dwg2Pdf.fpi"
 		LoadBehavior="2"
-		MinVersion="1.0.0.1"
+		MinVersion="1.0.1.0"
 	/>
 	
 	<Plugin Name="FoxitInnerPluginWorkSite"
@@ -254,5 +256,38 @@
 		LoadBehavior="3"
 		MinVersion=""
 	/>
+	
+	<Plugin Name="FoxitInnerPluginNdOffice"
+		FriendlyName="NdOffice"
+		Description="NdOffice"
+		PIPath="NdOffice.fpi"
+		LoadBehavior="9"
+		MinVersion=""
+	/>
 
+	<Plugin Name="FoxitInnerPluginContentSyndication"
+		FriendlyName="FoxitInnerPluginContentSyndication"
+		Description=""
+		PIPath="ContentSyndication.fpi"
+		LoadBehavior="3"
+		MinVersion="1.0.9.801"
+		CanNotDisable="1"
+	/>
+	
+	<Plugin Name="FoxitInnerPluginWebPDFTools"
+		FriendlyName="WebPDFTools"
+		Description=""
+		PIPath="WebPDFTools.fpi"
+		LoadBehavior="3"
+		MinVersion=""
+	/>
+
+	<Plugin Name="FoxitInnerPluginOpenText"
+		FriendlyName="OpenText Integration"
+		Description=""
+		PIPath="OpenText.fpi"
+		LoadBehavior="3"
+		MinVersion=""
+	/>
+	
 </DefaultPluginsList>

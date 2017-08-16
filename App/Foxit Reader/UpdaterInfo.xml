@@ -11,10 +11,10 @@
         <file path="FoxitReaderPathToReplace\lex\tech.tlx" />
         <file path="FoxitReaderPathToReplace\lex\userdic.tlx" />
     </module>
-    <module name="Foxit Cloud" version="8.1.1.1101">
+    <module name="Foxit Cloud" version="8.3.0.413">
         <file path="FoxitReaderPathToReplace\plugins\CloudReading.fpi" />
     </module>
-    <module name="U3DBrowser" version="1.0.1.922">
+    <module name="U3DBrowser" version="1.0.1.1206">
         <file path="FoxitReaderPathToReplace\plugins\U3DBrowser.fpi" />
     </module>
 </updater_info>

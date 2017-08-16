@@ -102,17 +102,17 @@ a{
 	font-weight:normal;
 }
 #content_right_top .visit_cpdf_privacy{color:#f68b24;text-decoration:underline;}
-#content_right_middle{
-	margin-top:10px;
-	height:165px;
-	background-color:#FFF;	
+#content_right_middle {
+    margin-top: 10px;
+    height: 165px;
+    background-color: #FFF;
 }
 #content_right_bottom{
 	margin-top:10px;
 	height:154px;
 	background-color:#FFF;	
 }
-#content_right_middle .right_middle_title,#content_right_bottom .right_bottom_title{
+#content_right_middle .right_middle_title, #content_right_bottom .right_bottom_title{
 	font-family: Open Sans, Arial,Tahoma, sans-serif;
 	color:#494949;
 	line-height:37px;
