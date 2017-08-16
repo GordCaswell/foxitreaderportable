@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Reader version="8.3.0.14878" language="French" publisher="Foxit" lastdate="2017-05-21">
+<Reader version="8.3.1.21155" language="French" publisher="Foxit" lastdate="2017-07-03">
 <Font>
 <PreFont FaceName="Tahoma" Charset="0"/>
 </Font>
@@ -30,7 +30,7 @@
 <dlgitem id="1144" text="Précédent(&amp;B)" left="413" top="392" width="88" height="25"/>
 <dlgitem id="1030" text="" left="0" top="387" width="609" height="2"/>
 <dlgitem id="1033" text="Activer(&amp;A)" left="58" top="355" width="88" height="25"/>
-<dlgitem id="2005" text="Activer" left="58" top="193" width="74" height="21"/>
+<dlgitem id="2005" text="Perpetual License" left="58" top="193" width="138" height="21"/>
 <dlgitem id="2003" text="Image" left="12" top="184" width="32" height="32"/>
 <dlgitem id="2006" text="Image" left="12" top="75" width="32" height="32"/>
 <dlgitem id="2004" text="Souscription" left="58" top="79" width="100" height="19"/>
@@ -2367,6 +2367,10 @@
 <Dialog id="555" left="0" top="0" width="235" height="277">
 <dlgitem id="57" text="Effacer" left="7" top="9" width="44" height="21"/>
 <dlgitem id="56" text="" left="187" top="0" width="47" height="46"/>
+<dlgitem id="1354" text="＜" left="54" top="9" width="28" height="18"/>
+<dlgitem id="1355" text="＞" left="149" top="9" width="25" height="18"/>
+<dlgitem id="1356" text="0" left="210" top="30" width="21" height="14"/>
+<dlgitem id="1357" text="x of xxx" left="60" top="40" width="109" height="32"/>
 </Dialog>
 <Dialog id="556" text="Contenu multimédia" left="0" top="0" width="620" height="221">
 <dlgitem id="1" text="Jouer" left="413" top="156" width="88" height="25"/>
@@ -2649,7 +2653,7 @@
 <dlgitem id="173" text="" left="166" top="340" width="142" height="22"/>
 <dlgitem id="130" text="Contrôle de direction de la navigation(&amp;v)" left="322" top="341" width="184" height="18"/>
 </Dialog>
-<Dialog id="587" left="0" top="0" width="550" height="417">
+<Dialog id="587" left="0" top="0" width="550" height="476">
 <dlgitem id="440" text="Outils de base" left="0" top="0" width="536" height="133"/>
 <dlgitem id="116" text="Utilisez une résolution fixe pour les Snapshots(&amp;n)" left="12" top="23" width="235" height="18"/>
 <dlgitem id="435" text="Résol&amp;ution :(&amp;u)" left="261" top="25" width="86" height="18"/>
@@ -2664,14 +2668,16 @@
 <dlgitem id="450" text="(points:140-360)" left="231" top="158" width="114" height="18"/>
 <dlgitem id="395" text="" left="0" top="210" width="536" height="70"/>
 <dlgitem id="151" text="Masquer automatiquement la barre d'état(&amp;A)" left="12" top="231" width="144" height="18"/>
-<dlgitem id="446" text="Démarrage de l'application" left="0" top="285" width="536" height="102"/>
-<dlgitem id="149" text="Afficher la Page de Démarrage(&amp;o)" left="12" top="308" width="138" height="18"/>
-<dlgitem id="134" text="Seuls les plug-in certifiés sont autorisés.(&amp;i)" left="12" top="336" width="296" height="18"/>
-<dlgitem id="92" text="Montrer message(s) publicitaire(s)(&amp;d)" left="231" top="308" width="144" height="18"/>
+<dlgitem id="446" text="Démarrage de l'application" left="0" top="350" width="536" height="102"/>
+<dlgitem id="149" text="Afficher la Page de Démarrage(&amp;o)" left="12" top="376" width="138" height="18"/>
+<dlgitem id="134" text="Seuls les plug-in certifiés sont autorisés.(&amp;i)" left="12" top="403" width="296" height="18"/>
+<dlgitem id="92" text="Montrer message(s) publicitaire(s)(&amp;d)" left="231" top="376" width="144" height="18"/>
 <dlgitem id="83" text="Show scroll lock button(&amp;c)" left="12" top="256" width="156" height="18"/>
 <dlgitem id="84" text="Double-click to close a tab(&amp;b)" left="12" top="182" width="508" height="14"/>
-<dlgitem id="105" text="Disable ConnectedPDF features(&amp;f)" left="12" top="333" width="257" height="18"/>
-<dlgitem id="142" text="Show floating promotion page(&amp;p)" left="12" top="357" width="194" height="18"/>
+<dlgitem id="105" text="Disable ConnectedPDF features(&amp;f)" left="12" top="403" width="257" height="18"/>
+<dlgitem id="142" text="Show floating promotion page(&amp;p)" left="12" top="429" width="194" height="18"/>
+<dlgitem id="1360" text="Notification Messages" left="0" top="287" width="536" height="54"/>
+<dlgitem id="1359" text="Don’t automatically expand notification messages(&amp;m)" left="12" top="310" width="296" height="18"/>
 </Dialog>
 <Dialog id="588" left="0" top="0" width="550" height="243">
 <dlgitem id="365" text="Historique" left="0" top="0" width="536" height="168"/>
@@ -3211,7 +3217,7 @@
 <string id="908" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
 <string id="909" text="A propos de %s(&amp;A)"/>
 <string id="910" text="A propos de %s(&amp;A)"/>
-<string id="911" text="8.3.0.65535"/>
+<string id="911" text="8.3.1.65535"/>
 <string id="912" text="Version:"/>
 <string id="913" text="Droit d'accès"/>
 <string id="914" text="Attribué"/>
@@ -3610,6 +3616,7 @@
 <string id="1345" text="Après"/>
 <string id="1346" text="Restart the application in order for these changes to take effect."/>
 <string id="1347" text="Oui"/>
+<string id="1358" text="sur"/>
 <string id="32768" text="Afficher l'aide pour l'utilisation de %s en ligne de commande\nAide en ligne de commande"/>
 <string id="32770" text="Définir %s comme lecteur PDF par défaut\nRégler les paramètres par défaut de PDF Reader"/>
 <string id="57345" text="Prête"/>
@@ -4957,8 +4964,15 @@
 <string id="10250" text="ConnectedPDF"/>
 <string id="10251" text="ConnectedPDF"/>
 <string id="10252" text="Connected Discussion"/>
-<string id="10253" text="Plugin is loading. Please try it again later."/>
-<string id="10254" text="Internet connection is required to use this feature. Please check your network and try again."/>
+<string id="10253" text="Discussion board"/>
+<string id="10254" text="Use the discussion board to view and add web-based discussion on the document."/>
+<string id="10255" text="Form Distribution"/>
+<string id="10256" text="Plugin is loading. Please try it again later."/>
+<string id="10257" text="Internet connection is required to use this feature. Please check your network and try again."/>
+<string id="10258" text="Loading JS plug-in ..."/>
+<string id="10259" text="Learn More"/>
+<string id="10260" text="I Know"/>
+<string id="10261" text="Partager"/>
 </Strings>
 </JavaScript_DLL>
 <LayerPanelTool_DLL>
@@ -6846,6 +6860,7 @@
 <string id="17709" text="Vide/Nul"/>
 <string id="17710" text="Témoin"/>
 <string id="17711" text="Updating data"/>
+<string id="17712" text="Failed to create stamp from clipboard."/>
 </Strings>
 </RStampAnnot_DLL>
 <Scanner_DLL>

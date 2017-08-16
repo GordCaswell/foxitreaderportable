@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Reader version="8.3.0.14878" language="Turkish" publisher="Foxit" lastdate="2017-05-21">
+<Reader version="8.3.1.21155" language="Turkish" publisher="Foxit" lastdate="2017-07-04">
 <Font>
 <PreFont FaceName="Tahoma" Charset="0"/>
 </Font>
@@ -30,7 +30,7 @@
 <dlgitem id="1144" text="&lt; Geri(&amp;B)" left="413" top="392" width="88" height="25"/>
 <dlgitem id="1030" text="" left="0" top="387" width="609" height="2"/>
 <dlgitem id="1033" text="Etkinleştir(&amp;A)" left="58" top="355" width="88" height="25"/>
-<dlgitem id="2005" text="Etkinleştir" left="58" top="193" width="74" height="21"/>
+<dlgitem id="2005" text="Perpetual License" left="58" top="193" width="138" height="21"/>
 <dlgitem id="2003" text="Resim" left="12" top="184" width="32" height="32"/>
 <dlgitem id="2006" text="Resim" left="12" top="75" width="32" height="32"/>
 <dlgitem id="2004" text="Abone" left="58" top="79" width="100" height="19"/>
@@ -54,7 +54,7 @@
 <dlgitem id="4294967295" text="" left="0" top="390" width="613" height="2"/>
 <dlgitem id="1027" text="Kayıtlı Kullanıcı mısınız? Burayı Tıklayın" left="7" top="403" width="215" height="21"/>
 <dlgitem id="1144" text="Geri(&amp;B)" left="291" top="399" width="88" height="25"/>
-<dlgitem id="2" text="Cancle(&amp;C)" left="511" top="399" width="88" height="25"/>
+<dlgitem id="2" text="İptal(&amp;C)" left="511" top="399" width="88" height="25"/>
 <dlgitem id="1" text="Şimdi Kayıt ettir(&amp;N)" left="401" top="399" width="88" height="25"/>
 <dlgitem id="1031" text="*" left="434" top="180" width="14" height="14"/>
 <dlgitem id="1032" text="*" left="434" top="217" width="14" height="14"/>
@@ -67,9 +67,9 @@
 <dlgitem id="1023" text="Purchase Now(&amp;P)" left="46" top="343" width="105" height="23"/>
 <dlgitem id="1037" text="Deneme sürümüne devam et.(&amp;C)" left="453" top="343" width="121" height="23"/>
 <dlgitem id="1133" text="Görüntü(PNG)" left="0" top="0" width="618" height="70"/>
-<dlgitem id="1136" text="Your evaluation or license period for %s has expired." left="33" top="82" width="555" height="35"/>
+<dlgitem id="1136" text="%s için değerlendirme sürümünün veya lisansın süresi doldu." left="33" top="82" width="555" height="35"/>
 <dlgitem id="1025" text="Lütfen aşağıdaki seçeneklerden birini seçin:" left="33" top="116" width="490" height="14"/>
-<dlgitem id="1132" text="Activate if you already have a license or subscription to %s." left="242" top="228" width="168" height="40"/>
+<dlgitem id="1132" text="Lisansınız varsa etkinleştirin veya %s ye abone olun.." left="242" top="228" width="168" height="40"/>
 <dlgitem id="1026" text="sales@foxitsoftware.com" left="23" top="259" width="186" height="19"/>
 <dlgitem id="1038" text="Back to the free %s edition if you do not plan to get a license now." left="439" top="228" width="161" height="56"/>
 <dlgitem id="1147" text="Purchase a license for %s or contact us at:" left="23" top="228" width="186" height="30"/>
@@ -114,7 +114,7 @@
 <string id="1174" text="This account doesn't have an active subscription to %s.  \nIf you want to subscribe, you can click on Help &gt; Subscribe."/>
 <string id="1175" text="Purchase a license for %s or contact us at:"/>
 <string id="1176" text="This operation will replace the %s%[1] file under the %s%[2] directory. Are you sure you want to replace it?"/>
-<string id="1177" text="Activate if you already have a license or subscription to %s."/>
+<string id="1177" text="Lisansınız varsa etkinleştirin veya %s ye abone olun.."/>
 <string id="1178" text="License key file generation failed. The failure may be due to one of the following causes:\n\n1.The key file is available in the %s%[1] directory but is currently read-only.\n2.The current user account doesn't have permission to modify the %s%[2] directory.\n\nPlease try it again after checking the file property and the operation permission of the directory."/>
 <string id="1179" text="Register now to start %d%[1]-day free trial of %s%[2] edition."/>
 <string id="1180" text="Foxit Redactor for Office"/>
@@ -187,10 +187,10 @@
 <string id="1322" text="Please input your User Name to finish the activation."/>
 <string id="1324" text="Ürün Kodu Hatalı. Hata Kodu: %s"/>
 <string id="1329" text="Please fill in the User Name Field below to finish your activation.\nYou will need to connect to the Internet."/>
-<string id="1330" text="You should use license key file to activate %s%[1] on Windows Server, please contact Foxit Sales at %s%[2] for more details. You can keep your 14 days free trail on Server."/>
+<string id="1330" text="Windows Sunucuda %s%[1] yı etkinleştirmek için lisans anahtar dosyası kullanmalısınız, daha fazla bilgi için lütfen %s%[1] deki Foxit Satıcısıyle irtibata geçin. Sunucudaki 14 günlük bedava sürümünü duracaktır.."/>
 <string id="1335" text="Kayıt kodu bu sürümü etkinleştiremez(Kod:%s)."/>
 <string id="1342" text="Would you like to remove some %s%[1] edition-specific features such as OCR to save space on your computer? \nYou can download them again after purchasing the %s%[2] edition."/>
-<string id="1367" text="Your 14-day evaluation period for %s has expired."/>
+<string id="1367" text="%s için 14 günlük değerlendirme süreniz doldu."/>
 <string id="1368" text="Geri %s"/>
 <string id="1374" text="Ücretsiz Deneme(&amp;F)"/>
 <string id="1379" text="Ücretsiz Deneme"/>
@@ -489,7 +489,7 @@
 <string id="2407" text="Inch"/>
 <string id="2408" text="Pika"/>
 <string id="2409" text="pt"/>
-<string id="2410" text="3D PDF content found"/>
+<string id="2410" text="3D PDF içeriği bulundu."/>
 </Strings>
 </BaseAnnot_DLL>
 <BaseForm_DLL>
@@ -614,7 +614,7 @@
 <dlgitem id="2860" text="" left="96" top="93" width="23" height="23"/>
 </Dialog>
 <Dialog id="3112" left="0" top="0" width="302" height="193"/>
-<Dialog id="3114" text="Add a new content of table" left="0" top="0" width="536" height="235">
+<Dialog id="3114" text="Yeni bir tablo içeriği ekle" left="0" top="0" width="536" height="235">
 <dlgitem id="2867" text="Select the bookmark levels that should be converted into items in the table of contents. Bookmarks nested more than 4 levels cannot be converted." left="33" top="26" width="445" height="35"/>
 <dlgitem id="1" text="Tamam" left="306" top="165" width="88" height="25"/>
 <dlgitem id="2" text="İptal" left="399" top="165" width="88" height="25"/>
@@ -684,10 +684,10 @@
 <Clipbrd_Dll/>
 <Comments_Dll>
 <Strings>
-<string id="3525" text="Color Button 1"/>
-<string id="3526" text="Color Button 2"/>
-<string id="3527" text="Color Button 3"/>
-<string id="3528" text="Color Button 4"/>
+<string id="3525" text="1. Renk Düğmesi"/>
+<string id="3526" text="2. Renk Düğmesi"/>
+<string id="3527" text="3. Renk Düğmesi"/>
+<string id="3528" text="4. Renk Düğmesi"/>
 <string id="3529" text="Exit Tool Button"/>
 <string id="3530" text="More Colors Button"/>
 <string id="3531" text="Keep tool checkbox"/>
@@ -700,7 +700,7 @@
 <string id="3544" text="Dolambaçlı Altı çizili"/>
 <string id="3545" text="Dışarı çıkarmak"/>
 <string id="3546" text="Satır altında"/>
-<string id="3547" text="Area Highlight Tool"/>
+<string id="3547" text="Alan Vurgulama Aracı"/>
 <string id="3548" text="Düzeltme İmi Aracı"/>
 <string id="3549" text="Vurgulama Aracı"/>
 <string id="3550" text="REPLACE TOOL"/>
@@ -871,12 +871,12 @@
 <dlgitem id="4123" text="İçinde" left="466" top="205" width="14" height="14"/>
 </Dialog>
 <Dialog id="4040" left="0" top="0" width="506" height="532">
-<dlgitem id="4099" text="Convert only" left="40" top="65" width="128" height="25"/>
-<dlgitem id="4103" text="Convert the entire site" left="40" top="175" width="429" height="25"/>
+<dlgitem id="4099" text="Sadece dönüştür" left="40" top="65" width="128" height="25"/>
+<dlgitem id="4103" text="Tüm siteyi dönüştür" left="40" top="175" width="429" height="25"/>
 <dlgitem id="4084" text="L" left="196" top="65" width="102" height="25"/>
 <dlgitem id="4101" text="Level(s)" left="317" top="65" width="95" height="25"/>
-<dlgitem id="4091" text="Convert webpages on the same path" left="60" top="103" width="399" height="25"/>
-<dlgitem id="4093" text="Convert webpages on the same server" left="60" top="138" width="399" height="25"/>
+<dlgitem id="4091" text="Aynı yoldaki web sayfalarını dönüştür" left="60" top="103" width="399" height="25"/>
+<dlgitem id="4093" text="Aynı sunucudaki web sayfalarını dönüştür" left="60" top="138" width="399" height="25"/>
 <dlgitem id="4098" text="Coversion Level" left="23" top="33" width="467" height="182"/>
 <dlgitem id="4105" text="PDF Setting" left="23" top="235" width="467" height="158"/>
 <dlgitem id="4109" text="ZamanAşımını Ayarla:" left="40" top="268" width="84" height="25"/>
@@ -997,19 +997,19 @@
 <string id="4027" text="Toplam %d Dosya"/>
 <string id="4028" text="Points\nInches\nCentimeters\nPicas\nMillimeters"/>
 <string id="4029" text="XPS"/>
-<string id="4030" text="CAD files"/>
+<string id="4030" text="CAD dosyaları"/>
 <string id="4031" text="From Web Page"/>
 <string id="4032" text="Create a PDF from content on the web pages"/>
 <string id="4033" text="Range"/>
-<string id="4034" text="Choose Pages(&amp;P)"/>
+<string id="4034" text="Sayfaları Seç(&amp;P)"/>
 <string id="4035" text="Choose Sheets(&amp;h)"/>
 <string id="4036" text="Tümü"/>
 <string id="4037" text="Web Page Conversion Settings"/>
 <string id="4038" text="Özel"/>
 <string id="4039" text="Invalid numeric format."/>
 <string id="4040" text="The value must be between %d%[1] and %d%[2]."/>
-<string id="4041" text="Connecting"/>
-<string id="4042" text="Can't connect to the server"/>
+<string id="4041" text="Bağlanıyor"/>
+<string id="4042" text="Sunucuya bağlanılamadı"/>
 <string id="4043" text="The operation may take a large amount of system resources or hard disk space. \nAnd it will save the file firstly. Do you want to continue?"/>
 <string id="4044" text="Don’t show this message again"/>
 <string id="4045" text="Durum"/>
@@ -1027,7 +1027,7 @@
 <string id="4057" text="İptal"/>
 <string id="4058" text="PDF file(*.pdf)"/>
 <string id="4059" text="Digital signatures are removed during merge"/>
-<string id="4060" text="Certified document cannot be merged"/>
+<string id="4060" text="Sertifikalı belge birleştirilemez"/>
 </Strings>
 </ConvertToPDF_DLL>
 <DocProcess_DLL>
@@ -1744,12 +1744,12 @@
 <dlgitem id="7740" text="" left="137" top="105" width="49" height="23"/>
 <dlgitem id="7738" text="%" left="187" top="105" width="30" height="23"/>
 <dlgitem id="7743" text="" left="126" top="151" width="205" height="28"/>
-<dlgitem id="7776" text="Appearance of search result:" left="21" top="23" width="165" height="14"/>
+<dlgitem id="7776" text="Arama sonuçları görünümü:" left="21" top="23" width="165" height="14"/>
 </Dialog>
 <Dialog id="6226" left="0" top="0" width="277" height="495">
 <dlgitem id="7762" text="" left="9" top="91" width="259" height="21"/>
 <dlgitem id="7775" text="Sadece tüm sözcükler(&amp;W)" left="9" top="123" width="186" height="18"/>
-<dlgitem id="7774" text="Case Sensitive(&amp;C)" left="9" top="145" width="161" height="18"/>
+<dlgitem id="7774" text="Büyük/Küçük Harf Duyarlı(&amp;C)" left="9" top="145" width="161" height="18"/>
 <dlgitem id="7765" text="Öncekini bul(&amp;P)" left="9" top="177" width="82" height="25"/>
 <dlgitem id="7764" text="Sonrakini Bul(&amp;N)" left="98" top="177" width="82" height="25"/>
 <dlgitem id="7773" text="Değiştir(&amp;R)" left="186" top="177" width="82" height="25"/>
@@ -1838,8 +1838,8 @@
 <string id="6281" text="Yeni Arama"/>
 <string id="6282" text="Dur"/>
 <string id="6283" text="Belge:"/>
-<string id="6284" text="%s has finished searching the whole document. No more matches were found."/>
-<string id="6285" text="%s has finished searching the whole document. No more matches were found."/>
+<string id="6284" text="%s tüm dokümanı aramayı bitirdi. Başka bir eşleşme bulunmadı.."/>
+<string id="6285" text="%s tüm dokümanı aramayı bitirdi. Başka bir eşleşme bulunmadı.."/>
 <string id="6286" text="İçinde:"/>
 <string id="6287" text="%s belgedeki arama tamamlandı. Herhangi bir sonuç bulunamadı.."/>
 <string id="6288" text="%s belgedeki arama tamamlandı. Herhangi bir sonuç bulunamadı.."/>
@@ -2150,7 +2150,7 @@
 <menuitem id="65535" text="Dosya(&amp;F)"/>
 </menu>
 <menu id="1329">
-<popup id="|0" text="About">
+<popup id="|0" text="Hakkında">
 <menuitem id="32818" text="Copy Version(&amp;C)"/>
 </popup>
 </menu>
@@ -2367,6 +2367,10 @@
 <Dialog id="555" left="0" top="0" width="235" height="277">
 <dlgitem id="57" text="Temizle" left="7" top="9" width="44" height="21"/>
 <dlgitem id="56" text="" left="187" top="0" width="47" height="46"/>
+<dlgitem id="1354" text="＜" left="54" top="9" width="28" height="18"/>
+<dlgitem id="1355" text="＞" left="149" top="9" width="25" height="18"/>
+<dlgitem id="1356" text="0" left="210" top="30" width="21" height="14"/>
+<dlgitem id="1357" text="x of xxx" left="60" top="40" width="109" height="32"/>
 </Dialog>
 <Dialog id="556" text="Çoklu Ortam İçeriği" left="0" top="0" width="620" height="221">
 <dlgitem id="1" text="Oynat" left="413" top="156" width="88" height="25"/>
@@ -2407,7 +2411,7 @@
 <dlgitem id="368" text="" left="21" top="21" width="32" height="32"/>
 <dlgitem id="405" text="Bu dosyanın başlatılması PDF program tarafından ayarlanır, fakat Güvenli Okuma Modunda olduğunuzdan işleme şu anda izin verilmiyor." left="74" top="21" width="513" height="33"/>
 <dlgitem id="106" text="Güvenli Okuma modunu devre dışı bırak ve dosyayı aç" left="74" top="63" width="483" height="18"/>
-<dlgitem id="107" text="Add current file to privileged locations" left="74" top="93" width="231" height="18"/>
+<dlgitem id="107" text="Geçerli dosyayı ayrıcalıklı yerlere ekleyin" left="74" top="93" width="231" height="18"/>
 <dlgitem id="2" text="İptal" left="499" top="130" width="88" height="25"/>
 <dlgitem id="4294967295" text="" left="306" top="93" width="32" height="32"/>
 </Dialog>
@@ -2506,7 +2510,7 @@
 <Dialog id="574" text="Lisans bilgileri" left="0" top="0" width="487" height="263">
 <dlgitem id="1" text="Tamam" left="375" top="198" width="93" height="25"/>
 <dlgitem id="206" text="" left="21" top="12" width="441" height="173"/>
-<dlgitem id="497" text="Copy All Info" left="270" top="198" width="93" height="25"/>
+<dlgitem id="497" text="Tüm Bilgiyi Kopyala" left="270" top="198" width="93" height="25"/>
 </Dialog>
 <Dialog id="575" text="İletişim" left="0" top="0" width="599" height="151">
 <dlgitem id="1" text="Tamam" left="494" top="86" width="88" height="25"/>
@@ -2562,7 +2566,7 @@
 <Dialog id="582" left="0" top="0" width="539" height="453">
 <dlgitem id="385" text="Ayarları Aç" left="0" top="0" width="536" height="137"/>
 <dlgitem id="129" text="Çoklu İzin Ver(&amp;A)" left="16" top="16" width="481" height="16"/>
-<dlgitem id="94" text="Alert user when documents request Full Screen(&amp;F)" left="16" top="39" width="481" height="18"/>
+<dlgitem id="94" text="Belge Tam Ekran istediğinde kullanıcıya alarm ver(&amp;F)" left="16" top="39" width="481" height="18"/>
 <dlgitem id="484" text="Web Tarayıcıda, PDF dosyalarını varsayılan olarak okuma modunda görüntüle(&amp;w)" left="16" top="61" width="481" height="18"/>
 <dlgitem id="410" text="Foxit PhantomPDF'de, lütfen PDF dosya görüntüleme modunu seçin:" left="16" top="91" width="315" height="35"/>
 <dlgitem id="170" text="" left="362" top="95" width="133" height="22"/>
@@ -2649,7 +2653,7 @@
 <dlgitem id="173" text="" left="166" top="340" width="142" height="22"/>
 <dlgitem id="130" text="Gezinti kontrol yönü(&amp;v)" left="322" top="341" width="184" height="18"/>
 </Dialog>
-<Dialog id="587" left="0" top="0" width="550" height="417">
+<Dialog id="587" left="0" top="0" width="550" height="476">
 <dlgitem id="440" text="Temel Araçlar" left="0" top="0" width="536" height="133"/>
 <dlgitem id="116" text="Kullanılan netlikte ekran alıntısı(&amp;n)" left="12" top="23" width="235" height="18"/>
 <dlgitem id="435" text="Çözünürlük:(&amp;u)" left="261" top="25" width="86" height="18"/>
@@ -2664,14 +2668,16 @@
 <dlgitem id="450" text="(Noktalar:140-360)" left="231" top="158" width="114" height="18"/>
 <dlgitem id="395" text="Durum çubuğu" left="0" top="210" width="536" height="70"/>
 <dlgitem id="151" text="Durum Çubuğunu Otomatik Gizle(&amp;A)" left="12" top="231" width="144" height="18"/>
-<dlgitem id="446" text="Uygulama başlatıldı" left="0" top="285" width="536" height="102"/>
-<dlgitem id="149" text="Başlat Sayfasını Göster(&amp;o)" left="12" top="308" width="138" height="18"/>
-<dlgitem id="134" text="Sadece sertifikalı eklentilere izin ver(&amp;i)" left="12" top="336" width="296" height="18"/>
-<dlgitem id="92" text="Reklamı Göster(&amp;d)" left="231" top="308" width="144" height="18"/>
+<dlgitem id="446" text="Uygulama başlatıldı" left="0" top="350" width="536" height="102"/>
+<dlgitem id="149" text="Başlat Sayfasını Göster(&amp;o)" left="12" top="376" width="138" height="18"/>
+<dlgitem id="134" text="Sadece sertifikalı eklentilere izin ver(&amp;i)" left="12" top="403" width="296" height="18"/>
+<dlgitem id="92" text="Reklamı Göster(&amp;d)" left="231" top="376" width="144" height="18"/>
 <dlgitem id="83" text="Show scroll lock button(&amp;c)" left="12" top="256" width="156" height="18"/>
 <dlgitem id="84" text="Sekmeyi kapatmak için çift tıklayın(&amp;b)" left="12" top="182" width="508" height="14"/>
-<dlgitem id="105" text="ConnectedPDF özelliklerini devre dışı bırak.(&amp;f)" left="12" top="333" width="257" height="18"/>
-<dlgitem id="142" text="Show floating promotion page(&amp;p)" left="12" top="357" width="194" height="18"/>
+<dlgitem id="105" text="ConnectedPDF özelliklerini devre dışı bırak.(&amp;f)" left="12" top="403" width="257" height="18"/>
+<dlgitem id="142" text="Show floating promotion page(&amp;p)" left="12" top="429" width="194" height="18"/>
+<dlgitem id="1360" text="Notification Messages" left="0" top="287" width="536" height="54"/>
+<dlgitem id="1359" text="Don’t automatically expand notification messages(&amp;m)" left="12" top="310" width="296" height="18"/>
 </Dialog>
 <Dialog id="588" left="0" top="0" width="550" height="243">
 <dlgitem id="365" text="Geçmiş" left="0" top="0" width="536" height="168"/>
@@ -2771,7 +2777,7 @@
 <dlgitem id="53" text="Gelişmiş Ayarlar...(&amp;A)" left="313" top="208" width="180" height="25"/>
 <dlgitem id="473" text="Open %s from applications without valid digital signatures" left="4" top="369" width="536" height="145"/>
 <dlgitem id="68" text="Ayarları Değiştir...(&amp;h)" left="317" top="478" width="180" height="25"/>
-<dlgitem id="505" text="%s will show a warning message when an application without a vaild digital signature attempts to open it. \n \nYou can add trusted applications using the button below." left="23" top="399" width="488" height="67"/>
+<dlgitem id="505" text="Bir uygulama geçerli bir dijital imzası olmadan açmaya çalıştığında %s bir uyarı penceresi gösterir. Aşağıdaki düğmeyi kullanarak güvenilen uygulamalara ekleyebilirsiniz.." left="23" top="399" width="488" height="67"/>
 </Dialog>
 <Dialog id="596" text="Foxit Reader" left="0" top="0" width="571" height="173">
 <dlgitem id="278" text="Yeniden başlat" left="366" top="107" width="88" height="25"/>
@@ -2867,7 +2873,7 @@
 <dlgitem id="89" text="Remember your choice for this application." left="74" top="154" width="422" height="18"/>
 <dlgitem id="459" text="Foxit PhantomPDF has been opened by the following app without a valid signature. This may indicate a security issue. If you know what's going on and would like to continue, click &quot;OK&quot;. If you're not sure, click &quot;Cancel&quot;." left="74" top="21" width="418" height="51"/>
 <dlgitem id="204" text="" left="74" top="96" width="422" height="46"/>
-<dlgitem id="460" text="App:" left="74" top="74" width="46" height="19"/>
+<dlgitem id="460" text="Uygulama:" left="74" top="74" width="46" height="19"/>
 <dlgitem id="368" text="" left="21" top="21" width="32" height="32"/>
 </Dialog>
 <Dialog id="608" text="Siteleri Yönet" left="0" top="0" width="535" height="669">
@@ -2898,7 +2904,7 @@
 <dlgitem id="2" text="İptal" left="221" top="82" width="88" height="25"/>
 </Dialog>
 <Dialog id="610" text="Trusted Apps..." left="0" top="0" width="536" height="508">
-<dlgitem id="504" text="Allowed Apps (C:Program FilesExampleexample.exe):" left="21" top="65" width="466" height="19"/>
+<dlgitem id="504" text="İzinli Uygulamalar (C:Program FilesExampleexample.exe):" left="21" top="65" width="466" height="19"/>
 <dlgitem id="498" text="" left="21" top="95" width="481" height="23"/>
 <dlgitem id="499" text="İzin Ver(&amp;A)" left="413" top="124" width="88" height="25"/>
 <dlgitem id="60" text="Sil(&amp;D)" left="21" top="194" width="88" height="25"/>
@@ -2906,9 +2912,9 @@
 <dlgitem id="0" text="" left="0" top="0" width="477" height="24"/>
 <dlgitem id="1" text="Tamam" left="334" top="443" width="88" height="25"/>
 <dlgitem id="2" text="İptal" left="431" top="443" width="88" height="25"/>
-<dlgitem id="502" text="Applications in the list below will not show warning messages when they open %s" left="11" top="12" width="508" height="21"/>
+<dlgitem id="502" text="Aşağıdaki listedeki uygulamalar %s yı açtıklarında uyarı mesajı göstermeyecek" left="11" top="12" width="508" height="21"/>
 <dlgitem id="503" text="Specify Apps Allow" left="11" top="39" width="508" height="121"/>
-<dlgitem id="501" text="Apps" left="11" top="168" width="508" height="257"/>
+<dlgitem id="501" text="Uygulamalar" left="11" top="168" width="508" height="257"/>
 </Dialog>
 <Dialog id="1330" text="Farklı Kaydet" left="0" top="0" width="578" height="418">
 <dlgitem id="1" text="Tamam" left="359" top="354" width="88" height="25"/>
@@ -2924,8 +2930,8 @@
 <dlgitem id="1335" text="New file name:" left="58" top="287" width="110" height="18"/>
 <dlgitem id="1336" text="" left="175" top="285" width="210" height="26"/>
 <dlgitem id="1337" text="" left="123" top="198" width="119" height="23"/>
-<dlgitem id="512" text="Add label before the original file name" left="88" top="228" width="235" height="18"/>
-<dlgitem id="513" text="Add label after the original file name" left="88" top="259" width="235" height="18"/>
+<dlgitem id="512" text="Orijinal dosya adından sonra etiketi ekle" left="88" top="228" width="235" height="18"/>
+<dlgitem id="513" text="Orijinal dosya adından sonra etiketi ekle" left="88" top="259" width="235" height="18"/>
 </Dialog>
 </Dialogs>
 <Strings>
@@ -2934,14 +2940,14 @@
 <string id="91" text="XFDF\nXFDF\nXFDF Dosyaları(*.xfdf)\n.xfdf\nFoxitReader.XFDFDoc\nFoxit Reader Belgesi"/>
 <string id="92" text="XDP\nXDP\nXDP Dosyaları(*.xdp)\n.xdp\nFoxitReader.XDPDoc\nFoxit Reader Belgesi"/>
 <string id="616" text="OLE başlatma başarısız. OLE kitaplık sürümünün doğruluğundan emin olun.."/>
-<string id="617" text="Add to the privileged location list to bypass the restrictions of safe reading mode. See more details in Preferences-&gt;Security."/>
+<string id="617" text="Güvenli okuma modu kısıtlamalarını atlatmak için ayrıcalıklı yer listesine ekle. Daha fazla bilgi için Tercihler-&gt;Güvenlik."/>
 <string id="618" text="Ad"/>
 <string id="619" text="Yol"/>
-<string id="620" text="Applications in the list below will not show warning messages when they open %s"/>
+<string id="620" text="Aşağıdaki listedeki uygulamalar %s yı açtıklarında uyarı mesajı göstermeyecek"/>
 <string id="621" text="PhantomPDF"/>
 <string id="622" text="Okuyucu"/>
 <string id="623" text="Open %s from applications without valid digital signatures"/>
-<string id="624" text="%s will show a warning message when an application without a vaild digital signature attempts to open it. \n \nYou can add trusted applications using the button below."/>
+<string id="624" text="Bir uygulama geçerli bir dijital imzası olmadan açmaya çalıştığında %s bir uyarı penceresi gösterir. Aşağıdaki düğmeyi kullanarak güvenilen uygulamalara ekleyebilirsiniz.."/>
 <string id="625" text="The App already exists. The addition is invalid."/>
 <string id="626" text="The following characters can't be included in file name:"/>
 <string id="641" text="Deneme kullanıcısı"/>
@@ -2957,7 +2963,7 @@
 <string id="651" text="Foxit PhantomPDF Express"/>
 <string id="652" text="Farklı Kaydet"/>
 <string id="653" text="Belgenizin ayrıcalıklı bir konuma eklemeden önce kaydedilmesi gerekir . Belgeyi kaydetmek ve devam etmek istiyor musunuz??"/>
-<string id="654" text="Add the path already exists."/>
+<string id="654" text="Var olan mevcut yolu ekle."/>
 <string id="655" text="Eklenecek klasör seç:"/>
 <string id="656" text="ASUS için Foxit PhantomPDF İş Sürümü"/>
 <string id="657" text="ASUS için Foxit PhantomPDF Standard"/>
@@ -3068,7 +3074,7 @@
 <string id="765" text="Protect your  PDF files with  PhantomPDF  Business"/>
 <string id="766" text="Protect your  PDF files with  PhantomPDF  Standard"/>
 <string id="767" text="HP için Foxit PhantomPDF Express"/>
-<string id="768" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
+<string id="768" text="2004-2017 Foxit Yazılım Şirketi. Tüm hakları saklıdır.."/>
 <string id="769" text="This file is set to be launched by this PDF program but the operation is not allowed because you are currently in safe reading mode. You can click the Preferences item in the File menu, then uncheck the 'Enable Safe Reading Mode' box in order to launch this file."/>
 <string id="770" text="Destek"/>
 <string id="771" text="Bu belge bir e-posta göndermeye çalışıyor: \n\n%s\n\nEğer e-posta güvenli ise, &quot;Evet&quot;i, aksi takdirde &quot;Hayır&quot;ı tıklayın."/>
@@ -3198,7 +3204,7 @@
 <string id="895" text="Gezinti Panellerini Göster"/>
 <string id="896" text="Görev Bölmesini Göster(&amp;P)"/>
 <string id="897" text="Başla"/>
-<string id="898" text="%s%[1] has recovered one or more documents that were not saved properly before %s%[2] was shut down. Click Yes to open the recovered documents. If you click No, your changes will be lost."/>
+<string id="898" text="%s%[1], kapatılmadan önce düzgün kaydedilmeyen bir veya daha fazla dokümanı kurtardı. Kurtarılmış dosyaları açmak için Evet düğmesine basın. Hayır düğmesine basarsanız, değişiklikler kaybolacak.."/>
 <string id="899" text="İlk sayfa"/>
 <string id="900" text="Son sayfa"/>
 <string id="901" text="Sonraki sayfa"/>
@@ -3207,11 +3213,11 @@
 <string id="904" text="Önceki görünüm"/>
 <string id="905" text="Telif Hakkı"/>
 <string id="906" text="Telif Hakkı"/>
-<string id="907" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
-<string id="908" text="2004-2017 Foxit Software Inc. All Rights Reserved."/>
+<string id="907" text="2004-2017 Foxit Yazılım Şirketi. Tüm hakları saklıdır.."/>
+<string id="908" text="2004-2017 Foxit Yazılım Şirketi. Tüm hakları saklıdır.."/>
 <string id="909" text="Hakkında %s(&amp;A)"/>
 <string id="910" text="Hakkında %s(&amp;A)"/>
-<string id="911" text="8.3.0.65535"/>
+<string id="911" text="8.3.1.65535"/>
 <string id="912" text="Sürüm:"/>
 <string id="913" text="Erişim Hakkı"/>
 <string id="914" text="Atanmış"/>
@@ -3528,7 +3534,7 @@
 <string id="1227" text="doğrulama başarısız"/>
 <string id="1228" text="değer!"/>
 <string id="1229" text="Mesaj sınırı aşıldı. Kalan %d doğrulama hatalası raporu bildirilemedi."/>
-<string id="1230" text="At least one required field was empty. Please fill in the required fields \n(highlighted) before continuing."/>
+<string id="1230" text="Gerekli en az bir alan boş. Devam etmeden önce lütfen gerekli alanları (işaretli) doldurunuz.."/>
 <string id="1231" text="Tüm sekmelerdeki belgeyi bir seferde yazdır"/>
 <string id="1232" text="Foxit Software Inc. ana sayfasını ziyaret edin\nFoxit Ana Sayfası"/>
 <string id="1233" text="Kullanıcı kılavuzunu PDF biçiminde aç\nKullanıcı Kılavuzu"/>
@@ -3605,11 +3611,12 @@
 <string id="1326" text="Want to keep the ribbon visible always? Pin the ribbon to keep it open while you work."/>
 <string id="1327" text="Pin the Ribbon"/>
 <string id="1328" text="Converting CAD files to PDF is currently in beta. To enable CAD conversion, click on Help &gt; Foxit Plug-Ins, find the DWG2PDF plugin, and click on the icon on the right side to turn it on. Then, convert this file again."/>
-<string id="1329" text="2004-2017 Foxit Software Inc. and IMSI/Design. All Rights Reserved."/>
+<string id="1329" text="2004-2017 Foxit Yazılım Şirketi ve IMSI/Design. Tüm hakları saklıdır.."/>
 <string id="1344" text="Önce"/>
 <string id="1345" text="Sonra"/>
 <string id="1346" text="Restart the application in order for these changes to take effect."/>
 <string id="1347" text="Evet"/>
+<string id="1358" text="ın"/>
 <string id="32768" text="Show help for using %s through a command line\nCommand Line Help"/>
 <string id="32770" text="Set %s as the default PDF reader\nSet to Default PDF Reader"/>
 <string id="57345" text="Hazır"/>
@@ -3707,7 +3714,7 @@
 </Dialog>
 <Dialog id="177" text="İletişim" left="0" top="0" width="494" height="228">
 <dlgitem id="1080" text="%s için büyük bir güncelleme şu anda mevcut." left="21" top="23" width="455" height="42"/>
-<dlgitem id="1081" text="Click on “More Info” to see what’s new in the new version. You can download a 14-day free trial or choose to upgrade. \nNote: Your current license will not work with this new version. An upgrade license(with extra fee) is required." left="21" top="79" width="446" height="56"/>
+<dlgitem id="1081" text="Yeni sürümde nelerin yeni olduğunu görmek için &quot;Daha Fazla Bilgi&quot; ye tıklayın. 14 günlük bedava deneme sürümünü indirebilir veya sürümü yükseltmeyi seçebilirsiniz.\nNot: Mevcut lisansınız yeni versiyonla çalışmayacak. Yükseltme lisansı (ilave ücret ile) gereklidir." left="21" top="79" width="446" height="56"/>
 <dlgitem id="1077" text="İptal" left="383" top="151" width="79" height="25"/>
 <dlgitem id="1" text="More Info" left="289" top="151" width="79" height="25"/>
 </Dialog>
@@ -3826,12 +3833,12 @@
 <string id="10756" text="İndirme Hızı:"/>
 <string id="10757" text="Yeniden başlat"/>
 <string id="10758" text="Şimdi güncelleştiriliyor. Lütfen, bekleyin..."/>
-<string id="10759" text="%s%[1] is downloading the lastest %s%[2] version now,  are you sure you want to quit?"/>
+<string id="10759" text="%s%[1] şu an en son sürümü indiriyor. Çıkman istediğinize emin misiniz??"/>
 <string id="10760" text="Güncelleme denetimi başarısız. Lütfen tekrar deneyin."/>
 <string id="10788" text="Modül bulunamadı. Şu adresten indirebilirsiniz: http://www.foxitsoftware.com/downloads/"/>
 <string id="10789" text="The language you have selected is not available. To become a volunteer UI translator, please visit: http://languages.foxitsoftware.com"/>
 <string id="10792" text="%s eklentileri yüklüyor, vazgeçmek istediğinizden emin misiniz??"/>
-<string id="10793" text="%s%[1] main program does not exist, %s%[2] can not be run independently."/>
+<string id="10793" text="%s%[1] ana program mevcut değil. %s%Set Status bağımsız olarak çalıştırılamaz.."/>
 <string id="10794" text="Güncelleme tamamlandı."/>
 <string id="10796" text="Aynı zamanda, uygulama ve eklentileri güncelleyemezsiniz."/>
 <string id="10798" text="New update(s) for %s are available. Click Install to install the update(s), or click the link below for more information (opens in a web browser)."/>
@@ -4717,7 +4724,7 @@
 <dlgitem id="13393" text="Geri" left="373" top="355" width="88" height="25"/>
 <dlgitem id="13395" text="İptal" left="26" top="355" width="88" height="25"/>
 </Dialog>
-<Dialog id="9730" text="Choose Pages" left="0" top="0" width="588" height="366">
+<Dialog id="9730" text="Sayfaları Seç" left="0" top="0" width="588" height="366">
 <dlgitem id="1" text="Tamam(&amp;O)" left="365" top="304" width="75" height="23"/>
 <dlgitem id="2" text="İptal(&amp;C)" left="458" top="304" width="75" height="23"/>
 <dlgitem id="13562" text="" left="381" top="20" width="155" height="236"/>
@@ -4739,9 +4746,9 @@
 <dlgitem id="1" text="Tamam(&amp;O)" left="369" top="310" width="75" height="23"/>
 <dlgitem id="2" text="İptal(&amp;C)" left="458" top="310" width="75" height="23"/>
 <dlgitem id="21123" text="" left="381" top="36" width="162" height="249"/>
-<dlgitem id="13582" text="Add All &gt;&gt;(&amp;A)" left="149" top="262" width="75" height="23"/>
-<dlgitem id="13581" text="&lt;Remove(&amp;R)" left="149" top="202" width="75" height="23"/>
-<dlgitem id="13573" text="Add&gt;(&amp;d)" left="149" top="141" width="75" height="23"/>
+<dlgitem id="13582" text="Hepsini Ekle &gt;&gt;(&amp;A)" left="149" top="262" width="75" height="23"/>
+<dlgitem id="13581" text="&lt;Kaldır(&amp;R)" left="149" top="202" width="75" height="23"/>
+<dlgitem id="13573" text="Ekle&gt;(&amp;d)" left="149" top="141" width="75" height="23"/>
 <dlgitem id="13574" text="" left="252" top="137" width="104" height="151"/>
 <dlgitem id="13575" text="" left="26" top="137" width="104" height="151"/>
 <dlgitem id="13578" text="Sheets in Excel" left="20" top="119" width="116" height="176"/>
@@ -4760,7 +4767,7 @@
 <string id="9620" text="Tekrar sorma(&amp;D)"/>
 <string id="9621" text="The pages of &quot;%s%[1]&quot; are more than %d%[2]. Handling large files will occupy more of your computer's resources. Would you like to continue?"/>
 <string id="9622" text="The file size of &quot;%s%[1]&quot; is larger than %d%[2] MB. Handling large files will occupy more of your computer's resources. Would you like to continue?"/>
-<string id="9623" text="All Supported Files (*.*)|*.fdf;*.xml;*.xfdf;*.txt|PDF Form Data Files (*.fdf)|*.fdf|XML Files (*.xml)|*.xml|XFDF Files (*.xfdf)|*.xfdf|Text Files (*.txt)|*.txt|CSV Files (*.csv)|*.csv||"/>
+<string id="9623" text="Tüm Desteklenen Dosyalar (*.*)|*.fdf;*.xml;*.xfdf;*.txt|PDF Form Data Files (*.fdf)|*.fdf|XML Files (*.xml)|*.xml|XFDF Files (*.xfdf)|*.xfdf|Text Files (*.txt)|*.txt|CSV Files (*.csv)|*.csv||"/>
 <string id="9624" text="PDF Form Data Dosyaları (*.FDF)|*.FDF|All Files (*.*)|*.*||"/>
 <string id="9625" text="Tüm Görüntü Dosyaları|*.bmp;*.dib;*.jpg;*.jpeg;*.jpe;*.ico;*.gif;*.wmf;*\n.emf;*.png;*.tiff;*.tif|\nBMP(*.bmp,*.dib)|*.bmp;*.dib|\nJPEG(*.jpg,*.jpeg,*.jpe)|*.jpg;*.jpeg;*.jpe|\nICO(*.ico)|*.ico|\nGIF(*.gif)|*.gif|\nWindows Metafile(*.wmf,*.emf)|*.wmf;*.emf|\nPNG(*.png)|*.png|\nTIFF(*.tiff,*.tif)|*.tiff;*.tif|"/>
 <string id="9626" text="PDF Form Verisi Dosyaları (*.fdf)|*.fdf||"/>
@@ -4957,8 +4964,15 @@
 <string id="10250" text="ConnectedPDF"/>
 <string id="10251" text="ConnectedPDF"/>
 <string id="10252" text="Connected Discussion"/>
-<string id="10253" text="Plugin is loading. Please try it again later."/>
-<string id="10254" text="Internet connection is required to use this feature. Please check your network and try again."/>
+<string id="10253" text="Discussion board"/>
+<string id="10254" text="Use the discussion board to view and add web-based discussion on the document."/>
+<string id="10255" text="Form Distribution"/>
+<string id="10256" text="Plugin is loading. Please try it again later."/>
+<string id="10257" text="Internet connection is required to use this feature. Please check your network and try again."/>
+<string id="10258" text="Loading JS plug-in ..."/>
+<string id="10259" text="Learn More"/>
+<string id="10260" text="I Know"/>
+<string id="10261" text="Paylaş"/>
 </Strings>
 </JavaScript_DLL>
 <LayerPanelTool_DLL>
@@ -5355,7 +5369,7 @@
 <dlgitem id="17698" text="Reddet" left="293" top="33" width="60" height="16"/>
 <dlgitem id="17699" text="Tamamlandı" left="23" top="55" width="75" height="16"/>
 <dlgitem id="17700" text="İptal et" left="150" top="55" width="71" height="16"/>
-<dlgitem id="17704" text="Clear Selection" left="23" top="309" width="89" height="23"/>
+<dlgitem id="17704" text="Seçileni Temizle" left="23" top="309" width="89" height="23"/>
 <dlgitem id="17705" text="" left="23" top="98" width="330" height="211"/>
 <dlgitem id="0" text="" left="0" top="0" width="326" height="0"/>
 </Dialog>
@@ -5404,10 +5418,10 @@
 <string id="12223" text="Sayfa %d"/>
 <string id="12224" text="Yorumları Sil"/>
 <string id="12225" text="Durumu Ayarla"/>
-<string id="12226" text="Accepted by:"/>
+<string id="12226" text="tarafından kabul edildi:"/>
 <string id="12227" text="Rejected by:"/>
-<string id="12228" text="Cancelled by:"/>
-<string id="12229" text="Completed by:"/>
+<string id="12228" text="Tarafından iptal edildi:"/>
+<string id="12229" text="Tarafından tamamlandı:"/>
 <string id="12230" text="Email: \n%s"/>
 <string id="12231" text="Total: %d"/>
 <string id="12232" text="Filtre"/>
@@ -5839,7 +5853,7 @@
 <string id="12953" text="Kenarlık\nKenarlık yok"/>
 <string id="12954" text="İnce\nOrta\nKalın\nKenarlık yok"/>
 <string id="12955" text="0\n90\n180\n270"/>
-<string id="12956" text="All Image Files(*.bmp;*.dib;*.jpg;*.jpeg;*.jpe;*.ico;*.gif;*.wmf;*.emf;*.png;*.tif;*.tiff)|*.bmp;*.dib;*.jpg;*.jpeg;*.jpe;*.ico;*.gif;*.wmf;*.emf;*.png;*.tif;*.tiff|"/>
+<string id="12956" text="Tüm Resim Dosyaları(*.bmp;*.dib;*.jpg;*.jpeg;*.jpe;*.ico;*.gif;*.wmf;*.emf;*.png;*.tif;*.tiff)|*.bmp;*.dib;*.jpg;*.jpeg;*.jpe;*.ico;*.gif;*.wmf;*.emf;*.png;*.tif;*.tiff|"/>
 <string id="12957" text="%s'den medya klibi"/>
 <string id="12958" text="Olan Bir Sahnelemeden Kopyalarak...(&amp;C)"/>
 <string id="12959" text="Bir Dosya Kullan...(&amp;F)"/>
@@ -6241,7 +6255,7 @@
 <string id="15462" text="Dosya içeriği katmanında yorumları, açıklamaları vs. birleştir"/>
 <string id="15463" text="Geçerli belgeyi iyileştir"/>
 <string id="15464" text="Belge İyileştiriliyor..."/>
-<string id="15465" text="An unexpected error has occurred during the convert process."/>
+<string id="15465" text="Dönüştürme işlemi sırasında umulmayan bir hata çıktı."/>
 <string id="15466" text="Paketi alma başarısız: %s!"/>
 <string id="15467" text="PDF/A kütüphanesi başlatılamadı!"/>
 <string id="15468" text="PDF İyileştirici"/>
@@ -6693,7 +6707,7 @@
 <string id="17556" text="Oluştur, yönet ve ıslak imza uygula"/>
 <string id="17557" text="PDF İmza"/>
 <string id="17558" text="PDF İmza"/>
-<string id="17559" text="'&lt;type here to insert text&gt;' is a predefined text, you must select one from the drop-down menu or create a new one."/>
+<string id="17559" text="'&lt;Metin eklemek için buraya yazın&gt;' önceden tanımlı bir metindir. Listeden bir tanesini seçmeli veya yeni bir tane oluşturmalısınız.."/>
 <string id="17560" text="Bu bir PDF Portfolyo dosyasıdır. Lütfen devam etmek için tek bir PDF seçin."/>
 <string id="17561" text="Açıklama"/>
 <string id="17562" text="Damgalar"/>
@@ -6811,7 +6825,7 @@
 <string id="17674" text="Burayı İmzala"/>
 <string id="17675" text="Burayı İmzala(&amp;H)"/>
 <string id="17676" text="Bu şifreli belgeye erişim hakları yoktur."/>
-<string id="17677" text="All signatures, text objects and other annotations will be embedded into the document. This operation cannot be undone. Do you want to proceed?"/>
+<string id="17677" text="Tüm imzalar, metin nesneleri ve diğer yorumlar belge içine gömülecek. Bu işlem geri alınamaz. Devam etmek ister misin?"/>
 <string id="17678" text="Kapat"/>
 <string id="17679" text="İmza Düzenle"/>
 <string id="17680" text="Keep Tool Selected"/>
@@ -6838,7 +6852,7 @@
 <string id="17701" text="Elips Damga (Yeşil)"/>
 <string id="17702" text="Şu karakterler kullanılamaz: , /, :, * ,?, &quot;, &lt; ,&gt;, |,."/>
 <string id="17703" text="This will make all signatures, text objects and other annotations being embedded into the document."/>
-<string id="17704" text="%d%[1] out of %d%[2] images"/>
+<string id="17704" text="%d%Set Status resimden %d%[1] tanesi"/>
 <string id="17705" text="'%s' Oluştur"/>
 <string id="17706" text="'%s' Taşı"/>
 <string id="17707" text="desteklenmeyen bir güvenlik işleyici tarafından şifrelendi."/>
@@ -6846,6 +6860,7 @@
 <string id="17709" text="Geçersiz"/>
 <string id="17710" text="Kanıt"/>
 <string id="17711" text="Updating data"/>
+<string id="17712" text="Failed to create stamp from clipboard."/>
 </Strings>
 </RStampAnnot_DLL>
 <Scanner_DLL>
@@ -7021,7 +7036,7 @@
 <string id="18081" text="Custom Preset 2"/>
 <string id="18082" text="Custom Preset 3"/>
 <string id="18083" text="DPI ayarları"/>
-<string id="18084" text="Add document information to the current PDF"/>
+<string id="18084" text="Belge bilgisini geçerli PDF belgesine ekle"/>
 <string id="18085" text="Lütfen geçerli bir aralık değeri girin."/>
 <string id="18086" text="Full Platen"/>
 <string id="18087" text="Önayar adı boş olamaz, lütfen tekrar girin."/>
@@ -7810,7 +7825,7 @@
 <string id="19981" text="Başla"/>
 <string id="19982" text="The &quot;Foxit Account Management&quot; plugin is required to use this feature. Ensure it is installed and enabled, then try again."/>
 <string id="19984" text="The &quot;ConnectedPDF&quot; plugin is required to use this feature. Ensure it is installed and enabled, then try again."/>
-<string id="19985" text="%s is already signed in. If you want to sign in with another account, please sign out first."/>
+<string id="19985" text="%s zaten oturum açmış. Başka bir hesap ile oturum açmak için, lütfen önce oturumdan çıkın.."/>
 </Strings>
 </StartPage_DLL>
 <TextAnnot_Dll>
@@ -7870,7 +7885,7 @@
 <dlgitem id="31768" text="0" left="179" top="37" width="79" height="14"/>
 <dlgitem id="31761" text="Lines" left="18" top="114" width="40" height="14"/>
 <dlgitem id="31762" text="Non-Asian words" left="18" top="133" width="93" height="14"/>
-<dlgitem id="31763" text="Asian characters, Korean words" left="18" top="152" width="149" height="14"/>
+<dlgitem id="31763" text="Asya karakterleri, Korece kelimeler" left="18" top="152" width="149" height="14"/>
 <dlgitem id="31766" text="0" left="179" top="133" width="79" height="14"/>
 <dlgitem id="31764" text="0" left="179" top="152" width="79" height="14"/>
 <dlgitem id="31765" text="0" left="179" top="114" width="79" height="14"/>
@@ -8143,7 +8158,7 @@
 <string id="21798" text="Times Roman"/>
 <string id="21799" text="ZapfDingbats"/>
 <string id="21800" text="Cross something out by drawing a line through it"/>
-<string id="21801" text="Align the bottom side of all selected objects"/>
+<string id="21801" text="Tüm seçili nesnelerin alt köşesini hizala"/>
 <string id="21802" text="Seçili tüm nesneleri yatay olarak hizala"/>
 <string id="21803" text="Seçili tüm nesneleri sol tarafa hizala"/>
 <string id="21804" text="Seçili tüm nesneleri sağ tarafa hizala"/>
